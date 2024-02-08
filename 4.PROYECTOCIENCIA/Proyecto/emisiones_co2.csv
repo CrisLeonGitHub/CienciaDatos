@@ -1,0 +1,1955 @@
+Car,Model,Volume,Weight,CO2
+Toyota,Aygo,1000,790,99
+Mitsubishi,Space Star,1200,1160,95
+Skoda,Citigo,1000,929,95
+Fiat,500,900,865,90
+Mini,Cooper,1500,1140,105
+VW,Up!,1000,929,105
+Skoda,Fabia,1400,1109,90
+Mercedes,A-Class,1500,1365,92
+Ford,Fiesta,1500,1112,98
+Audi,A1,1600,1150,99
+Hyundai,I20,1100,980,99
+Suzuki,Swift,1300,990,101
+Ford,Fiesta,1000,1112,99
+Honda,Civic,1600,1252,94
+Hundai,I30,1600,1326,97
+Opel,Astra,1600,1330,97
+BMW,1,1600,1365,99
+Mazda,3,2200,1280,104
+Skoda,Rapid,1600,1119,104
+Ford,Focus,2000,1328,105
+Ford,Mondeo,1600,1584,94
+Opel,Insignia,2000,1428,99
+Mercedes,C-Class,2100,1365,99
+Skoda,Octavia,1600,1415,99
+Volvo,S60,2000,1415,99
+Mercedes,CLA,1500,1465,102
+Audi,A4,2000,1490,104
+Audi,A6,2000,1725,114
+Volvo,V70,1600,1523,109
+BMW,5,2000,1705,114
+Mercedes,E-Class,2100,1605,115
+Volvo,XC70,2000,1746,117
+Ford,B-Max,1600,1235,104
+BMW,2,1600,1390,108
+Opel,Zafira,1600,1405,109
+Mercedes,SLK,2500,1395,120
+Suzuki,JB420 Grand Nomade 2.0 Lts. DOHC 4WD Station Wagon 5P. T/M Motor Otto,2000,1588,261
+Suzuki,JB420 Grand Nomade 2.0 Lts. DOHC 2WD Station Wagon 5P. T/M Motor Otto,2000,1588,261
+Suzuki,JB416 Grand Vitara 1.6 Lts. DOHC Station Wagon 4WD 3P. T/M Motor Otto,1600,1588,229
+Toyota,Yaris 1.5 Lts. DOHC Sedan 4P. T/M Motor Otto,1500,1247,154
+Toyota,Yaris Sport 1.5 Lts. DOHC Hatch Back 3P. T/M Motor Otto,1500,1247,154
+Toyota,Yaris Sport 1.5 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1500,1247,154
+Toyota,Yaris 1.5 Lts. DOHC Sedan 4P. T/A Motor Otto,1500,1247,165
+Toyota,Yaris Sport 1.5 Lts.DOHC Hatch Back 3P. T/A Motor Otto,1500,1247,165
+Toyota,Yaris Sport 1.5 Lts. DOHC Hatch Back 5P. T/A Motor Otto,1500,1247,165
+Chevrolet,Aveo LT NB AC 1.4 Lts. DOHC Sedan 4P. T/M Motor Otto,1400,1474,180
+Chevrolet,Aveo LS NB AC 1.4 Lts. DOHC Sedan 4P. T/M Motor Otto,1400,1474,180
+Chevrolet,Aveo LS HB 1.4 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1400,1474,180
+Chevrolet,Aveo LS HB 1.4 Lts. DOHC Hatch Back 3P. T/M Motor Otto,1400,1474,180
+Alfa Romeo,159 2.2 Lts. JTS 16v DOHC Sedan 4P. T/M Motor Otto,2200,1531,246
+Alfa Romeo,Brera 2.2Lts.  JTS 16v DOHC Hatch Back 3P. T/M Motor Otto,2200,1474,246
+Alfa Romeo,159 Spider 2.2 Lts. JTS 16v DOHC Convertible 2P. T/M Motor Otto,2200,1814,246
+Citroen,C1 1.0 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1000,1474,120
+Citroen,C1 1.0 Lts. DOHC Hatch Back 3P. T/M Motor Otto,1000,1474,120
+Suzuki,SX4 1.6 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1600,1474,156
+Suzuki,SX4 1.6 Lts. DOHC Sedan 4P. T/M Motor Otto,1600,1474,156
+Suzuki,Grand Nomade JB419 1.9 Lts. SOHC Station Wagon 5P 4x4 T/M Motor Diesel,1900,1247,210
+BMW,X3 3.0i Lts. DOHC Station Wagon 5P. 4x4 T/A Motor Otto,3000,1701,210
+BMW,X3 2.5i Lts. DOHC Station Wagon 5P. 4x4 T/A Motor Otto,2500,1701,210
+Kia,Carens UN 2.0 Lts. SOHC Station Wagon 5P. (7 pasajeros) T/A Motor Diesel,2000,1247,200
+Kia,Carens UN 2.0 Lts. SOHC Station Wagon 5P. (5 pasajeros) T/A Motor Diesel,2000,1247,200
+Suzuki,SX4 1.6 Lts. DOHC Hatch Back 5P. T/A Motor Otto,1600,1474,167
+Suzuki,SX4 1.6 Lts. DOHC Sedan 4P T/A Motor Otto,1600,1474,167
+Hyundai,Veracruz 3.8 Lts. DOHC Station Tipo Jeep 4x4 5P. T/A Motor Otto,3800,1474,291
+Alfa Romeo,159 Q4 3.2 Lts. JTS 32v DOHC Sedan 4P. 4x4 T/A Motor Otto,3200,1814,286
+Alfa Romeo,159 SW Q4 3.2 Lts. JTS 32v DOHC Station 5P. 4x4 T/A Motor Otto,3200,1814,286
+Land Rover,Freelander 2 I6 (HSE/SE/S) 3.2 Lts. DOHC Station Wagon 5P. 4x4 T/A Motor Otto,3200,1247,273
+Chery,QQ 0.8 Lts. DOHC MPI Hatch Back 5P. T/M Motor Otto,800,1474,146
+Chery,QQ 1.1 Lts. DOHC MPI Hatch Back 5P. T/M Motor Otto,1100,1474,165
+Mitsubishi,Lancer 2.0 Lts. DOHC 16v Sedan 4P. T/A Motor Otto,2000,1588,201
+Chery,S21 1.3 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1300,1474,185
+Chery,Face 1.3 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1300,1247,185
+Mitsubishi,Lancer 2.0 Lts. DOHC 16v Sedan 4P. T/M Motor Otto,2000,1588,203
+Chevrolet,Corvette Z06 7.0 Lts. V8 OHV Coupe 2P. T/M Motor Otto,7000,1134,325
+Toyota,FJ Cruiser 4.0 Lts. DOHC Wagon Tipo Jeep 4x4 T/A Motor Otto,4000,1247,273
+Toyota,FJ Cruiser 4.0 Lts. DOHC Wagon Tipo Jeep 4x4 T/M Motor Otto,4000,1247,259
+Mazda,Mazda2 1.5 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1500,1814,155
+Peugeot,107 1.0 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1000,0,107
+Peugeot,107 1.0 Lts. DOHC Hatch Back 3P. T/M Motor Otto,1000,0,107
+Mazda,Mazda2 1.5 Lts. DOHC Hatch Back 5P. T/A Motor Otto,1500,1814,174
+Nissan,X-Trail T31 2.5 Lts. DOHC Station Wagon 5P. 4x4 T/A Motor Otto,2500,1247,214
+Nissan,X-Trail T31 2.5 Lts. DOHC Station Wagon 5P. 4x2 T/A Motor Otto,2500,1247,214
+Nissan,X-Trail T-31 2.5 Lts. DOHC Station Wagon 5P. 4x4 T/M Motor Otto,2500,1247,234
+Peugeot,308 1.6 Lts. Vti DOHC Hatch Back 5P. T/M Motor Otto,1600,1701,157
+Peugeot,308 1.6 Lts. Vti DOHC Hatch Back 3P. T/M Motor Otto,1600,1701,157
+Peugeot,308 1.6 Lts. Vti DOHC Station Wagon Confort Pack 5P. T/M Motor Otto,1600,1701,157
+Peugeot,308 1.6 Lts. THP DOHC Hatch Back 5P. T/M Motor Otto,1600,1701,170
+Peugeot,308 1.6 Lts. THP DOHC Hatch Back 3P. T/M Motor Otto,1600,1701,170
+Mitsubishi,Outlander 3.0 Lts. SOHC Station Wagon 5P. 4x4 T/A (CVT) 5 pasajeros Motor Otto,3000,1474,242
+Mitsubishi,Outlander 3.0 Lts. SOHC Station Wagon 5P. 4x4 T/A (CVT) 7 pasajeros Motor Otto,3000,1474,242
+Citroen,C4 Picasso 2.0 Lts. DOHC Station 5P. T/A Motor Otto,2000,1247,224
+Lexus,IS 250 V6 2.5 Lts. DOHC Sedan 4P. 2WD T/A Motor Otto,2500,1588,214
+Lexus,IS 250C V6 2.5 Lts. DOHC Convertible 2P. 2WD T/A Motor Otto,2500,1588,214
+Mazda,Mazda6 2.5 Lts. DOHC Hatch Back 5P. T/A Motor Otto,2500,1814,209
+Mazda,Mazda6 2.5 Lts. DOHC Sedan 4P. T/A Motor Otto,2500,1814,209
+Mazda,Mazda6 2.0 Lts. DOHC Sedan 4P. T/A Motor Otto,2000,1814,195
+Mazda,Mazda6 2.0 Lts. DOHC Wagon 5P. T/A Motor Otto,2000,1814,195
+Mazda,Mazda6 2.0 Lts. DOHC Sedan 4P. T/M Motor Otto,2000,1814,185
+Fiat,Bravo 1.4 Lts. MPI DOHC Hatch Back 5P. T/M Motor Otto,1400,1474,188
+Fiat,Bravo 1.4 Lts. MPI DOHC Hatch Back 3P. T/M Motor Otto,1400,1474,188
+M. Benz,C 63 AMG 6.2 Lts. DOHC Sedan 4P. T/A Motor Otto,6200,1474,283
+Nissan,Qashqai 2.0 Lts. DOHC Station Wagon 5P. 4x4 T/M 5/7 Asientos Motor Otto,2000,1474,184
+Nissan,Qashqai 2.0 DOHC Station Wagon 5P. 4x2 T/M 5/7 Asientos Motor Otto,2000,1474,184
+Nissan,Qashqai 1.6 Lts. DOHC Station Wagon 5P. 4x2 T/M 5/7 Asientos Motor Otto,1600,1474,141
+BMW,135 CiA 3.0 Lts. DOHC Cabriolet 2P. T/A Motor Otto,3000,0,200
+BMW,135 CiA 3.0 Lts. DOHC Coupe 2P. T/A Motor Otto,3000,0,198
+Nissan,Qashqai 2.0 Lts. DOHC Station Wagon 5P. 4x4 T/A (CVT) 5/7 Asientos Motor Otto,2000,1474,189
+Nissan,Qashqai 2.0 Lts. DOHC Station Wagon 5P. 4x2 T/A (CVT) 5/7 Asientos Motor Otto,2000,1474,189
+BMW,120 CiA 2.0 Lts. DOHC Cabriolet 2P. T/A Motor Otto,2000,0,193
+Renault,Koleos 2.5 Lts. DOHC Station 5P. T/A Motor Otto,2500,1588,223
+Renault,Koleos 2.5 Lts. DOHC Station 5P. T/M Motor Otto,2500,1588,225
+Dodge,Journey SXT 2.4 Lts. DOHC Station Wagon 5P. T/A Motor Otto,2400,1588,225
+Dodge,Journey SE 2.4 Lts. DOHC Station Wagon 5P. T/A Motor Otto,2400,1588,225
+BMW,M3 4.0 Lts. V8 DOHC Coupe 2P. T/A Motor Otto,4000,1814,263
+BMW,M3 4.0 Lts. V8 DOHC Sedan 4P. T/A Motor Otto,4000,1814,263
+BMW,M3 4.0 Lts. V8 DOHC Cabriolet 2P. T/A Motor Otto,4000,1814,269
+BMW,125 CiA 3.0 Lts. DOHC Coupe 2P. T/A Motor Otto,3000,0,198
+Jaguar,XF 2.97 Lts. DOHC Sedan 4P T/A Motor Otto,3000,1247,254
+Toyota,Auri 1.6 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1600,1474,172
+Audi,A4 1.8 Lts. T-FSI DOHC Station Wagon 5P. T/A Motor Otto,1800,1474,231
+Audi,A4 1.8 Lts. T-FSI DOHC Sedan 4P. T/A Motor Otto,1800,1474,231
+Maserati,Granturismo S 4.7 Lts. DOHC 32v Coupe 2P. T/M Secuencial Motor Otto,4700,1247,341
+Maserati,Granturismo MC Stradale 4.7 Lts. DOHC 32v Coupe 2P. T/M Secuencial Motor Otto,4700,1247,337
+Maserati,Granturismo Sport 4.7 Lts. DOHC 32v Coupe 2P. T/M Secuencial Motor Otto,4700,1247,337
+Audi,A3 1.8 Lts. T-FSI DOHC Hatch Back 5P. T/M Motor Otto,1800,1474,157
+Audi,A3 1.8 Lts. T-FSI DOHC Hatch Back 3P. T/M Motor Otto,1800,1474,154
+Fiat,500 1.4 Lts. 16v Sport DOHC Hatch Back 3P. T/M Motor Otto,1400,1701,178
+Fiat,500 1.4 Lts. 16v Sport DOHC Cabriolet 2P. T/M Motor Otto,1400,1701,178
+Fiat,500 Longe 1.4 Lts. 16v DOHC Dualogic Hatch Back 3P. T/M Motor Otto,1400,1701,146
+Citroen,Berlingo Multispace 1.6 Lts. DOHC Station 5P. T/M Motor Otto,1600,1474,194
+Mitsubishi,New Outlander 2.4 Lts. DOHC 16v Station Wagon 5P. T/M Motor Otto,2400,1814,192
+M. Benz,GLK 300 3.0 Lts. DOHC Station Wagon 5P. 4x4 T/A Motor Otto,3000,1247,242
+Kia,Cerato 1.6 Lts. DOHC Sedan 4P. T/A Motor Otto,1600,1474,171
+Kia,Cerato 1.6 Lts. DOHC Hatch Back 5P. T/A Motor Otto,1600,1474,171
+Kia,Cerato 1.6 Lts. DOHC Sedan 4P. T/M Motor Otto,1600,1474,162
+Kia,Cerato 1.6 Lts. DOHC Coupe 2P. T/M Motor Otto,1600,1474,162
+Kia,Cerato 1.6 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1600,1474,162
+Mitsubishi,Lancer Evolution X 2.0 Lts. DOHC Sedan 4P. 4x4 T/M Motor Otto,2000,1588,243
+Mitsubishi,Lancer Evolution X 2.0 Lts. DOHC Sedan 4P. 4x4 T/A Motor Otto,2000,1588,240
+Renault,Koleos 2.5 Lts. DOHC Station 5P. 4x4 T/A Motor Otto,2500,1588,228
+BYD,F0 1.0 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1000,1134,143
+Toyota,Avensis 2.0 Lts. DOHC Sedan 4P. T/A Motor Otto,2000,1474,207
+Toyota,Avensis 2.0 Lts. DOHC Sedan 4P. T/M Motor Otto,2000,1474,195
+Kia,Soul 1.6 Lts. DOHC Station Wagon 5P. T/M Motor Otto,1600,1474,165
+BMW,740iA 3.0 Lts. DOHC Sedan 4P. T/A Motor Otto,3000,1701,232
+BMW,740LiA 3.0 Lts. DOHC Sedan 4P. T/A Motor Otto,3000,1701,235
+BMW,750iA 4.4 Lts. DOHC Sedan 4P. T/A Motor Otto,4400,1701,266
+BMW,750LiA 4.4 Lts. DOHC Sedan 4P. T/A Motor Otto,4400,1701,266
+Lexus,RX-350 3.5 Lts. DOHC Wagon 5P. T/A Motor Otto,3500,1474,250
+Toyota,Urban Cruiser 1.3 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1300,1474,149
+Audi,"A3 1.8 Lts. T-FSI ""S"" DOHC Hatch Back 5P. T/A Motor CDA Otto",1800,1474,151
+Audi,"A3 1.8 Lts. T-FSI ""S"" DOHC Hatch Back 3P. T/A Motor CDA Otto",1800,1474,151
+Audi,"A3 1.8 Lts. T-FSI ""S"" DOHC Cabriolet 2P. T/A Motor CDA Otto",1800,1474,154
+MG,550 1.8 Lts. VCT DOHC Sedan 4P. T/M Motor Otto,1800,1701,213
+MG,6 1.8 Lts. VCT DOHC Hatch Back 5P. T/M Motor Otto,1800,1701,213
+MG,MG6 Magnette 1.8 Lts. VCT DOHC Sedan 4P. T/M Motor Otto,1800,1814,213
+Kia,Cerato 2.0 Lts. DOHC Sedan 4P. T/M Motor Otto,2000,1474,195
+Kia,Cerato 2.0 Lts. DOHC Coupe 2P. T/M Motor Otto,2000,1474,195
+Kia,Cerato 2.0 Lts. DOHC Hatch Back 5P. T/M Motor Otto,2000,1474,195
+Toyota,Prius Híbrido 1.8 Lts. DOHC Hatch Back 5P. T/A. Vehículo Eléctrico Híbrido,1800,1474,129
+Mazda,Mazda3 2.0 Lts. DOHC Hatch Back 5P. T/M Motor Otto,2000,1814,193
+Mazda,Mazda3 2.0 Lts. DOHC Hatch Back 5P. T/A Motor Otto,2000,1814,193
+Mazda,Mazda3 1.6 Lts. DOHC Sedan 4P. T/M Motor Otto,1600,1814,169
+Mazda,Mazda3 1.6 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1600,1814,169
+Mazda,Mazda3 1.6 Lts. DOHC Sedan 4P. T/A Motor Otto,1600,1814,182
+Mazda,Mazda3 1.6 Lts. DOHC Hatch Back 5P. T/A Motor Otto,1600,1814,182
+BMW,Z4 3.0i Lts. DOHC Roadster 2P. T/A Motor Otto,3000,1247,228
+Suzuki,SX4 1.6 Lts. DOHC Hatch Back 5P. AWD T/A Motor Otto,1600,1474,176
+Suzuki,SX4 1.6 Lts. DOHC Sedan 4P. AWD T/A Motor Otto,1600,1474,176
+Suzuki,SX4 1.6 Lts. DOHC Hatch Back 5P. AWD T/M Motor Otto,1600,1474,168
+Suzuki,SX4 1.6 Lts. DOHC Sedan 4P. AWD T/M Motor Otto,1600,1474,168
+BMW,Z4 2.3i Lts. DOHC Roadster 2P. T/A Motor Otto,2300,1247,222
+Nissan,370Z 3.7 Lts. DOHC Coupe 3P. T/M Motor Otto,3700,1701,260
+Chery,Skin 1.6 Lts. DOHC Sedan 4P. T/M Motor Otto,1600,1474,193
+Chery,Skin 1.6 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1600,1474,193
+Chevrolet,Cruze 1.6 Lts. DOHC Sedan 4P. T/M Motor Otto,1600,1134,185
+Chevrolet,Cruze 1.8 Lts. DOHC Sedan 4P. T/M Motor Otto,1800,1134,178
+Chevrolet,Cruze 1.8 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1800,1134,178
+Chevrolet,Cruze 1.8 Lts. DOHC Sedan 4P. T/A Motor Otto,1800,1134,230
+Chevrolet,Cruze 1.8 Lts. DOHC Hatch Back 5P. T/A Motor Otto,1800,1134,230
+Porsche,Boxster PDK 2.9 Lts. DOHC Cabriolet 2P. T/A Motor Otto,2900,1474,215
+Porsche,Cayman PDK 2.9 Lts. DOHC Coupe 3P. T/A Motor Otto,2900,1474,215
+Mitsubishi,Montero Sport 3.5 Lts. SOHC Station Wagon (Tipo Jeep) 5P. 4x4 T/M Motor Otto,3500,1814,331
+Mitsubishi,Montero Sport 3.5 Lts. SOHC Station Wagon (Tipo Jeep) 5P. 4x4 T/A Motor Otto,3500,1814,319
+Porsche,Cayman S PDK 3.4 Lts. DOHC Coupe 3P. T/A Motor Otto,3400,1474,221
+Porsche,Boxster S PDK 3.4 Lts. DOHC Cabriolet 2P. T/A Motor Otto,3400,1474,221
+Kia,Cerato 2.0 Lts. DOHC Coupe 2P. T/A Motor Otto,2000,1474,192
+Kia,Cerato 2.0 Lts. DOHC Sedan 4P. T/A Motor Otto,2000,1474,192
+Kia,Cerato 2.0 Lts. DOHC Hatch Back 5P. T/A Motor Otto,2000,1474,192
+BMW,Z4 sDrive 3.5iA Lts. DOHC Roadster 2P. T/A Motor Otto,3500,1247,241
+Maserati,Granturismo S Automático 4.7 Lts. V8 DOHC 32v Coupe 2P. T/A Motor Otto,4700,1247,354
+Maserati,Quattroporte S Automático 4.7 Lts. V8 DOHC 32v Sedan 4P. T/A Motor Otto,4700,1474,354
+Maserati,Quattroporte GTS Automático 4.7 Lts. V8 DOHC 32v Sedan 4P. T/A Motor Otto,4700,1474,354
+Chevrolet,Optra 1.6 Lts. DOHC Station Wagon 5P. T/M Motor Otto,1600,1814,184
+Chevrolet,Optra 1.6 Lts. DOHC Sedan 4P. T/M Motor Otto,1600,1814,169
+Subaru,Legacy 2.5 Lts. GT Turbo DOHC Sedan 4P. AWD T/A Motor Otto,2500,1588,250
+Subaru,Legacy 2.0R Lts. DOHC Sedan 4P. AWD T/M Motor Otto,2000,1588,216
+Subaru,Legacy 2.0R Lts. DOHC Station Wagon 5P. AWD T/M Motor Otto,2000,1588,216
+Subaru,Outback 2.5 Lts. SOHC Station Wagon 5P. AWD T/A Motor Otto,2500,1814,214
+Subaru,Legacy 2.5 Lts. SOHC 4D Sedan 4P. AWD T/A Motor Otto,2500,1588,214
+Subaru,Legacy 2.0R Lts. DOHC TW Station Wagon 5P. AWD T/A Motor Otto,2000,1588,214
+Subaru,Legacy 2.0R Lts. DOHC 4D Sedan 4P. AWD T/A Motor Otto,2000,1588,214
+Subaru,Outback 2.5 Lts. SOHC Station Wagon 5P. AWD T/M Motor Otto,2500,1814,216
+Subaru,Outback 3.6R Lts. DOHC Station Wagon 5P. AWD T/A Motor Otto,3600,1588,250
+Volvo,C30 2.0 Lts. DOHC Coupe 3P. T/A Motor Otto,2000,1474,187
+Volvo,C30 2.0 Lts. DOHC Coupe 3P. T/M Motor Otto,2000,1474,181
+Kia,Soul 2.0 Lts. DOHC Station Wagon 5P. T/M Motor Otto,2000,1474,181
+Kia,Soul 2.0 Lts. DOHC Station Wagon 5P. T/A Motor Otto,2000,1474,187
+Porsche,Panamera Turbo 4.8 Lts. DOHC Sedan 4P. T/A Motor Otto,4800,1474,272
+Chevrolet,Camaro RS 3.6 Lts. DOHC Coupe 3P. T/M Motor Otto,3600,1247,255
+Chevrolet,Camaro SS 6.2 Lts. DOHC Coupe 3P. T/A Motor Otto,6200,1247,329
+Chevrolet,Camaro SS 6.2 Lts. DOHC Convertible 2P. T/A Motor Otto,6200,1247,329
+Porsche,Panamera S 4.8 Lts. DOHC Sedan 4P. T/A Motor Otto,4800,1474,240
+Porsche,Panamera 4S 4.8 Lts. DOHC Sedan 4P. T/A Motor Otto,4800,1474,252
+Citroen,C4 Picasso 1.6 Lts. DOHC Station 5P. 7 Plazas T/M Motor Otto,1600,1247,185
+Citroen,C4 Picasso 1.6 Lts. DOHC Station 5P. 5 Plazas T/M Motor Otto,1600,1247,185
+Chevrolet,Camaro SS 6.2 Lts. DOHC Coupe 3P. T/M Motor Otto,6200,1247,304
+M. Benz,E 63 AMG 6.2 Lts. DOHC Sedan 4P. T/A Motor Otto,6200,1134,234
+Audi,A4 2.0 Lts. T Quattro DOHC Station Wagon 5P. 4x4 T/A Motor CDN Otto,2000,1474,177
+Audi,A4 2.0 Lts. T Quattro DOHC Sedan 4P. 4x4 T/A Motor CDN Otto,2000,1474,174
+M. Benz,E 250 CGI 1.8 Lts. DOHC Sedan 4P. T/A Motor Otto,1800,1134,169
+M. Benz,E 250 CGI 1.8 Lts. DOHC Coupe 2P. T/A Motor Otto,1800,1134,169
+M. Benz,C 200 CGI 1.8 Lts. DOHC Station Wagon 5P. T/A Motor Otto,1800,1474,171
+M. Benz,C 200 CGI 1.8 Lts. DOHC Sedan 4P. T/A Motor Otto,1800,1474,171
+M. Benz,E 200 CGI 1.8 Lts. DOHC Sedan 4P. T/A Motor Otto,1800,1134,166
+M. Benz,C 250 CGI 1.8 Lts. DOHC Sedan 4P. T/A Motor Otto,1800,1474,194
+M. Benz,C 250 CGI 1.8 Lts. DOHC Coupe 2P. T/A Motor Otto,1800,1474,169
+Audi,A5 2.0 Lts. T Quattro DOHC Cabriolet 2P. 4x4 T/A Motor CDN Otto,2000,1474,181
+Audi,A5 2.0 Lts. T Quattro DOHC Coupe 2P. 4x4 T/A Motor CDN Otto,2000,1474,174
+Audi,A5 2.0 Lts. T Quattro DOHC Sportback (HatchBack) 5P. 4x4 T/A Motor CDN Otto,2000,1474,176
+Hyundai,New Tucson LM 2.0 Lts. DOHC Station Wagon 5P. 4WD T/A Motor Otto,2000,1814,215
+Hyundai,New Tucson LM 2.0 Lts. DOHC Station Wagon 5P. 2WD T/A Motor Otto,2000,1814,207
+Hyundai,New Tucson LM 2.0 Lts. DOHC Station Wagon 5P. 4WD T/M Motor Otto,2000,1814,214
+Hyundai,New Tucson LM 2.0 Lts. DOHC Station Wagon 5P. 2WD T/M Motor Otto,2000,1814,205
+Toyota,Land Cruiser Prado 2.7 Lts. DOHC Jeep 3P. T/A Motor Otto,2700,1588,292
+Ferrari,California 4.3 Lts. V8 32v DOHC Coupe 2P. T/SA Motor Otto,4300,1247,299
+Jaguar,XF R 5.0 Lts. SV8 DOHC Sedan 4P. T/A Motor Otto,5000,1247,292
+Jaguar,XK R 5.0 Lts. V8 DOHC Coupe 3P. T/A Motor Otto,5000,1247,292
+Jaguar,XK R 5.0 Lts. V8 DOHC Coupe 2P. T/A Motor Otto,5000,1247,292
+Renault,Sandero Stepway 1.6 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1600,1474,180
+Renault,Sandero GT Line 1.6 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1600,1474,180
+Volkswagen,Polo 1.4 Lts. DOHC Hatch Back 5P. T/M Motor CGG Otto,1400,1474,155
+Volkswagen,Polo 1.4 Lts. DOHC Hatch Back 3P. T/M Motor CGG Otto,1400,1474,155
+Volkswagen,Polo GTS 1.4 Lts. DOHC Hatch Back 5P. T/M Motor CGG Otto,1400,1474,155
+Peugeot,308 CC Sport Pack 1.6 Lts. DOHC Coupe Cabriolet 2P. T/M Motor Otto,1600,1701,177
+Peugeot,308 CC Sport Pack 1.6 Lts. DOHC Coupe Cabriolet 2P. T/A Motor Otto,1600,1701,200
+Peugeot,207 CC Sport R 1.6 Lts. DOHC Coupe Cabriolet 2P. T/M Motor Otto,1600,1701,161
+Peugeot,207 Premium (Sport R o XS) 1.6 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1600,1701,161
+Peugeot,3008 Premium 1.6 Lts. DOHC Station Wagon Tipo SUV 5P. T/M Motor Otto,1600,1701,177
+Alfa Romeo,Mi. TO 1.4 Lts. Turbo 16v DOHC Hatch Back 3P. T/M Motor Otto,1400,1814,176
+Audi,S4 3.0 Lts. T-FSI Quattro DOHC Sedan 4P. T/A 4x4 Motor CAK Otto,3000,1474,219
+Audi,S4 3.0 Lts. T-FSI Quattro DOHC Station Wagon 5P. T/A 4x4 Motor CAK Otto,3000,1474,224
+Citroen,C3 Picasso 1.6 Lts. HDI DOHC Station 5P. T/M Motor Diesel,1600,1474,122
+Mahindra,Scorpio S5 2.2 Lts. CRDi DOHC Station Wagon 5P. 4x4 T/M Motor Diesel,2200,1474,243
+Mahindra,Scorpio S5 2.2 Lts. CRDi DOHC Station Wagon 5P. 4x2 T/M Motor Diesel,2200,1474,243
+Suzuki,Kizashi 2.4 Lts. DOHC Sedan 4P. T/A Motor Otto,2400,1588,195
+Suzuki,Kizashi 2.4 Lts. DOHC Sedan 4P. T/M Motor Otto,2400,1588,195
+Volkswagen,Passat 1.8 Lts. T Highline DOHC Sedan 4P. T/A Motor Otto,1800,1474,182
+Volkswagen,Passat 1.8 Lts. T Highline DOHC Station Wagon 5P. T/A Motor Otto,1800,1474,182
+Porsche,911 Turbo PDK 3.8 Lts. DOHC Cabriolet 2P. T/A Motor Otto,3800,1701,259
+Porsche,911 Turbo PDK 3.8 Lts. DOHC Coupe 2P. T/A Motor Otto,3800,1701,257
+M. Benz,C 180 CGI 1.8 Lts. DOHC Sedan 4P. T/A Motor Otto,1800,1474,169
+M. Benz,C 180 CGI 1.8 Lts. DOHC Coupe 2P. T/A Motor Otto,1800,1474,169
+Hyundai,Sonata YF 2.0 Lts. DOHC Sedan 4P. T/M motor Otto,2000,1474,188
+Hyundai,Sonata YF 2.4 Lts. DOHC Sedan 4P. T/A motor Otto,2400,1474,190
+Volkswagen,Passat CC 2.0 Lts. T-FSI DOHC Sedan 4P. T/A Motor CCZA Otto,2000,1474,184
+Hyundai,Sonata YF 2.0 Lts. DOHC Sedan 4P. T/A motor Otto,2000,1474,180
+BYD,F6 2.0 DOHC Sedan 4P. T/A Motor Otto,2000,1134,201
+BYD,F6 2.0 DOHC Sedan 4P. T/M Motor Otto,2000,1134,217
+M. Benz,E 300 3.0 DOHC Sedan 4P. T/A Motor Otto,3000,1134,233
+M. Benz,C 220 CDI 2.1 Lts. DOHC Sedan 4P. T/A Motor Diesel,2100,1474,130
+BMW,535i GT 3.0 Lts. DOHC Sedan 4P. T/A Motor Otto,3000,1701,209
+BMW,530i 3.0 Lts. DOHC Sedan 4P. T/A Motor Otto,3000,1701,187
+Volkswagen,Tiguan 2.0 Lts. T-FSI 4Motion DOHC Station Wagon 5P. 4x4 T/M Motor Otto,2000,1474,204
+Peugeot,3008 Premium 1.6 Lts. DOHC Station Wagon Tipo SUV 5P. T/A Motor Otto,1600,1701,186
+Citroen,C5 2.0 Lts. HDI DOHC Sedan 4P. T/A Motor Diesel,2000,1247,180
+Citroen,C5 Break 2.0 Lts. HDI DOHC Station Wagon 5P. T/A Motor Diesel,2000,1247,181
+Chevrolet,Spark 1.2 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1200,1474,149
+Fiat,500 Abarth 1.4 Lts. 16v DOHC Hatch Back 3P. T/M Motor Otto,1400,1701,155
+Mazda,Mazda2 1.5 Lts. DOHC Sedan 4P. T/M Motor Otto,1500,1814,152
+Mazda,Mazda2 1.5 Lts. DOHC Sedan 4P. T/A Motor Otto,1500,1814,162
+BMW,550i 4.4 Lts. DOHC Sedan 4P. T/A Motor Otto,4400,1701,243
+BMW,535I 3.0 Lts. DOHC Sedan 4P. T/A Motor Otto,3000,1701,195
+Kia,Sportage 2.0 Lts. DOHC Station Wagon (Tipo Jeep) 5P. 4x4 T/M Motor Otto,2000,1474,207
+Kia,Sportage 2.0 Lts. DOHC Station Wagon (Tipo Jeep) 5P. 4x2 T/M Motor Otto,2000,1474,207
+Kia,Sportage 2.0 Lts. DOHC Station Wagon (Tipo Jeep) 5P. 4x4 T/A Motor Otto,2000,1474,209
+Kia,Sportage 2.0 Lts. DOHC Station Wagon (Tipo Jeep) 5P. 4x2 T/A Motor Otto,2000,1474,209
+Fiat,Linea Dynamic 1.4 Lts. DOHC Sedan 4P. T/M Motor Otto,1400,1814,157
+Renault,Latitud 2.0 Lts. DOHC Sedan 4P. T/M Motor Otto,2000,1588,197
+Fiat,Linea Active 1.4 Lts. SOHC Sedan 4P. T/M Motor Otto,1400,1814,148
+Renault,Latitud 3.5 Lts. DOHC Sedan 4P. T/A Motor Otto,3500,1588,247
+Renault,Fluence 2.0 Lts. DOHC Sedan 4P. T/M Motor Otto,2000,1247,183
+Renault,Megane III 2.0 Lts. DOHC Hatch Back 5P. T/M Motor Otto,2000,1814,183
+Jaguar,XK 5.0 Lts. V8 DOHC Coupe 2P. T/A Motor Otto,5000,1247,264
+Jaguar,XK 5.0 Lts. V8 DOHC Cabriolet 2P. T/A Motor Otto,5000,1247,264
+Renault,Fluence 2.0 Lts. DOHC Sedan 4P. T/A Motor Otto,2000,1247,192
+Renault,Megane 2.0 Lts. DOHC Hatch Back 5P. T/A Motor Otto,2000,1814,192
+Fiat,Punto Evo 1.4 Lts. 16v SOHC Hatch Back 3P. T/M Motor Otto,1400,1474,159
+Fiat,Punto Evo 1.4 Lts. 16v SOHC Hatch Back 5P. T/M Motor Otto,1400,1474,159
+BMW,X1 sDrive 18iA 2.0 Lts. DOHC Station Wagon 5P. T/A Motor Otto,2000,1701,195
+Jac,J6 (B-Cross) 1.8 Lts. DOHC Station Wagon 5P. T/M Motor Otto,1800,1588,209
+Jaguar,XF 5.0 Lts. V8 DOHC Sedan 4P. T/A Motor Otto,5000,1247,264
+Peugeot,RCZ 1.6 Lts. DOHC Coupe 2P. T/A Motor Otto,1600,1474,174
+Peugeot,RCZ Premier 1.6 Lts. DOHC Coupe 2P. T/A Motor Otto,1600,1474,174
+Citroen,C3 1.4 Lts. SOHC Hatch Back 5P. T/M Motor Otto,1400,1474,166
+Maserati,Grancabrio 4.7 Lts. V8 DOHC Coupe (Convertible) 2P. T/A Motor Otto,4700,1247,332
+Maserati,Grancabrio Sport 4.7 Lts. V8 DOHC Coupe (Convertible) 2P. T/A Motor Otto,4700,1247,332
+Suzuki,Jimny 1.3 Lts. DOHC Station Wagon Tipo Jeep 3P. 4WD T/M Motor Otto,1300,1588,173
+M. Benz,SLS AMG 6.2 Lts. DOHC Coupe 2P. T/A Motor Otto,6200,1474,311
+M. Benz,SLS AMG 6.2 Lts. DOHC Roadster 2P. T/A Motor Otto,6200,1474,311
+Volkswagen,Golf GTI 2.0 Lts. T-FSI DOHC Hatch Back 3P. T/A Motor CCZ Otto,2000,1247,173
+Volkswagen,Golf GTI 2.0 Lts. T-FSI DOHC Hatch Back 5P. T/A Motor CCZ Otto,2000,1247,173
+Porsche,Panamera V6 3.6 Lts. DOHC Sedan 4P. T/A Motor Otto,3600,1474,216
+Mini,Cooper S 1.6 Lts. DOHC Hatch Back 3P. T/M Motor Otto ,1600,1644,146
+Mini,Cooper S 1.6 Lts. DOHC Cabrio 2P. T/M Motor Otto ,1600,1644,146
+Mini,Cooper S Clubman 1.6 Lts. DOHC Station Wagon 5P. T/M Motor Otto ,1600,1644,146
+Mini,Cooper S 1.6 Lts. DOHC Roadster (Cabriolet) 2P. T/M Motor Otto ,1600,1644,146
+Jac,J3 Turin VVT 1.3 Lts. DOHC Sedan 4P. T/M Motor Otto,1300,1588,177
+Jac,J3 VVT 1.3 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1300,1588,177
+Suzuki,Alto K10 1.0 Lts. DOHC Hatch Back 5P. T/M motor Otto,1000,1474,126
+Chevrolet,Sail 1.4 Lts. DOHC Sedan 4P.  T/M Motor Otto,1400,1474,148
+Chevrolet,Sail 1.4 Lts. DOHC Hatch Back 3P.  T/M Motor Otto,1400,1474,148
+Chevrolet,Sail 1.4 Lts. DOHC Hatch Back 5P.  T/M Motor Otto,1400,1474,148
+Jaguar,XL 5.0 Lts. V8 DOHC Sedan 4P. T/A Motor Otto,5000,1247,264
+Jaguar,XJ 5.0 Lts. V8 SC DOHC Sedan 4P. T/A Motor Otto,5000,1247,289
+Great Wall,Haval H3 2.0 Lts. SOHC Station Wagon (Tipo Jeep) 5P. 4x2 T/M Motor Otto,2000,1247,226
+Great Wall,Haval H3 2.0 Lts. SOHC Station Wagon (Tipo Jeep) 5P. 4x4 T/M Motor Otto,2000,1247,226
+Suzuki,Grand Nomade 2.4 Lts. DOHC Station Wagon 5P. 4x4 T/A Motor Otto,2400,1247,225
+Suzuki,Grand Vitara 2.4 Lts. DOHC Station Wagon 3P. 4x4 T/A Motor Otto,2400,1247,214
+Suzuki,Grand Nomade 2.4 Lts. DOHC Station Wagon 5P. 4x2 T/A Motor Otto,2400,1247,225
+Great Wall,Haval H5 2.4 Lts. SOHC Station Wagon (Tipo Jeep) 5P. 4x4 T/M Motor Otto,2400,1247,262
+Great Wall,Haval H5 2.4 Lts. SOHC Station Wagon (Tipo Jeep) 5P. 4x2 T/M Motor Otto,2400,1247,262
+Suzuki,Grand Nomade 2.4 Lts. DOHC Station Wagon 5P. 4x4 T/M Motor Otto,2400,1247,219
+Suzuki,Grand Vitara 2.4 Lts. DOHC Station Wagon 3P. 4x4 T/M Motor Otto,2400,1247,219
+Suzuki,Grand Nomade 2.4 Lts. DOHC Station Wagon 5P. 4x2 T/M Motor Otto,2400,1247,219
+M. Benz,E 250 CGI 1.8 Lts. DOHC Cabriolet 2P. T/A Motor Otto,1800,1134,197
+M. Benz,E 250 CGI 1.8 Lts. DOHC Coupe 2P. T/A Motor Otto,1800,1134,197
+Suzuki,Celerio 1.0 Lts. DOHC Hatch Back 5P. T/A Motor Otto,1000,1474,148
+Suzuki,Celerio 1.0 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1000,1474,129
+Mini,Cooper 1.6 Lts. DOHC Hatch Back 3P. T/M Motor Otto,1600,1644,136
+Mini,Cooper 1.6 Lts. DOHC Cabrio 2P. T/M Motor Otto,1600,1644,136
+Mini,Cooper Clubman 1.6 Lts. 16v DOHC Station Wagon 5P. T/M Motor Otto,1600,1644,136
+M. Benz,CLC 350 3.5 Lts. DOHC Coupe 2P. T/A Motor Otto,3500,1474,240
+Mini,Cooper 1.6 Lts. DOHC Hatch Back 3P. T/A Motor Otto,1600,1644,156
+Mini,Cooper 1.6 Lts. DOHC Cabrio 2P. T/A Motor Otto,1600,1644,156
+Mini,Cooper Clubman 1.6 Lts. 16v DOHC Station Wagon 5P. T/A Motor Otto,1600,1644,156
+Mini,Cooper S 1.6 Lts. DOHC Hatch Back 3P. T/A Motor Otto,1600,1644,149
+Mini,Cooper S 1.6 Lts. DOHC Cabrio 2P. T/A Motor Otto,1600,1644,149
+Mini,Cooper S Clubman 1.6 Lts. 16v DOHC Station Wagon 5P. T/A Motor Otto,1600,1644,149
+Mini,Cooper S Roadster 1.6 Lts. 16v DOHC Cabriolet 2P. T/A Motor Otto,1600,1644,149
+Volvo,S60 T6 AWD 3.0 Lts. DOHC Sedan 4P. 4x4 T/A Motor Otto,3000,1474,237
+Ssangyong,Kyron M200 XDI 2.0 Lts. DOHC Station Wagon (Tipo Jeep) 5P. 4x2 T/A (6 Veloc.) Motor Diesel,2000,1588,245
+Audi,A8 4.2 Lts. DOHC FSI Sedan 4P. Quattro T/A Motor CDR Otto,4200,1474,224
+Ford,Mustang 5.0 Lts. DOHC Coupe 2P. T/A Motor Otto,5000,1814,269
+Fiat,Grande Punto Active 1.4 Lts. SOHC Hatch Back 5P. T/M Motor Otto,1400,1247,149
+Fiat,Grande Punto Active 1.4 Lts. SOHC Hatch Back 3P. T/M Motor Otto,1400,1247,149
+Fiat,Grande Punto Active Duallogic 1.4 Lts. SOHC Hatch Back 5P. T/M Motor Otto,1400,1247,144
+Peugeot,RCZ 1.6 Lts. DOHC Coupe 2P. T/M Motor Otto,1600,1474,163
+Peugeot,RCZ Premier 1.6 Lts. DOHC Coupe 2P. T/M Motor Otto,1600,1474,163
+Subaru,Impreza WRX 2.5 Lts. 4D Turbo DOHC Sedan 4P. AWD T/M Motor Otto,2500,1588,247
+Subaru,Impreza WRX 2.5 Lts. 5D Turbo DOHC Wagon 5P. AWD T/M Motor Otto,2500,1588,247
+Subaru,Impreza 2.5 Lts. T WRX STI DOHC Sedan 4P. AWD T/M Motor Otto,2500,1247,243
+Subaru,Impreza 2.5 Lts. T WRX STI DOHC Wagon 5P. AWD T/M Motor Otto,2500,1247,243
+Volkswagen,Tiguan 2.0 Lts. T-TSI 4Motion DOHC Station Wagon 5P. 4x4 T/A Motor CCZC Otto,2000,1474,199
+M. Benz,E 220 CDI 2.1 Lts. DOHC Sedan 4P. T/A Motor Diesel,2100,1134,142
+Volkswagen,Golf A6 1.6 Lts. SOHC Hatch Back 5P. T/A Motor BSE Otto,1600,1247,184
+Volkswagen,Golf A6 1.6 Lts. SOHC Hatch Back 3P. T/A Motor BSE Otto,1600,1247,184
+Toyota,Corolla 1.6 Lts. DOHC Sedan 4P. T/M Motor Otto,1600,1134,168
+BMW,ActiveHybrid 7 4.4 Lts. DOHC Sedan 4P. T/A. Vehículo Eléctrico Híbrido,4400,1474,219
+Ford,Fiesta 1.6 Lts. DOHC Sedan 4P. T/M Motor Otto,1600,1247,161
+Ford,Fiesta 1.6 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1600,1247,161
+Toyota,Corolla 1.6 Lts. DOHC Sedan 4P. T/A Motor Otto,1600,1134,168
+Mitsubishi,ASX 2.0 Lts. DOHC 16v Mivec Station Wagon 5P. 4x4 T/A Motor Otto,2000,1474,192
+Mitsubishi,ASX 2.0 Lts. DOHC 16v Mivec Station Wagon 5P. 4x2 T/A Motor Otto,2000,1474,185
+Mitsubishi,ASX 2.0 Lts. DOHC 16v Mivec Station Wagon 5P. 4x4 T/M Motor Otto,2000,1474,186
+Mitsubishi,ASX 2.0 Lts. DOHC 16v Mivec Station Wagon 5P. 4x2 T/M Motor Otto,2000,1474,181
+Kia,Optima 2.0 Lts. DOHC Sedan 4P. T/M Motor Otto,2000,1814,195
+Fiat,Uno Way 1.4 Lts. SOHC Hatch Back 5P. T/M Motor Otto,1400,1474,174
+Fiat,Uno Atractive 1.4 Lts. SOHC Hatch Back 5P. T/M Motor Otto,1400,1474,174
+Fiat,Uno Way 1.4 Lts. SOHC Hatch Back 5P. T/M Motor Otto,1400,1474,174
+Jac,B15 1.5 Lts. SOHC Sedan 4P. T/M Motor Otto,1500,1474,194
+Volkswagen,Golf A6 1.6 Lts. SOHC Hatch Back 5P. T/M Motor BSE Otto,1600,1247,184
+Volkswagen,Golf A6 1.6 Lts. SOHC Hatch Back 3P. T/M Motor BSE Otto,1600,1247,184
+Citroen,DS3 1.6 Lts. DOHC Hatch Back 3P. T/M Motor Otto,1600,1134,155
+Jac,Rein 2.0 Lts. DOHC Station Wagon Tipo Jeep 5P. 4x2 T/M Motor Otto,2000,1474,229
+Jac,Rein 2.0 Lts. DOHC Station Wagon Tipo Jeep 5P. 4x4 T/M Motor Otto,2000,1474,229
+Nissan,370 Z (Z34) 3.7 Lts. V6 DOHC Coupé 3P. T/A Motor Otto,3700,1701,184
+Suzuki,APV 1.6 Lts. SOHC Van 5P. T/M Motor Otto,1600,1474,200
+M. Benz,GLK 220 CDI 4Matic 2.1 DOHC Station Wagon 5P. 4x4 T/A Motor Diesel,2100,1247,177
+Peugeot,308 Gti 1.6 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1600,1701,164
+Audi,TTRS 2.5 Lts. T-FSI Quattro DOHC Coupé 3P. 4x4 T/M Motor CEPA Otto,2500,1474,214
+Audi,TT 2.0 Lts. T-FSI DOHC Coupé 3P. T/A Motor CESA Otto,2000,1474,166
+Audi,TT Roadster 2.0 Lts. T-FSI DOHC Convertible 2P. T/A Motor CESA Otto,2000,1474,168
+Geely,LC 1.3 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1300,1588,182
+Renault,Symbol 1.6 Lts. 16v DOHC Sedan 4P. T/M Motor Otto,1600,1474,174
+Audi,A3 1.2 Lts. T-FSI DOHC Hatch Back 3P. T/A Motor CBZB Otto,1200,1474,125
+Audi,A3 1.2 Lts. T-FSI DOHC Hatch Back 5P. T/A Motor CBZB Otto,1200,1474,125
+Audi,A3 1.2 Lts. T-FSI DOHC Hatch Back 3P. T/M Motor CBZB Otto,1200,1474,131
+Audi,A3 1.2 Lts. T-FSI DOHC Hatch Back 5P. T/M Motor CBZB Otto,1200,1474,129
+Toyota,Zelas 2.5 Lts. DOHC Hatch Back 3P. T/M Motor Otto,2500,1247,196
+Geely,EC 718 1.8 Lts. DOHC Sedan 4P. T/M Motor Otto,1800,1134,200
+Geely,EC 718 1.8 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1800,1134,200
+Ford,Edge 3.5 Lts. DOHC Station Wagon 5P. AWD T/A Motor Otto,3500,1134,251
+Nissan,Teana 2.5 Lts. V6 DOHC Sedan 4P. T/A Motor Otto,2500,1474,240
+Mini,Countryman (ZB31) 1.6 Lts. DOHC Station Wagon 5P. 2WD T/M Motor Otto,1600,1134,152
+Mini,Paceman Cooper 1.6 Lts. DOHC Coupe 2P. 2WD T/M Motor Otto,1600,1474,152
+Kia,Optima 2.4 Lts. DOHC Sedan 4P. T/A Motor Otto,2400,1814,215
+Nissan,Teana 3.5 Lts. V6 DOHC Sedan 4P. T/A Motor Otto,3500,1474,259
+Nissan,Murano (Z51) 3.5 Lts. V6 DOHC Station Wagon 5P. AWD T/A Motor Otto,3500,1814,263
+Kia,Optima 2.0 Lts. DOHC Sedan 4P. T/A Motor Otto,2000,1814,201
+M. Benz,E 350 3.0 Lts. CDI DOHC Sedan 4P. T/A Motor Diesel,3000,1134,195
+Volvo,XC60 T6 3.0 Lts. DOHC Station Wagon 5P. AWD T/A Motor Otto,3000,1701,249
+Volvo,XC70 3.2 Lts. DOHC Station Wagon 5P. AWD T/A Motor Otto,3200,1701,234
+Mini,John Cooper Works 1.6 Lts. DOHC Hatch Back 3P. T/M Motor Otto,1600,1588,219
+Mini,John Cooper Works 1.6 Lts. DOHC Cabrio 2P. T/M Motor Otto,1600,1588,219
+Mini,John Cooper Works 1.6 Lts. DOHC Station Wagon 5P. T/M Motor Otto,1600,1588,219
+Mini,John Cooper Works (SX51) 1.6 Lts. DOHC Coupe 3P. T/M Motor Otto,1600,1588,219
+Mini,John Cooper Works Roadster 1.6 Lts. DOHC Convertible 2P. T/M Motor Otto,1600,1588,219
+M. Benz,CL 500 CGI 4.7 Lts. V8 DOHC Coupe 2P. T/A Motor Otto,4700,1474,267
+Daihatsu,Terios 1.5 Lts. DOHC Station Wagon 5P. 4WD T/A Motor Otto,1500,1474,179
+Daihatsu,Terios 1.5 Lts. DOHC Station Wagon 5P. 4x2 T/A Motor Otto,1500,1474,179
+Daihatsu,Terios 1.5 Lts. DOHC Station Wagon 5P. 4WD T/M Motor Otto,1500,1474,173
+Daihatsu,Terios 1.5 Lts. DOHC Station Wagon 5P. 4x2 T/M Motor Otto,1500,1474,173
+Toyota,Zelas 2.5 Lts. DOHC Hatch Back 3P. T/A Motor Otto,2500,1247,205
+Mini,Countryman Cooper S 1.6 Lts. DOHC Station Wagon 5P. AWD T/M Motor Otto,1600,1134,157
+Mini,Countryman Cooper S 1.6 Lts. DOHC Station Wagon 5P. 2WD T/M Motor Otto,1600,1134,143
+Mini,Cooper S (SX31) 1.6 Lts. DOHC Coupe 3P. 2WD T/M Motor Otto,1600,1644,136
+Mini,Pacman Cooper S 1.6 Lts. ALL 4 DOHC Coupe 2P. 4x4 T/M Motor Otto,1600,1474,157
+Mini,Pacman Cooper S 1.6 Lts. DOHC Coupe 2P. 4x2 T/M Motor Otto,1600,1474,143
+Geely,CK 1.3 Lts. DOHC Sedan 4P. T/M Motor Otto,1300,1474,185
+Mini,Countryman Cooper S (ZC51) 1.6 Lts. DOHC Station Wagon 5P. 4WD T/A Motor Otto,1600,1134,180
+Mini,Countryman Cooper S (ZC51) 1.6 Lts. DOHC Station Wagon 5P. 2WD T/A Motor Otto,1600,1134,166
+Mini,Paceman Cooper S All 4 1.6 Lts. DOHC Coupé 2P 4x4 T/A Motor Otto,1600,1474,254
+Mini,Paceman Cooper S All 4 1.6 Lts. DOHC Coupé 2P 4x2 T/A Motor Otto,1600,1474,254
+Mazda,Mazda5 2.0 Lts. DOHC Wagon 5P. T/M Motor Otto,2000,1814,198
+Mazda,Mazda5 2.0 Lts. DOHC Wagon 5P. T/A Motor Otto,2000,1814,194
+Renault,Megane III RS 2.0 Lts. DOHC Coupe 3P. T/M Motor Otto,2000,1814,201
+Renault,Megane III RS Trophy 2.0 Lts. DOHC Coupe 3P. T/M Motor Otto,2000,1814,212
+R. Samsung,SM3 1.6 Lts. 16v DOHC Sedan 4P. T/M Motor Otto,1600,1474,165
+Haima,3 GLS 1.6 Lts. DOHC Sedan 4P. T/M Motor Otto,1600,1701,189
+Haima,3 GLS 1.6 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1600,1701,189
+Ssangyong,Korando 2.0 Lts. DOHC Station Wagon (Tipo Jeep) 5P. 4x4 T/M Motor Diesel,2000,1588,174
+Ssangyong,Korando 2.0 Lts. DOHC Station Wagon (Tipo Jeep) 5P. 4x2 T/M Motor Diesel,2000,1588,174
+Zotye,Hunter 1.5 Lts. ABS SOHC Station Wagon 5P. T/M Motor Otto,1500,1247,193
+Geely,CK 1.5 Lts. DOHC Sedan 4P. T/M Motor Otto,1500,1474,182
+Great Wall,Florid 1.5 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1500,1247,165
+Great Wall,Florid Cross 1.5 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1500,1247,165
+Subaru,Forester 2.0 Lts. DOHC Station Wagon 5P. AWD T/A Motor Otto,2000,1247,193
+Subaru,Forester 2.0 Lts. DOHC Station Wagon 5P. AWD T/M Motor Otto,2000,1247,192
+Mini,Countryman Cooper 1.6 Lts. DOHC Station Wagon 5P. T/A Motor Otto,1600,1134,177
+Mini,Paceman Cooper 1.6 Lts. DOHC Hatch Back 3P. T/A Motor Otto,1600,1474,177
+Lifan,620 1.6 Lts. DOHC Sedan 4P. T/M Motor Otto,1600,1701,200
+Lexus,RX450h 3.5 Lts. Híbrido DOHC Station Wagon 5P. T/A. Vehículo Eléctrico Híbrido,3500,1474,146
+Volvo,V60 T6 3.0 Lts. DOHC Station Wagon 5P. AWD T/A Motor Otto,3000,1474,237
+R. Samsung,SM3 1.6 Lts. 16v DOHC Sedan 4P. T/A Motor Otto,1600,1474,177
+Alfa Romeo,Brera 1.8 Lts. 16v DOHC Hatch Back 3P. T/M Motor Otto,1800,1474,192
+Alfa Romeo,Spider 1.8 Lts. TBI 16v DOHC Coupe 2P. T/M Motor Otto,1800,1474,192
+Aston Martin,Vantage 4.7 V8 DOHC Hatch Back 2P. T/A Motor Otto,4700,1474,299
+Aston Martin,Vantage 4.7 V8 DOHC Coupe 2P. T/A Motor Otto,4700,1474,299
+Aston Martin,Vantage 4.7 V8 DOHC Roadster 2P. T/A Motor Otto,4700,1474,299
+Aston Martin,Vantage S 4.7 V8 DOHC Coupe 2P. T/A Motor Otto,4700,1474,299
+Aston Martin,Vantage S 4.7 V8 DOHC Roadster 2P. T/A Motor Otto,4700,1474,299
+Audi,RS5 4.2 Lts. FSI DOHC Coupe 2P. T/A 4x4 Motor Otto,4200,1474,255
+Audi,RS5 Cabrio 4.2 Lts. FSI DOHC Cabriolet 2P. T/A 4x4 Motor Otto,4200,1474,255
+R. Samsung,SM7 3.5 Lts. V6 DOHC Sedan 4P. T/A Motor Otto,3500,1474,257
+R. Samsung,SM7 2.3 Lts. V6 DOHC Sedan 4P. T/A Motor Otto,2300,1474,244
+Renault,Sandero 1.6 Lts. SOHC Hatch Back 5P. T/M Motor Otto,1600,1474,170
+Alfa Romeo,Giuletta 1.4 Lts. 16v SOHC Hatch Back 5P. T/M Motor Otto,1400,1247,139
+Peugeot,3008 Premium 1.6 Lts. Hdi SOHC Station Wagon Tipo SUV 5P. T/M Motor Diesel,1600,1701,140
+Peugeot,3008 Active 1.6 Lts. e-Hdi 110hp SOHC Station Wagon Tipo SUV 5P. T/M Motor Diesel,1600,1701,140
+Volvo,C30 T5 2.5 Lts. DOHC Hatch Back 3P. T/A Motor Otto,2500,1474,227
+Audi,A1 1.4 Lts. T-FSI DOHC Hatch Back 3P. T/A Motor CAXA Otto,1400,1701,125
+Audi,A1 1.4 Lts. T-FSI DOHC Hatch Back 5P. T/A Motor CAXA Otto,1400,1701,125
+Jac,Rein 2.4 Lts. DOHC Station Wagon Tipo Jeep 5P. 4WD T/M Motor Otto,2400,1474,288
+Jac,Rein 2.4 Lts. DOHC Station Wagon Tipo Jeep 5P. 4x2 T/M Motor Otto,2400,1474,288
+Alfa Romeo,159 TBI 1.7 Lts. DOHC Sedan 4P. T/M Motor Otto,1700,1814,192
+Audi,R8 4.2 Lts. DOHC FSI Quattro Coupe 2P. T/A 4x4 Motor Otto,4200,1474,310
+Audi,R8 4.2 Lts. DOHC FSI Quattro Convertible 2P. T/A 4x4 Motor Otto,4200,1474,315
+Volkswagen,Tiguan 2.0 Lts. TDI DOHC Station Wagon 4x2 5P. T/M Motor CFF Diesel,2000,1474,145
+Ferrari,458 Italia 4.5 Lts. V8 DOHC Coupe 2P. T/DCM Motor Otto,4500,1701,307
+Ferrari,458 Spider 4.5 Lts. V8 DOHC Convertible 2P. T/DCM Motor Otto,4500,1701,307
+Ferrari,458 Speciale 4.5 Lts. V8 DOHC Coupe 2P. T/DTC Motor Otto,4500,1701,307
+Peugeot,207 Compact (X Line) 1.4 Lts. SOHC Hatch Back 5P. T/M Motor Otto,1400,1701,144
+Citroen,C3 Picasso 1.4 Lts. SOHC Station 5P. T/M Motor Otto,1400,1474,151
+Mazda,CX-7 2.3 Lts. DOHC Turbo Wagon 5P. 4x4 T/A Motor Otto,2300,1134,273
+Zotye,Hunter 1.3 Lts. ABS SOHC Station Wagon 5P. T/M Motor Otto,1300,1247,176
+Aston Martin,DB9 5.9 Coupe 2P. T/A Motor Otto,5900,1134,333
+Aston Martin,DB9 Volante 5.9 Convertible 2P. T/A Motor Otto,5900,1134,333
+Mazda,CX-7 2.5 Lts. DOHC Wagon 5P. T/A Motor Otto,2500,1134,218
+Lexus,CT200h 1.8 Lts. Híbrido DOHC Hatch Back 5P. T/A. Vehículo Eléctrico Híbrido,1800,1134,90
+Nissan,Tiida (C11) 1.6 Lts. DOHC Hatch Back 5P T/M Motor Otto,1600,1474,163
+Nissan,Tiida (C11) 1.6 Lts. DOHC Sedan 4P T/M Motor Otto,1600,1474,163
+Chery,Fulwin 1.5 Lts. SOHC Hatch Back 5P. T/M Motor Otto,1500,1247,181
+Nissan,Tiida (C11) 1.6 Lts. DOHC Hatch Back 5P T/A Motor Otto,1600,1474,178
+Nissan,Tiida (C11) 1.6 Lts. DOHC Sedan 4P T/A Motor Otto,1600,1474,178
+Volvo,V60 2.0 Lts. T-DOHC Station Wagon 5P. T/A Motor Otto,2000,1474,206
+Ssangyong,Korando 2.0 Lts. DOHC 16v Station Wagon (Tipo Jeep) 5P. 4x4 T/A Motor Diesel,2000,1588,200
+Ssangyong,Korando 2.0 Lts. DOHC 16v Station Wagon (Tipo Jeep) 5P. 4x2 T/A Motor Diesel,2000,1588,200
+Chery,Beat 1.3 Lts. DOHC Station Wagon 5P. T/M Motor Otto,1300,1474,155
+Skoda,Fabia 1.6 Lts. DOHC Hatch Back 5P. T/M Motor CFNA Otto,1600,1247,168
+Suzuki,Alto 0.8 Lts. SOHC Hatch Back 5P. T/M motor Otto,800,1474,132
+Geely,MK 1.5 Lts. DOHC Sedan 4P. T/M Motor Otto,1500,1814,161
+Geely,MKRsi 1.5 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1500,1814,161
+Kia,Soul 1.6 Lts. DOHC Station Wagon 5P. T/A Motor Otto,1600,1474,175
+Mazda,MX-5 2.0 Lts. DOHC Coupe Deportivo 2P. T/M Motor Otto,2000,1814,202
+Kia,Cadenza 3.5 Lts. DOHC Sedan 4P. T/A Motor Otto,3500,1247,233
+Chevrolet,Captiva 2.4 Lts. DOHC Station Wagon 5P. 4x4 T/M Motor Otto,2400,1247,226
+Chevrolet,Captiva 2.4 Lts. DOHC Station Wagon 5P. 4x2 T/M Motor Otto,2400,1247,226
+Peugeot,508 1.6 Lts. DOHC Sedan 4P. T/M Motor Otto,1600,1701,158
+Volvo,C30 T5 2.5 Lts. DOHC Turbo Hatch Back 3P. T/M Motor Otto,2500,1474,223
+Chevrolet,Captiva 2.4 Lts. DOHC Station Wagon 5P. AWD T/A Motor Otto,2400,1247,293
+Chevrolet,Captiva 2.4 Lts. DOHC Station Wagon 5P. FWD T/A Motor Otto,2400,1247,293
+Lifan,320 1.3 Lts. Hatch Back 5P. T/M Motor Otto,1300,1701,168
+Volkswagen,Vento 2.0 Lts. SOHC Sedan 4P. T/A Motor CBP Otto,2000,1474,205
+Volkswagen,Vento 2.0 Lts. SOHC Sedan 4P. T/M Motor CBP Otto,2000,1474,193
+Volkswagen,Tiguan 2.0 Lts. TDI DOHC Station Wagon 5P. T/A 4x4 Motor Diesel,2000,1474,175
+Audi,A1 1.2 Lts. T-FSI SOHC Hatch Back 3P. T/M Motor CBZA Otto,1200,1701,120
+Audi,A1 1.2 Lts. T-FSI SOHC Hatch Back 5P. T/M Motor CBZA Otto,1200,1701,120
+M. Benz,CL 63 AMG 5.5 Lts. DOHC Coupe 2P. T/A Motor Otto,5500,1474,254
+Alfa Romeo,Mito 1.4 Lts. Quadrifoglio SOHC Hatch Back 3P. T/M Motor Otto,1400,1814,141
+Nissan,Sentra 2.0 Lts. DOHC Sedan 4P. T/M Motor Otto,2000,1474,203
+Citroen,C3 1.6 Lts. HDI SOHC Hatch Back 5P. T/M Motor Diesel,1600,1474,98
+Suzuki,Swift 1.4 Lts. DOHC Hatch Back 5P. T/A Motor Otto,1400,1474,152
+Suzuki,Swift 1.4 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1400,1474,135
+Hyundai,Elantra MD 1.8 Lts. DOHC Sedan 4P. T/A Motor Otto,1800,1134,179
+Hyundai,Elantra JK GLS 1.8 Lts. DOHC Coupe 2P. T/A Motor Otto,1800,1134,179
+Hyundai,Elantra MD FL 1.8 Lts. DOHC Sedan 4P. T/A Motor Otto,1800,1134,179
+Kia,Morning 1.2 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1200,1814,119
+Kia,Morning 1.0 Lts. DOHC Hatch Back 5P. T/A Motor Otto,1000,1814,132
+M. Benz,S63 AMG 5.5 Lts. DOHC Sedan 4P. T/A Motor Otto,5500,1474,254
+Hyundai,Accent RB 1.4 Lts. DOHC Sedan 4P. T/M Motor Otto,1400,1474,137
+Hyundai,Accent RB 1.4 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1400,1474,137
+Hyundai,Accent RB 1.6 Lts. DOHC Sedan 4P. T/A Motor Otto,1600,1474,151
+Hyundai,Accent RB 1.6 Lts. DOHC Hatch Back 5P. T/A Motor Otto,1600,1474,151
+Hyundai,Accent RB 1.6 Lts. DOHC Sedan 4P. T/M Motor Otto,1600,1474,139
+Hyundai,Accent RB 1.6 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1600,1474,139
+Aston Martin,Rapide 5.9 DOHC Hatch Back 4P. T/A Motor Otto,5900,1474,332
+Aston Martin,Rapide 5.9 DOHC Hatch Back 2P. T/A Motor Otto,5900,1474,332
+Aston Martin,Rapide S 5.9 DOHC Hatch Back 4P. T/A Motor Otto,5900,1474,332
+Hyundai,i10 PA F/L 1.1 Lts. SOHC Hatch Back 5P. T/M Motor Otto,1100,1247,121
+Hyundai,Elantra MD 1.8 Lts. DOHC Sedan 4P. T/M Motor Otto,1800,1134,155
+Hyundai,Elantra JK 1.8 Lts. DOHC Coupe 2P. T/M Motor Otto,1800,1134,155
+Chevrolet,Orlando 2.0 Lts. DOHC Station Wagon 5P. T/A Motor Diesel,2000,1814,188
+Nissan,Sentra 2.0 Lts. DOHC Sedan 4P. T/A Motor Otto,2000,1474,196
+Honda,Civic IMA Hybrid 1.5 Lts. DOHC Sedan 4P. T/A (CVT). Vehículo Eléctrico Híbrido,1500,1474,104
+Kia,Morning 1.0 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1000,1814,119
+Chery,Destiny 2.0 Lts. DOHC Station Wagon 5P. T/M Motot Otto,2000,1134,217
+Kia,Morning 1.2 Lts. DOHC Hatch Back 5P. T/A Motor Otto,1200,1814,138
+Kia,Carens 2.0 Lts. DOHC Sattion Wagon 5P. T/M Motor Otto,2000,1247,225
+MG,350 1.5 Lts. DOHC Sedan 4P. T/M Motor Otto,1500,1701,202
+MG,MG 5 1.5 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1500,1814,202
+MG,550 1.8 Lts. Turbo DOHC Sedan 4P. T/M Motor Otto,1800,1701,216
+MG,MG6 1.8 Lts. Turbo DOHC Hatch Back 5P. T/M Motor Otto,1800,1814,216
+MG,550 1.8 Lts. Turbo DOHC Sedan 4P. T/A Motor Otto,1800,1701,231
+MG,MG6 1.8 Lts. Turbo DOHC Hatch Back 5P. T/A Motor Otto,1800,1814,231
+Honda,Fit 1.3 Lts. LX SOHC Hatch Back 5P. T/A Motor Otto,1300,1247,167
+ZNA Dongfeng,Succe ZN6440V1B4 1.6 Lts. Mini Van 5P. T/M Motor Otto,1600,1474,209
+ZNA Dongfeng,H30 Cross 1.6 Lts. Station Wagon 5P. T/M Motor Otto,1600,1247,209
+ZNA Dongfeng,H30 1.6 Lts. Hatch Back 5P. T/M Motor Otto,1600,1247,209
+ZNA Dongfeng,S30 1.6 Lts. Sedan 4P. T/M Motor Otto,1600,1474,209
+Chevrolet,Spark LT HB 1.0 Lts. SOHC Hatch Back 5P. T/M Motor Otto,1000,1474,153
+Chevrolet,Orlando 2.0 Lts. DOHC Station Wagon 5P. T/M Motor Diesel,2000,1814,160
+Chevrolet,Spark SE 0.8 Lts. SOHC Hatch Back 5P. T/M Motor Otto,1000,1474,139
+Honda,Civic EX 1.8 Lts. SOHC Sedan 4P. T/A Motor Otto,1800,1474,176
+Honda,Civic EX 1.8 Lts. SOHC Sedan 4P. T/M Motor Otto,1800,1474,161
+Hyundai,i10 PA F/L 1.2 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1200,1247,137
+Hyundai,i10 PA F/L 1.2 Lts. DOHC Hatch Back 5P. T/A Motor Otto,1200,1247,153
+Opel,Insignia OPC Sport Tourer 2.8 Lts. DOHC Station Wagon 5P. 4x4 T/M Motor Otto,2800,1588,259
+Opel,Insignia OPC Sport Tourer 2.8 Lts. DOHC Sedan 4P. 4x4 T/M Motor Otto,2800,1588,259
+Brilliance,FSV 1.5 Lts. DOHC Sedan 4P. T/M Motor Otto,1500,1247,152
+Opel,Astra Sport Tourer 1.6 Lts. Turbo DOHC Hatch Back 5P. T/M Motor Otto,1600,1474,166
+Opel,Astra GTC 1.6 Lts. Turbo DOHC Hatch Back 3P. T/M Motor Otto,1600,1474,166
+Opel,Astra NB 1.6 Lts. Turbo DOHC Sedan 4P. T/M Motor Otto,1600,1474,166
+Audi,R8 Spyder 5.2 Lts. FSI DOHC Cabrio 2P. 4x4 T/A Motor BUJ Otto,5200,1474,332
+Audi,R8 Spyder 5.2 Lts. FSI DOHC Coupe 2P. 4x4 T/A Motor BUJ Otto,5200,1474,326
+Volkswagen,Bora 2.0 Lts. SOHC Sedan 4P. T/M Motor CBPA Otto,2000,1474,193
+Volkswagen,Bora 2.0 Lts. SOHC Sedan 4P. T/A Motor CBPA Otto,2000,1474,205
+Hyundai,Genesis BK 3.8 Lts. DOHC Coupe 3P. T/M Motor Otto,3800,1247,256
+Citroen,C5 1.6 Lts. Turbo SOHC Sedan 4P. T/A Motor Otto,1600,1247,187
+Volkswagen,Voyage (Gol) 1.6 Lts. SOHC Sedan 4P. T/M Motor CFZ Otto,1600,1474,173
+Volkswagen,Gol 1.6 Lts. SOHC Hatch Back 5P. T/M Motor CFZ Otto,1600,1247,173
+Volkswagen,Gol 1.6 Lts. SOHC Station Wagon 5P. T/M Motor CFZ Otto,1600,1247,173
+Volkswagen,Gol 1.6 Lts. Saveiro SOHC Pick Up Cabina Simple 2P. T/M Motor CFZ Otto,1600,1247,173
+Volkswagen,Gol 1.6 Lts. Saveiro SOHC Pick Up Cabina Extendida 4P. T/M Motor CFZ Otto,1600,1247,173
+Mitsubishi,Outlander K2 2.4 Lts. DOHC Station Wagon 5P. 4x4 T/A (CVT) Motor Otto,2400,1474,239
+Mitsubishi,Outlander K2 2.4 Lts. DOHC Station Wagon 5P. 4x2 T/A (CVT) Motor Otto,2400,1474,239
+Honda,Accord EX 3.5 Lts. V6 DOHC Sedan 4P. T/A Motor Otto,3500,1474,236
+Audi,A7 3.0 Lts. T-FSI DOHC Sportback 5P. 4x4 T/A Motor CGW Otto,3000,1474,192
+Citroen,C3 1.6 Lts. DOHC Hatch Back 5P. T/A Motor Otto,1600,1474,166
+Honda,Accord EXL 2.4 Lts. DOHC Sedan 4P. T/A Motor Otto,2400,1474,200
+M. Benz,S 500 CGI 4.7 Lts. DOHC Sedan 4 P. T/A Motor Otto,4700,1474,245
+M. Benz,S 500 CGI L 4.7 Lts. DOHC Sedan 4 P. T/A Motor Otto,4700,1474,245
+M. Benz,S 500 4Matic 4.7 Lts. DOHC Sedan Largo 4 P. T/A Motor Otto,4700,1474,245
+Honda,Fit LX 1.3 Lts. SOHC Hatch Back 5P. T/M Motor Otto,1300,1247,145
+M. Benz,S 350 CGI 3.5 Lts. DOHC Sedan 4P. T/A Motor Otto,3500,1474,210
+Opel,Zafira 1.8 DOHC Station Wagon 5P. MTA Motor Otto,1800,1247,165
+Volkswagen,Gol 1.6 Lts. SOHC Sedan 4P. T/A Motor CFZA Otto,1600,1247,173
+Volkswagen,Gol 1.6 Lts. SOHC Hatch Back 5. T/A Motor CFZA Otto,1600,1247,173
+Opel,Meriva 1.4 Lts. Turbo DOHC Station Wagon 5P. T/M Motor Otto,1400,1814,162
+Chevrolet,Captiva 2.2D Lts. DOHC Station Wagon 5P. AWD T/A Motor Diesel,2200,1247,221
+Chevrolet,Captiva 2.2D Lts. DOHC Station Wagon 5P. FWD T/A Motor Diesel,2200,1247,216
+Alfa Romeo,Mito 1.4 Lts. SOHC Hatch Back 3P. T/A Motor Otto,1400,1814,130
+Fiat,500 Pop 1.2 Lts. SOHC Hatch Back 3P. T/M Motor Otto,1200,1701,119
+Fiat,500 Pop Dualogic 1.2 Lts. SOHC Hatch Back 3P. T/M Motor Otto,1200,1701,119
+Fiat,500 Pop 1.2 Lts. SOHC Cabriolet 3P. T/M Motor Otto,1200,1701,126
+Fiat,500 Pop Dualogic 1.2 Lts. SOHC Cabriolet 3P. T/M Motor Otto,1200,1701,126
+DFSK,Van 1.3 EQ6380 SOHC 5P. T/M Motor Otto,1300,1474,192
+DFSK,Passenger Van 1.3 Lts. SOHC Station Wagon 5P. T/M Motor Otto,1300,1474,192
+Aston Martin,Vantage V12 5.9 DOHC Hatch Back 2P. T/M Motor Otto,5900,1474,388
+Chery,Tiggo 1.6 Lts. MPI 16v DOHC Station Wagon 5P. T/M Motor Otto,1600,1474,180
+Fiat,Grande Punto Dynamic JTD 1.2 Lts. DOHC Hatch Back 5P. T/M Motor Diesel,1200,1247,108
+Chevrolet,Captiva 2.2D Lts. DOHC Station Wagon 5P. AWD T/M Motor Diesel,2200,1247,197
+Chevrolet,Captiva 2.2D Lts. DOHC Station Wagon 5P. FWD T/M Motor Diesel,2200,1247,188
+Brilliance,Splendor 1.8 Lts. DOHC Sedan 4P. T/M Motor Otto,1800,1474,215
+Hyundai,Azera HG 3.0 Lts. V6 DOHC Sedan 4P. T/A Motor Otto,3000,1474,229
+Lifan,Mini Van Foison 1.3 Lts. DOHC Station Wagon 5P. T/M Motor Otto,1300,1814,203
+Lifan,520i 1.6 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1600,1701,201
+Lifan,520 1.6 Lts. DOHC Sedan 4P. T/M Motor Otto,1600,1701,201
+Skoda,Yeti 1.2 Lts. TSI SOHC Station Wagon 5P. T/A Motor CBZB Otto,1200,1247,154
+Lifan,520i 1.3 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1300,1701,201
+Lifan,520i 1.3 Lts. DOHC Sedan 4P. T/M Motor Otto,1300,1701,201
+Great Wall,Voleex C30 1.5 Lts. DOHC Sedan 4P. T/M Motro Otto,1500,1474,168
+Peugeot,207 Premium X Line 1.4 Lts. 75HP SOHC Hatch Back 5P. T/M Motor Otto,1400,1701,147
+M. Benz,E500 5.5 Lts. DOHC Cabriolet 2P. T/A Motor Otto,5500,1134,259
+Peugeot,3008 Confort 1.6 Lts. VTi 120HP DOHC Station Wagon Tipo SUV 5P. T/M Motor Otto,1600,1701,167
+Citroen,C4 Picasso 1.6 Lts. Hdi SOHC Sattion Wagon 5P. (7 Pasajeros) T/M Motor Diesel,1600,1247,142
+Citroen,C4 Picasso 1.6 Lts. Hdi SOHC Sattion Wagon 5P. (5 Pasajeros) T/M Motor Diesel,1600,1247,142
+Volvo,S80 T6 3.0 Lts. DOHC Sedan 4P. AWD T/A Motor Otto,3000,1474,239
+Volkswagen,Passat CC 2.0 Lts. T-FSI DOHC Sedan 4P. T/A Motor CCZB Otto,2000,1474,187
+Audi,A4 2.0 Lts. TDI DOHC Sedan 4P. T/A Motor CAGA Diesel,2000,1474,149
+Audi,A4 Avant 2.0 Lts. TDI DOHC Station Wagon 5P. T/A Motor CAGA Diesel,2000,1474,149
+Audi,Q5 3.0 Lts. TDI DOHC Station Wagon 5P. 4x4 T/A Motor CCWA Diesel,3000,1474,205
+Volkswagen,Crossfox 1.6 Lts. SOHC Hatch Back 5P. T/M Motor CFZA Otto,1600,1134,194
+Citroen,C4 1.6 Lts. Hdi SOHC Hatch Back 5P. T/M Motor Diesel,1600,1474,123
+Audi,A1 1.4 Lts. T-FSI DOHC Hatch Back 3P. T/A Motor CAVG Otto,1400,1701,141
+Audi,A1 1.4 Lts. T-FSI DOHC Hatch Back 5P. T/A Motor CAVG Otto,1400,1701,139
+Peugeot,508 1.6 Lts. HDi 112HP Access SOHC Sedan 4P. T/M Motor Diesel,1600,1701,127
+Peugeot,508 Confort 1.6 Lts. HDi 112HP SOHC CMP Sedan 4P. T/M Motor Diesel,1600,1701,127
+Skoda,Yeti 1.4 Lts. TSI DOHC Station Wagon 5P. T/M Motor CAXA Otto,1400,1247,163
+Skoda,Octavia 1.4 Lts. TSI DOHC Sedan 5P. T/M Motor CAXA Otto,1400,1814,158
+Opel,Corsa OPC 1.6T Lts. DOHC Hatch Back 3P. T/M Motor Otto,1600,1134,171
+Peugeot,508 2.0 Lts. HDi 163HP Active DOHC Sedan 4P. T/A Motor Diesel,2000,1701,148
+Citroen,C5 2.0 Lts. HDi SOHC Sedan 4P. T/M Motor Diesel,2000,1247,152
+Citroen,C5 Break 2.0 Lts. HDi SOHC Station 5P. T/M Motor Diesel,2000,1247,152
+Opel,Corsa 1.4 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1400,1134,134
+Opel,Corsa 1.4 Lts. DOHC Hatch Back 3P. T/M Motor Otto,1400,1134,134
+Peugeot,508 1.6 Lts. Active 156HP DOHC Sedan 4P. T/A Motor Otto,1600,1701,180
+Peugeot,Limited 1.6 Lts. THP 156HP DOHC Sedan 4P. T/A Motor Otto,1600,1814,180
+Nissan,March 1.6 Lts. DOHC Hatch Back 5P. T/A Motor Otto,1600,1814,170
+Volvo,V60 T5 Plus 2.0T Lts. DOHC Station Wagon 5P. T/A Motor Otto,2000,1474,198
+Nissan,March 1.6 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1600,1814,161
+MG,550 1.8 Lts. DVVT DOHC Sedan 4P. T/A Motor Otto,1800,1701,226
+MG,6 1.8 Lts. DVVT DOHC Hatch Back 5P. T/A Motor Otto,1800,1701,226
+MG,MG6 1.8 Lts. DVVT DOHC Sedan 4P. T/A Motor Otto,1800,1814,226
+Chevrolet,Corvette 6.2 Lts. OHC V8 Coupe 2P. T/M Motor Otto,6200,1134,293
+Chevrolet,Corvette 6.2 Lts. OHC V8 Convertible 2P. T/M Motor Otto,6200,1134,293
+Citroen,C4 1.6 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1600,1474,149
+Chevrolet,Corvette 6.2 Lts. Grand Sport OHC V8 Coupe 2P. T/A Motor Otto,6200,1134,313
+Chevrolet,Corvette 6.2 Lts. Grand Sport OHC V8 Convertible 2P. T/A Motor Otto,6200,1134,313
+Brilliance,Splendor Wagon-Cross 2.0 Lts. DOHC Station Wagon 5P. T/M Motor Otto,2000,1474,211
+Peugeot,207 Premium 150HP 1.6 Lts. DOHC Hatch Back 3P. T/M Motor Otto,1600,1701,170
+Audi,Q5 2.0 Lts. TDI DOHC Station Wagon 5P. 4x4 T/A Motor CGLB Diesel,2000,1474,184
+MG,750 2.5 Lts. DOHC Sedan 4P. T/A Motor Otto,2500,1701,275
+Audi,TTRS 2.5 Lts. T-FSI Quattro DOHC Coupé 3P. 4x4 T/A Motor CEPA Otto,2500,1474,197
+Skoda,Octavia 1.4 Lts. TSI DOHC Sedan 5P. T/A Motor CAXA Otto,1400,1814,152
+MG,350 S VTI 1.5 Lts. DOHC Sedan 4P. T/A Motor Otto,1500,1701,196
+MG,MG5 1.5 Lts. DOHC Hatch Back 5P. T/A Motor Otto,1500,1814,196
+Opel,Insignia NB 2.0 DOHC Sedan 4P. T/A Motor Otto,2000,1588,205
+Volkswagen,Suran 1.6 Lts. SOHC Station Wagon 5P. T/M Motor CFZ Otto,1600,1474,172
+Volkswagen,Suran Cross 1.6 Lts. SOHC Station Wagon 5P. T/M Motor CFZ Otto,1600,1474,172
+Toyota,Camry 2.5 Lts. DOHC Sedan 4P. T/A Motor Otto,2500,1247,188
+Toyota,Camry 3.5 Lts. DOHC Sedan 4P. T/A Motor Otto,3500,1247,224
+Fiat,Palio Weekend Trekking 1.4 Lts. SOHC Station Wagon 5P. T/M Motor Otto,1400,1474,190
+Chrysler,Town & Country Touring SE 3.6 Lts. V6 DOHC Tipo Van (7 asientos) 5P. T/A Motor Otto,3600,1474,252
+Chrysler,Town & Country Touring 3.6 Lts. V6 DOHC Tipo Van (7 asientos) 5P. T/A Motor Otto,3600,1474,252
+Chrysler,Town & Country Touring LX SE 3.6 Lts. V6 DOHC Tipo Van (7 asientos) 5P. T/A Motor Otto,3600,1474,252
+Chrysler,Town & Country Touring LX 3.6 Lts. V6 DOHC Tipo Van (7 asientos) 5P. T/A Motor Otto,3600,1474,252
+BYD,F3 1.5 Lts. SOHC Sedan 4P. T/M Motor Otto,1500,1134,153
+BYD,G3 1.5 Lts. SOHC Sedan 4P. T/M Motor Otto,1500,1247,153
+BYD,F3R 1.5 Lts. SOHC Hatch Back 5P. T/M Motor Otto,1500,1134,153
+BYD,New F3 1.5 Lts. SOHC Sedan 4P. T/M Motor Otto,1500,1814,153
+Opel,Astra 1.6 DOHC Station Wagon 5P. T/A Motor Otto,1600,1474,171
+Opel,Astra 1.6 DOHC Hatch Back 5P. T/A Motor Otto,1600,1474,171
+Chevrolet,Sonic 1.6 Lts. DOHC Sedan 4P. T/A Motor Otto,1600,1474,178
+Chevrolet,Sonic 1.6 Lts. DOHC Hatch Back 5P. T/A Motor Otto,1600,1474,178
+Hyundai,Elantra MD 1.6 Lts. DOHC Sedan 4P. T/M Motor Otto,1600,1134,157
+Hyundai,Elantra JK 1.6 Lts. DOHC Coupe 2P. T/M Motor Otto,1600,1134,157
+Hyundai,Elantra MD FL 1.6 Lts. DOHC Sedan 4P. T/M Motor Otto,1600,1134,157
+Hyundai,Elantra MD 1.6 Lts. DOHC Sedan 4P. T/A Motor Otto,1600,1134,164
+Hyundai,Elantra MD FL 1.6 Lts. DOHC Sedan 4P. T/A Motor Otto,1600,1134,164
+Brilliance,FRV Cross 1.5 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1500,1247,171
+Peugeot,207 Compact X Line 1.4 Lts. HDI SOHC Hatch Back 5P. T/M Motor Diesel,1400,1701,106
+Peugeot,207 Premium 1.6 Lts. HDI 92 HP SOHC Hatch Back 5P. T/M Motor Diesel,1600,1701,115
+Kia,Rio UB 1.4 Lts. DOHC Hatch Back 5P. T/A Motor Otto,1400,1474,163
+Kia,Rio UB 1.4 Lts. DOHC Sedan 4P. T/A Motor Otto,1400,1474,163
+Kia,Rio UB 1.4 Lts. OHC Hatch Back 3P. T/A Motor Otto,1400,1474,163
+Kia,Rio UB 1.4 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1400,1474,151
+Kia,Rio UB 1.4 Lts. DOHC Sedan 4P. T/M Motor Otto,1400,1474,151
+Kia,Rio UB 1.4 Lts. DOHC Hatch Back 3P. T/M Motor Otto,1400,1474,151
+Opel,Astra 1.6 DOHC Station Wagon 5P. T/M Motor Otto,1600,1474,154
+Opel,Astra 1.6 DOHC Hatch Back 5P. T/M Motor Otto,1600,1474,154
+Dodge,Charger R/T 5.7 Hemi MDS V8 OHV Sedan 4P. T/A Motor Otto,5700,1474,320
+Dodge,Challenger SRT8 6.4 Hemi V8 OHV Sedan 2P. T/A Motor Otto,6400,1474,363
+Citroen,C4 1.6 Lts. DOHC Hatch Back 5P. T/A Motor Otto,1600,1474,159
+Chevrolet,Sonic 1.6 Lts. DOHC Sedan 4P. T/M Motor Otto,1600,1474,165
+Chevrolet,Sonic 1.6 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1600,1474,165
+M. Benz,SLK 200 1.8 Lts. DOHC Roadster 2P. T/A Motor Otto,1800,1474,163
+M. Benz,CLS 63 AMG 5.5 Lts. DOHC Sedan 4P. T/A Motor Otto,5500,1474,233
+M. Benz,E 63 AMG 5.5 Lts. DOHC Sedan 4P. T/A Motor Otto,5500,1134,233
+BMW,M Coupé 3.0 Lts. DOHC 2P. T/M Motor Otto,3000,1814,224
+Nissan,Versa (N17) 1.6 Lts. DOHC Sedan 4P. T/M Motor Otto,1600,1474,159
+Nissan,Versa (N17) 1.6 Lts. DOHC Sedan 4P. T/A Motor Otto,1600,1474,166
+Audi,A6 3.0 Lts. TDI DOHC Sedan 4P. 4x4 T/A Motor CDUC Diesel,3000,1474,162
+Audi,A6 Avant 3.0 Lts. TDI DOHC Station Wagon 5P. 4x4 T/A Motor CDUC Diesel,3000,1474,162
+Audi,A6 Allroad 3.0 Lts. TDI DOHC Station Wagon 5P. 4x4 T/A Motor CDUC Diesel,3000,1474,162
+Lifan,X60 1.8 Lts. DOHC Statioon Wagon 5P. T/M Motor Otto,1800,1701,191
+Kia,Soul 1.6 Lts. DOHC Station Wagon 5P. T/M Motor Otto,1600,1474,169
+Fiat,Panda 1.2 Lts. SOHC MPI Hatch Back 5P. T/M Motor Otto,1200,1474,128
+Hyundai,Accent RB 1.6 Lts. CRDi Sedan 4P. T/M Motor Diesel,1600,1474,134
+Hyundai,Accent RB 1.6 Lts. CRDi Hatch Back 5P. T/M Motor Diesel,1600,1474,134
+Kia,Soul 1.6 Lts. DOHC Station Wagon 5P. T/A Motor Otto,1600,1474,177
+Skoda,Octavia 1.6 Lts. TDI DOHC Sedan 4P. T/A Motor CAYC Diesel,1600,1814,142
+BMW,650I 4.4 Lts. DOHC Cabriolet 2P. T/A Motor Otto,4400,1701,214
+BMW,650I 4.4 Lts. DOHC Coupe 2P. T/A Motor Otto,4400,1701,206
+BMW,650I GC 4.4 Lts. DOHC Sedan 4P. T/A Motor Otto,4400,1701,206
+BMW,640I 3.0 Lts. DOHC Cabriolet 2P. T/A Motor Otto,3000,1701,181
+BMW,640I 3.0 Lts. DOHC Coupe 2P. T/A Motor Otto,3000,1701,177
+BMW,640I GC 3.0 Lts. DOHC Sedan 4P. T/A Motor Otto,3000,1701,179
+Peugeot,308 Confort Pack 1.6 Lts. Hdi SOHC Hatch Back 5P. T/M Motor Diesel,1600,1701,118
+Peugeot,308 Active 1.6 Lts. eHdi SOHC Hatch Back 5P. T/M Pilotada Motor Diesel,1600,1701,120
+Peugeot,Tepee Outdoor 1.6 Lts. HDi SWOHC 92 HP Station Wagon 5P. T/M Motor Diesel,1600,1474,149
+Chevrolet,Cruze 2.0D Lts. DOHC Hatch Back 5P. T/M Motor Diesel,2000,1134,165
+Chevrolet,Cruze 2.0D Lts. DOHC Sedan 4P. T/M Motor Diesel,2000,1134,165
+Haima,2 1.3 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1300,1701,167
+Haima,2 1.5 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1500,1701,171
+Hyundai,Veloster FS 1.6 Lts. DOHC Hatch Back 4P. T/M Motor Otto,1600,1474,149
+Hyundai,Veloster FS 1.6 Lts. DOHC Hatch Back 4P. T/A Motor Otto,1600,1474,163
+Jac,J5 VVT 1.5 Lts. DOHC Sedan 4P. T/M Motor Otto,1500,1588,185
+Volvo,XC60 T5 2.0 Lts. DOHC Station Wagon 5P. T/A Motor Otto,2000,1701,207
+Volvo,XC60 D5 AWD 2.4 Lts. DOHC Station Wagon 5P. T/A Motor Diesel,2400,1701,180
+Ford,Focus 2.0 Lts. DOHC Sedan 4P. T/A Motor Otto,2000,1247,177
+Ford,Focus 2.0 Lts. DOHC Hatch Back 5P. T/A Motor Otto,2000,1247,177
+Mini,Cooper D Countryman 1.6 Lts. All 4 DOHC Station Wagon 5P. 4WD T/M Motor Diesel,1600,1644,129
+Mini,Cooper D Countryman 1.6 Lts. DOHC Station Wagon 5P. 2WD T/M Motor Diesel,1600,1644,129
+Mini,Cooper D 1.6 Lts. DOHC Hatch Back 3P. 4x2 T/M Motor Diesel,1600,1644,99
+Mini,Cooper SD Countryman 2.0 Lts. All 4 DOHC Station Wagon 5P. 4WD T/A Motor Diesel,2000,1644,160
+Mini,Cooper SD Countryman 2.0 Lts. DOHC Station Wagon 5P. 2WD T/A Motor Diesel,2000,1644,160
+Volkswagen,Passat B7 V6 3.6 Lts. FSI DOHC Sedan 4P. 4x4 T/A Motor BWS Otto},3600,1474,227
+BMW,X3 Xdrive20d 2.0 Lts. DOHC Station Wagon 5P. 4x4 T/M Motor Diesel,2000,1701,149
+Chrysler,300C 3.6 V6 DOHC Sedan 4P. T/A Motor Otto,3600,1701,247
+Mini,Cooper SD Countryman 2.0 Lts. All 4 DOHC Station Wagon 5P. 4WD T/M Motor Diesel,2000,1644,130
+Mini,Cooper SD Countryman 2.0 Lts. DOHC Station Wagon 5P. 2WD T/M Motor Diesel,2000,1644,130
+Mini,Cooper D Countryman 2.0 Lts. All 4 DOHC Station Wagon 5P. 4WD T/A Motor Diesel,2000,1644,158
+Mini,Cooper D Countryman 2.0 Lts. DOHC Station Wagon 5P. 2WD T/A Motor Diesel,2000,1644,158
+Mini,Cooper D 2.0 Lts. DOHC Hatch Back 3P. T/A Motor Diesel,2000,1644,135
+Mini,Cooper D 2.0 Lts. DOHC Coupe 3P. T/A 4x2 Motor Diesel,2000,1644,149
+Mini,Paceman Cooper D ALL4 2.0 Lts. Coupé 3P. T/A 4x4 Motor Diesle,2000,1474,158
+Mitsubishi,Lancer GLX 1.6 Lts. SOHC Sedan 4P. T/M Motor Otto,1600,1588,157
+Toyota,Yaris 1.3 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1300,1247,146
+Toyota,Yaris 1.3 Lts. DOHC Hatch Back 3P. T/M Motor Otto,1300,1247,146
+Toyota,Yaris 1.3 Lts. DOHC Hatch Back 5P. T/A Motor Otto,1300,1247,157
+Toyota,Yaris 1.3 Lts. DOHC Hatch Back 3P. T/A Motor Otto,1300,1247,157
+BMW,X1 xDrive20d 2.0 Lts. DOHC Station Wagon 5P. T/M Motor Diesel,2000,1701,139
+Volvo,S40 DRIVe 1.6 Lts. TDI SOHC Sedan 4P. T/M Motor Diesel,1600,1474,102
+Volvo,C30 DRIVe 1.6 Lts. TDI SOHC Hatch Back 3P. T/M Motor Diesel,1600,1474,102
+Citroen,C4 Picasso 2.0 Lts. DOHC Station Wagon 5P. (7 Asientos) HDI T/M Motor Diesel,2000,1247,142
+Citroen,C4 Picasso 2.0 Lts. DOHC Station Wagon 5P. (5 Asientos) HDI T/M Motor Diesel,2000,1247,142
+Kia,Rio UB 1.2 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1200,1474,130
+Kia,Rio UB 1.2 Lts. DOHC Sedan 4P. T/M Motor Otto,1200,1474,130
+Kia,Rio UB 1.2 Lts. DOHC Hatch Back 3P. T/M Motor Otto,1200,1474,130
+Honda,Fit Type S 1.5 Lts. SOHC Hatch Back 5P. T/A Motor Otto,1500,1247,172
+Infiniti,G25 2.6 Lts. V6 DOHC Sedan 4P. T/A Motor Otto,2600,1247,235
+Subaru,Tribeca 3.6 Lts. DOHC Station Wagon 5P. (7 Pasajeros) AWD T/A Motor Otto,3600,1474,293
+Subaru,Tribeca 3.6 Lts. DOHC Station Wagon 5P. (5 Pasajeros) AWD T/A Motor Otto,3600,1474,293
+Aston Martin,Virage 5.9 Lts. V12 DOHC Coupe 2P. T/A Motor Otto,5900,1474,349
+Aston Martin,Virage Volante 5.9 Lts. V12 DOHC Convertible 2P. T/A Motor Otto,5900,1474,349
+Infiniti,Q60 S 3.7 Lts. V6 DOHC Coupe 2P. T/A Motor Otto,3700,1474,259
+Ford,Focus 2.0 Lts. DOHC Sedan 4P. T/M Motor Otto,2000,1247,177
+Ford,Focus 2.0 Lts. DOHC Hatch Back 5P. T/M Motor Otto,2000,1247,177
+Opel,Insignia OPC Sport Tourer 2.8 Lts. DOHC Station Wagon 5P. 4x4 T/A Motor Otto,2800,1588,268
+Opel,Insignia OPC Sport Tourer 2.8 Lts. DOHC Sedan 4P. 4x4 T/A Motor Otto,2800,1588,268
+M. Benz,E 350 3.5 Lts. DOHC Coupe 2P. T/A Motor Otto,3500,1134,213
+M. Benz,E 350 3.5 Lts. DOHC Cabriolet 2P. T/A Motor Otto,3500,1134,213
+M. Benz,C 350 3.5 Lts. DOHC Sedan 4P. T/A Motor Otto,3500,1474,213
+M. Benz,C 350 BlueEfficiency 3.5 Lts. DOHC Coupé 2P. T/A Motor Otto,3500,1474,213
+Renault,Laguna III 2.0 Lts. DOHC Hatch Back 5P. T/A Motor Otto,2000,1588,217
+Infiniti,G37 X 3.7 Lts. V6 DOHC Sedan 4P. T/A 4x4 Motor Otto,3700,1247,258
+Infiniti,Q60 C 3.7 Lts. V6 DOHC Convertible 2P. T/A 4x4 Motor Otto,3700,1474,258
+Volvo,S60 T5 2.0 Lts. DOHC Sedan 4P. T/A Motor Otto,2000,1474,204
+Geely,SL 1.8 Lts. DOHC Sedan 4P. T/M Motor Otto,1800,1474,188
+Geely,SC7 1.8 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1800,1474,188
+Jeep,Wrangler Unlimited Sahara 2.8 Lts. L-4 DOHC CRD Tipo Jeep 5P. (5 Astos.) 4x4 T/A Motor Diesel,2800,1474,217
+Jeep,Wrangler Unlimited Sport 2.8 Lts. L-4 DOHC CRD Tipo Jeep 5P. (5 Astos.) 4x4 T/A Motor Diesel,2800,1474,217
+Jeep,Wrangler Unlimited Rubicom 2.8 Lts. L-4 DOHC CRD Tipo Jeep 5P. (5 Astos.) 4x4 T/A Motor Diesel,2800,1474,217
+Jeep,Wrangler Sport 2.8 Lts. L-4 DOHC CRD Tipo Jeep 3P. (4 Astos.) 4x4 T/A Motor Diesel,2800,1474,213
+Jeep,Wrangler Sahara 2.8 Lts. L-4 DOHC CRD Tipo Jeep 3P. (4 Astos.) 4x4 T/A Motor Diesel,2800,1474,213
+Jeep,Wrangler Ribicom 2.8 Lts. L-4 DOHC CRD Tipo Jeep 3P. (4 Astos.) 4x4 T/A Motor Diesel,2800,1474,213
+Honda,City 1.5 Lts. DOHC Sedan 4P. T/A Motor Otto,1500,1474,175
+Honda,City 1.5 Lts. DOHC Sedan 4P. T/M Motor Otto,1500,1474,168
+Renault,Clio III 1.6 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1600,1474,174
+Skoda,Yeti 2.0 Lts. TDI DOHC Station Wagon 5P. T/M Motor CFHA Diesel,2000,1247,153
+Skoda,Fabia 1.6 Lts. TDI DOHC Hatch Back 5P. T/M Motor CAYC Diesel,1600,1247,130
+M. Benz,SLK 350 3.5 Lts. DOHC Roadster 2P. T/A Motor Otto,3500,1474,196
+Infiniti,QX70 3.7 Lts. V6 DOHC Station Wagon 5P. 4x4 T/A Motor Otto,3700,1474,334
+Skoda,Yeti 2.0 Lts. TDI DOHC Station Wagon 5P. T/A 4x4 Motor CFHC Diesel,2000,1247,169
+Volvo,S60 D5 2.4 Lts. DOHC Sedan 4P. AWD T/A Motor Diesel,2400,1474,168
+Audi,A6 3.0 Lts. T-FSI DOHC Sedan 4P. 4x4 T/A Motor CGWB Otto,3000,1474,194
+Volvo,XC70 D5 AWD 2.4 Lts. DOHC Station Wagon 5P. T/A Motor Diesel,2400,1701,179
+Land Rover,Range Rover Evoque 2.0T Lts. Pure DOHC Station Wagon 5P. T/A Motor Otto,2000,1474,230
+Land Rover,Range Rover Evoque 2.0T Lts. Dynamic DOHC Coupe 3P. T/A Motor Otto,2000,1474,230
+Land Rover,Range Rover Evoque 2.0T Lts. Prestige DOHC Station Wagon 5P. T/A Motor Otto,2000,1474,230
+Land Rover,Range Rover Evoque 2.0T Lts. Pure SE DOHC Station Wagon 5P. T/A Motor Otto,2000,1474,230
+M. Benz,C300 CGI 3.5 Lts. DOHC Sedan 4P. T/A Motor Otto,3500,1474,194
+BMW,X1 sDrive20d 2.0 Lts. DOHC Station Wagon 5P. T/M Motor Diesel,2000,1701,139
+BMW,X1 sDrive20d 2.0 Lts. DOHC Station Wagon 5P. T/A Motor Diesel,2000,1701,164
+BMW,X1 xDrive20d 2.0 Lts. DOHC Station Wagon 5P. T/A Motor Diesel,2000,1701,164
+BMW,X1 xDrive18d 2.0 Lts. DOHC Station Wagon 5P. T/A Motor Diesel,2000,1701,153
+Honda,Civic Si 2.4 Lts. DOHC Coupe 2P. T/M Motor Otto,2400,1474,203
+Dodge,Journey SXT 3.6 Lts. DOHC Station Wagon 5P. T/A Motor Otto,3600,1588,242
+Dodge,Journey SXT AWD 3.6 Lts. DOHC Station Wagon 5P. T/A Motor Otto,3600,1588,242
+Dodge,Journey R/T 3.6 Lts. DOHC Station Wagon 5P. T/A Motor Otto,3600,1588,242
+Dodge,Journey R/T AWD 3.6 Lts. DOHC Station Wagon 5P. T/A Motor Otto,3600,1588,242
+Hyundai,Equus VI 4.6 Lts. AT8 DOHC Sedan 4P. T/A Motor Otto,4600,1134,264
+Audi,A6 2.0 Lts. T-FSI DOHC Sedan 4P. T/A Motor Otto,2000,1474,151
+Volkswagen,Tiguan 2.0 Lts. T-FSI DOHC Station Wagon 5P. 4x4 T/A Motor CAWA Otto,2000,1474,234
+Honda,CR-V EXL 2.4 Lts. DOHC Hatch Back 5P. 4x4 T/A Motor Otto,2400,1134,206
+Honda,CR-V LX 2.4 Lts. DOHC Hatch Back 5P. 4x2 T/A Motor Otto,2400,1134,206
+Honda,CR-V LXS 2.4 Lts. DOHC Hatch Back 5P. 4x2 T/A Motor Otto,2400,1134,206
+Honda,CR-V EX 2.4 Lts. DOHC Hatch Back 5P. 4x4 T/A Motor Otto,2400,1134,206
+Honda,CR-V EXR 2.4 Lts. DOHC Hatch Back 5P. 4x4 T/A Motor Otto,2400,1134,206
+Hyundai,Genesis BH AT8 3.3 Lts. DOHC Sedan 4P. T/A Motor Otto,3300,1247,244
+Renault,Duster 1.6 Lts. DOHC Station 5P. T/M Motor Otto,1600,1134,196
+Renault,Duster 2.0 Lts. DOHC Station 5P. T/M Motor Otto,2000,1134,203
+Renault,Duster 2.0 Lts. DOHC Station 5P. 4x4 T/M Motor Otto,2000,1134,235
+BMW,M3 GTS 4.4 Lts. DOHC Coupe 2P. T/A Motor Otto,4400,1814,295
+BMW,M3 CRT 4.4 Lts. DOHC Sedan 4P. T/A Motor Otto,4400,1814,295
+Citroen,C3 Picasso 1.6 Lts. DOHC Station 5P. T/M Motor Otto,1600,1474,163
+BMW,120I 2.0 Lts. DOHC Cabriolet 2P. T/M Motor Otto,2000,0,204
+Citroen,C4 1.4 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1400,1474,147
+BMW,730d 3.0 Lts. DOHC Sedan 4P. T/A Motor Diesel,3000,1701,178
+M. Benz,E 500 CGI 4.7 Lts. DOHC Sedan 4P. T/A Motor Otto,4700,1134,231
+M. Benz,CLS 500 CGI 4.7 Lts. DOHC Sedan 4P. T/A Motor Otto,4700,1474,230
+M. Benz,E 500 CGI 4.7 Lts. DOHC Coupe 2P. T/A Motor Otto,4700,1134,231
+M. Benz,E 500 CGI 4.7 Lts. DOHC Cabriolet 2P. T/A Motor Otto,4700,1134,233
+M. Benz,GLK 220 CDI 2.1 Lts. DOHC Station Wagon 5P. T/A Motor Diesel,2100,1247,197
+Volvo,S60 T4 1.6 Lts. DOHC Sedan 4P. T/A Motor Otto,1600,1474,173
+M. Benz,C 63 AMG 6.2 Lts. DOHC Coupe 2P. T/A Motor Otto,6200,1474,283
+Volkswagen,Tiguan 1.4 Lts. TSI DOHC Station Wagon 5P. T/M Motor CAXA Otto,1400,1474,187
+Jac,J2 1.0 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1000,1588,150
+Skoda,Octavia 1.6 Lts. TDI DOHC Sedan 4P. T/M Motor CAYC Diesel,1600,1814,144
+Opel,Insignia NB 2.0 Lts. Turbo DOHC Sedan 4P. T/M Motor Otto,2000,1588,190
+Mitsubishi,Lancer R 1.6 Lts. DOHC Sedan 4P. T/M Motor Otto,1600,1588,150
+Peugeot,Tepee Outdoor 1.6 Lts. HDi 90HP SOHC Station Wagon 5P. (5 Pasajeros) T/M Motor Diesel,1600,1474,146
+Opel,Insignia ST 2.0 Lts. Turbo DOHC Station Wagon 5P. T/A Motor Otto,2000,1588,214
+Opel,Insignia NB 2.0 Lts. Turbo DOHC Sesdan 4P. T/A Motor Otto,2000,1588,214
+Mitsubishi,Lancer R 1.6 Lts. DOHC Sedan 4P. T/A Motor Otto,1600,1588,188
+M. Benz,E 350 CGI 3.5 Lts. DOHC Sedan 4P. T/A Motor Otto,3500,1134,201
+M. Benz,CLS 350 CGI 3.5 Lts. DOHC Sedan 4P. T/A Motor Otto,3500,1474,201
+Volvo,S80 T5 2.0 Lts. DOHC Sedan 4P. T/A Motor Otto,2000,1474,200
+Volvo,S80 D5 2.4 Lts. DOHC Sedan 4P. AWD T/A Motor Diesel,2400,1474,172
+Lexus,LS 460 4.6 Lts. DOHC Sedan 4P. T/A Motor Otto,4600,1814,263
+Opel,Astra ST 1.6 Lts. Turbo DOHC Station Wagon 5P. T/A Motor Otto,1600,1474,177
+Opel,Astra ST 1.6 Lts. Turbo DOHC Hatch Back 5P. T/A Motor Otto,1600,1474,177
+Opel,Astra NB 1.6 Lts. Turbo DOHC Sedan 4P. T/A Motor Otto,1600,1474,177
+Infiniti,QX50 3.7 Lts. DOHC Station Wagon 5P. 4x4 T/A Motor Otto,3700,1474,279
+Opel,Corsa HB 1.6 Lts. Turbo DOHC Hatch Back 5P. T/M Motor Otto,1600,1134,171
+Opel,Corsa HB 1.6 Lts. Turbo DOHC Hatch Back 3P. T/M Motor Otto,1600,1134,171
+Honda,Civic 1.8 Lts. SOHC Coupe 2P. T/A Motor Otto,1800,1474,176
+Peugeot,5008 Active 1.6 Lts. e-Hdi SOHC (110 hp) Sation Wagon 5P. T/M Motor Diesel,1600,1701,146
+Peugeot,5008 Active 1.6 Lts. e-Hdi SOHC (112 hp) Sation Wagon 5P. T/M Motor Diesel,1600,1701,139
+BMW,116i 1.6 Lts. DOHC Hacth Back 5P. T/M Motor Otto,1600,0,132
+BMW,114i 1.6 Lts. DOHC Hacth Back 3P. T/M Motor Otto,1600,0,132
+BMW,116i 1.6 Lts. DOHC Hacth Back 3P. T/M Motor Otto,1600,0,132
+BMW,114i 1.6 Lts. DOHC Hacth Back 5P. T/M Motor Otto,1600,0,132
+M. Benz,A 180 1.7 Lts. SOHC Hatch Back 5P. T/A Motor Otto,1700,1701,190
+BMW,730I 3.0 Lts. DOHC Sedan 4P. T/A Motor Otto,3000,1701,229
+Nissan,Juke (F15) 1.6 Lts. Turbo DOHC Station Wagon 5P. T/A Motor Otto,1600,1588,147
+Nissan,Juke (F15) 1.6 Lts. Turbo DOHC Station Wagon 5P. T/M Motor Otto,1600,1588,169
+BMW,120d 2.0 Lts. DOHC Hatch Back 5P. T/A Motor Diesel,2000,0,116
+BMW,116i 1.6 Lts. DOHC Hatch Back 5P. T/A Motor Otto,1600,0,134
+BMW,116i 1.6 Lts. DOHC Hatch Back 3P. T/A Motor Otto,1600,0,134
+BMW,316i 1.6 Lts. DOHC Sedan 4P. T/A Motor Otto,1600,1701,134
+BMW,118i 1.6 Lts. DOHC Hatch Back 5P. T/A Motor Otto,1600,0,150
+Subaru,XV 2.0R 2.0 Lts. CVT DOHC Wagon 5P. AWD T/A Motor Otto,2000,1247,187
+Subaru,Impreza 2.0R 4D 2.0 Lts. CVT DOHC Sedan 4P. AWD T/A Motor Otto,2000,1247,180
+Subaru,Impreza 2.0R 5D 2.0 Lts. CVT DOHC Wagon 5P. AWD T/A Motor Otto,2000,1247,180
+Subaru,XV 2.0R 2.0 Lts. DOHC Wagon 5P. AWD T/M Motor Otto,2000,1247,189
+Subaru,Impreza 2.0R 4D 2.0 Lts. DOHC Sedan 4P. AWD T/M Motor Otto,2000,1247,185
+Subaru,Impreza 2.0R 5D 2.0 Lts. DOHC Wagon 5P. AWD T/M Motor Otto,2000,1247,185
+Chevrolet,Cruze NB 2.0D Lts. DOHC Sedan 4P. T/A Motor Diesel,2000,1134,178
+Chevrolet,Cruze HB 2.0D Lts. DOHC Hatch Back 5P. T/A Motor Diesel,2000,1134,178
+Toyota,Prius C 1.5 Lts. CVT DOHC Hatch Back 5P. T/A. Vehículo Eléctrico Híbrido,1500,1474,97
+Jaguar,XKR-S 5.0 Lts. DOHC Coupé 3P. T/A Motor Otto,5000,1247,292
+Opel,Corsa HB 1.4 Lts. DOHC Hatch Back 5P. T/A Motor Otto,1400,1134,143
+Opel,Corsa HB 1.4 Lts. DOHC Hatch Back 3P. T/A Motor Otto,1400,1134,143
+Opel,Meriva Enjoy 1.4 Lts. Turbo DOHC Station Wagon 5P. T/M Motor Otto,1400,1814,147
+Audi,RS3 Sportback 2.5 Lts. T-FSI DOHC Hatch Back 5P. 4x4 T/A Motor Otto,2500,1474,212
+Opel,Insignia ST 2.0 Lts. Turbo DOHC Station Wagon 5P. AWD T/A Motor Otto,2000,1588,221
+Opel,Insignia NB 2.0 Lts. Turbo DOHC Sedan 4P. AWD T/A Motor Otto,2000,1588,221
+Suzuki,Swift Sport 1.6 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1600,1474,164
+Changan,CV2 1.5 Lts. SOHC Sedan 4P. T/M Motor Otto,1500,1134,177
+Changan,Alsvin 1.5 Lts. SOHC Hatch Back 5P. T/M Motor Otto,1500,1474,177
+Citroen,C3 1.4 Lts. HDI SOHC Hatch Back 5P. T/M Motor Diesel,1400,1474,108
+Volkswagen,Beetle 2.0 Lts. T-FSI DOHC Coupe 3P. T/A Motor CCZA Otto,2000,1474,203
+Volkswagen,Vento 2.0 Lts. T-FSI DOHC Sedan 4P. T/A Motor CCZA Otto,2000,1474,205
+Honda,Civic 1.8 Lts. SOHC Coupe 2P. T/M Motor Otto,1800,1474,161
+Porsche,911 Carrera S PDK 3.8 Lts. DOHC Coupe 2P. T/A Motor Otto,3800,1701,199
+Porsche,911 Carrera S PDK 3.8 Lts. DOHC Cabriolet 2P. T/A Motor Otto,3800,1701,204
+Porsche,911 Carrera 4S PDK 3.8 Lts. DOHC Coupe 2P. 4x4 T/A Motor Otto,3800,1701,207
+Porsche,911 Carrera 4S PDK 3.8 Lts. DOHC Cabriolet 2P. 4x4 T/A Motor Otto,3800,1701,211
+Citroen,DS4 1.6 Lts. DOHC Hatch Back 5P. T/A Motor Otto,1600,1134,178
+Skoda,Fabia 1.4 Lts. T-FSI DOHC Hatch Back 5P. T/A Motor CTHE Otto,1400,1247,146
+Jeep,Wrangler Unlimited Rubicon 3.6 Lts. V6 24v VVT DOHC Tipo Jeep 5P. 4x4 T/A Motor Otto,3600,1474,276
+Jeep,Wrangler Unlimited Sahara 3.6 Lts. V6 24v VVT DOHC Tipo Jeep 5P. 4x4 T/A Motor Otto,3600,1474,265
+Jeep,Wrangler Unlimited Sport 3.6 Lts. V6 24v VVT DOHC Tipo Jeep 5P. 4x4 T/A Motor Otto,3600,1474,265
+Jeep,Wrangler Unlimited Rubicon 3.6 Lts. V6 24v VVT DOHC Tipo Jeep 3P. 4x4 T/A Motor Otto,3600,1474,270
+Jeep,Wrangler Unlimited Sahara 3.6 Lts. V6 24v VVT DOHC Tipo Jeep 3P. 4x4 T/A Motor Otto,3600,1474,256
+Jeep,Wrangler Unlimited Sport 3.6 Lts. V6 24v VVT DOHC Tipo Jeep 3P. 4x4 T/A Motor Otto,3600,1474,256
+Infiniti,Q70 3.7 Lts. DOHC Sedan 4P. T/A Motor Otto,3700,1474,280
+Foton,Midi C 1.5 Lts. SOHC Station Wagon 5P. T/M Motor Otto,1500,1814,171
+BMW,M5 4.4 Lts. DOHC Sedan 4P. T/A Motor Otto,4400,1814,232
+BMW,M6 4.4 Lts. DOHC Coupe 2P. T/A Motor Otto,4400,1814,232
+BMW,M6 4.4 Lts. DOHC Sedan 4P. T/A Motor Otto,4400,1814,232
+BMW,M6 4.4 Lts. DOHC Cabriolet 2P. T/A Motor Otto,4400,1814,239
+BYD,S6 2.0 Lts. DOHC Station Wagon (Tipo SUV) 5P. T/M Motor Otto,2000,1474,214
+BMW,335i 3.0 Lts. DOHC Sedan 4P. T/A Motor Otto,3000,1701,186
+BMW,M135i 3.0 Lts. DOHC Hatch Back 5P. T/A Motor Otto,3000,1814,186
+BMW,435i 3.0 Lts. DOHC Coupe 2P. T/A Motor Otto,3000,1701,169
+BMW,435i 3.0 Lts. DOHC Cabriolet 2P. T/A Motor Otto,3000,1701,169
+Lexus,GS 350 3.5 Lts. DOHC Sedan 4P. T/A Motor Otto,3500,1247,220
+Porsche,Panamera S Hybrid 3.0 Lts. DOHC Sedan 4P. T/A. Vehículo Eléctrico Híbrido,3000,1474,165
+M. Benz,B 180 1.6 Lts. DOHC Hatch Back 5P. T/A Motor Otto,1600,1474,141
+BMW,328i 2.0 Lts. DOHC Sedan 4P. T/A Motor Otto,2000,1701,147
+BMW,125i 2.0 Lts. DOHC Hatch Back 3P. T/A Motor Otto,2000,0,147
+BMW,328i GT 2.0 Lts. DOHC Station Wagon 5P. T/A Motor Otto,2000,1701,147
+BMW,428i 2.0 Lts. DOHC Coupé 2P. T/A Motor Otto,2000,1701,147
+BMW,428i 2.0 Lts. DOHC Cabriolet 2P. T/A Motor Otto,2000,1701,147
+BMW,420i 2.0 Lts. DOHC Coupé 2P. T/A Motor Otto,2000,1701,147
+BMW,320d EDE 2.0 Lts. DOHC Sedan 4P. T/A Motor Diesel,2000,1701,118
+BMW,Z4 sDrive20i 2.0 Lts. DOHC Roadster 2P. T/A Motor Otto,2000,1247,159
+BMW,320d 2.0 Lts. DOHC Sedan 4P. T/A Motor Diesel,2000,1701,118
+M. Benz,B 180 CDI 1.8 Lts. DOHC Hatch Back 5P. T/A Motor Diesel,1800,1474,145
+M. Benz,B 200 CDI 1.8 Lts. DOHC Hatch Back 5P. T/A Motor Diesel,1800,1474,145
+M. Benz,A 180 CDI 1.8 Lts. DOHC Hatch Back 5P. T/A Motor Diesel,1800,1701,145
+Suzuki,Swift (Dzire) 1.2 Lts. DOHC Sedan 4P. T/M Motor Otto,1200,1474,142
+Toyota,Camry Hibrido 2.5 Lts. DOHC Sedan 4P. T/A (CVT). Vehículo Eléctrico Híbrido,2500,1247,119
+Chery,Tiggo 1.6 Lts. MPI 16v DOHC Station Wagon 5P. T/M Motor Otto,1600,1474,181
+Great Wall,Voleex C10 1.5 Lts. DOHC Hatch Back 5P. T/M Motro Otto,1500,1474,169
+Great Wall,Voleex C10 Cross (Voleex C20) 1.5 Lts. DOHC Hatch Back 5P. T/M Motro Otto,1500,1474,169
+Ferrari,FF 6.3 Lts. V12 48v DOHC Hatch back 3P. T/DCT,6300,1247,380
+Citroen,Multispace 1.6 Lts. HDI SOHC Station 5P. (5Plazas) T/M Motor Diesel,1600,1814,139
+Citroen,Multispace 1.6 Lts. HDI SOHC Station 5P. (7Plazas) T/M Motor Diesel,1600,1814,139
+Audi,Q5 2.0 Lts. T-FSI DOHC Station Wagon 5P. 4x4 T/A Motor CDNC Otto,2000,1474,210
+Opel,Corsa OPC Nurburgring Edition 1.6 Lts. DOHC Hatch Back 3P. T/M Motor Otto,1600,1134,178
+M. Benz,E 300 BlueEfficiency 3.5 Lts. DOHC Sedan 4P. T/A Motor Otto,3500,1134,206
+ZNA Dongfeng,Oting ZN6462W1E4 2.4 Lts. SOHC Station Wagon 5P. T/M Motor Otto,2400,1814,233
+M. Benz,B 180 1.6 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1600,1474,140
+Audi,A5 Sportback 1.8 Lts. T-FSI DOHC Hatch Back 5P. T/A Motor CJEB Otto,1800,1474,138
+Audi,A5 Sportback 1.8 Lts. T-FSI DOHC Cabio 2P. T/A Motor CJEB Otto,1800,1474,138
+Audi,A5 Sportback 1.8 Lts. T-FSI DOHC Coupe 3P. T/A Motor CJEB Otto,1800,1474,138
+Ssangyong,Korando 2.0 Lts. 16v DOHC Station Wagon 5P. 4x4 T/M Motor Otto,2000,1588,200
+Ssangyong,Korando 2.0 Lts. 16v DOHC Station Wagon 5P. 4x2 T/M Motor Otto,2000,1588,182
+Mazda,CX-5 2.0 Lts. DOHC Wagon 5P. 4x4 T/M Motor Otto,2000,1134,168
+Mazda,CX-5 I-Stop 2.0 Lts. DOHC Wagon 5P. 4x4 T/M Motor Otto,2000,1134,157
+Mazda,CX-5 2.0 Lts. DOHC Wagon 5P. 4x4 T/A Motor Otto,2000,1134,177
+Mazda,CX-5 I-Stop 2.0 Lts. DOHC Wagon 5P. 4x4 T/A Motor Otto,2000,1134,160
+Mazda,CX-5 2.0 Lts. DOHC Wagon 5P. 4x2 T/M Motor Otto,2000,1134,168
+Mazda,CX-5 I-Stop 2.0 Lts. DOHC Wagon 5P. 4x2 T/M Motor Otto,2000,1134,149
+Hyundai,Genesis BK F/L 2.0 Lts. T DOHC Coupe 2P. T/M Motor Otto,2000,1247,235
+Subaru,BRZ 2.0 Lts. DOHC Coupe 2P. T/M Motor Otto,2000,1474,181
+Mazda,CX-5 2.0 Lts. DOHC Wagon 5P. T/A Motor Otto,2000,1134,168
+Mazda,CX-5 I-Stop 2.0 Lts. DOHC Wagon 5P. T/A Motor Otto,2000,1134,168
+Porsche,Panamera 3.0 Lts. V6 DOHC Sedan 4P. T/A Motor Diesel,3000,1474,170
+M. Benz,SLK 55 AMG 5.5 Lts. DOHC Roadster (Convertible) 2P. T/A Motor Otto,5500,1474,197
+Jaguar,XF 3.0 Lts. Diesel S V6 DOHC Sedan 4P. T/A Motor Diesel,3000,1247,169
+MG,MG 3 1.5 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1500,1814,171
+MG,MG 3 Cross 1.5 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1500,1814,171
+Porsche,911 Carrera PDK 3.4 Lts. DOHC Coupé 2P. T/A Motor Otto,3400,1701,197
+Porsche,911 Carrera PDK 3.4 Lts. DOHC Cabriolet 2P. T/A Motor Otto,3400,1701,200
+Porsche,911 Carrera 4 PDK 3.4 Lts. DOHC Coupé 2P. 4x4 T/A Motor Otto,3400,1701,203
+Porsche,911 Carrera 4 PDK 3.4 Lts. DOHC Cabriolet 2P. 4x4 T/A Motor Otto,3400,1701,209
+Subaru,BRZ 2.0 Lts. DOHC Coupe 2P. T/A Motor Otto,2000,1474,167
+Ford,Edge 2.0 Lts. DOHC SUV 5P. T/A Motor Otto,2000,1134,248
+BMW,116d 2.0 Lts. DOHC Hatch Back 5P. T/M Motor Diesel,2000,0,117
+Hyundai,i30 GD 1.8 Lts. DOHC hatch Back 5P. T/M Motor Otto,1800,1247,162
+Alfa Romeo,Mito 1.4 Lts. 135 CV DOHC Hatch Back 3P. T/M Motor Otto,1400,1814,130
+Hyundai,i30 GD 1.6 Lts. DOHC hatch Back 5P. T/M Motor Otto,1600,1247,149
+DFLZ,Joyear 1.5 Lts. LX SOHC Station Wagon 5P. T/M Motor Otto,1500,1588,175
+BMW,320i 2.0 Lts. DOHC Sedan 4P. T/A Motor Otto,2000,1701,138
+BMW,320i GT 2.0 Lts. DOHC Station Wagon 5P. T/A Motor Otto,2000,1701,138
+Skoda,Octavia RS 2.0 Lts. T-FSI DOHC Sedan 4P. T/A Motor CCZA Otto,2000,1814,200
+Hyundai,Genesis BK F/L 2.0 Lts. T DOHC Coupe 2P. T/A Motor Otto,2000,1247,200
+Changan,CS1 1.3 Lts. SOHC Hatch Back 5P. T/M Motor Otto,1300,1134,168
+Land Rover,Freelander 2 TD4 SE 2.2 Lts. DOHC Station Wagon 5P. T/A 4x4 Motor Diesel,2200,1247,185
+Land Rover,Freelander 2 TD4 HSE 2.2 Lts. DOHC Station Wagon 5P. T/A 4x4 Motor Diesel,2200,1247,185
+Land Rover,Freelander 2 TD4 S 2.2 Lts. DOHC Station Wagon 5P. T/A 4x4 Motor Diesel,2200,1247,185
+BMW,520i 2.0 Lts. DOHC Sedan 4P. T/A Motor Otto,2000,1701,149
+BMW,528i 2.0 Lts. DOHC Sedan 4P. T/A Motor Otto,2000,1701,149
+Audi,S5 3.0 Lts. T-FSI DOHC Cabrio 2P. T/A 4x4 Motor CGWC Otto,3000,1474,201
+Audi,S5 Sportback 3.0 Lts. T-FSI DOHC Hatch Back 5P. T/A 4x4 Motor CGWC Otto,3000,1474,201
+Audi,S5 3.0 Lts. T-FSI DOHC Coupe 2P. T/A 4x4 Motor CGWC Otto,3000,1474,201
+BMW,116d 2.0 Lts. DOHC Hatch Back 5P. T/A Motor Diesel,2000,0,126
+Faw,Besturn B50 1.6 Lts. SOHC Sedan 4P. T/M Motor Otto,1600,1474,195
+Faw,Besturn B50 1.6 Lts. SOHC Sedan 4P. T/A Motor Otto,1600,1474,202
+Skoda,Citigo 1.0 Lts. DOHC Hatch Back 3P. T/M Motor CHYB Otto,1000,1474,101
+Changan,CV1 1.0 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1000,1134,150
+Hyundai,i30 GD 1.8 Lts. DOHC Hatch Back 5P. T/A Motor Otto,1800,1247,171
+Hyundai,i30 GD 1.6 Lts. CRDi DOHC Hatch Back 5P. T/M Motor Diesel,1600,1247,117
+Audi,A4 1.8 Lts. T-FSI DOHC Sedan 4P. T/A Motor CJEB Otto,1800,1474,136
+Audi,A4 Avant 1.8 Lts. T-FSI DOHC Station Wagon 5P. T/A Motor CJEB Otto,1800,1474,141
+Subaru,Impreza 1.6 Lts. AWD CVT Wagon 5P. T/A Motor Otto,1600,1247,164
+Subaru,Impreza 1.6 Lts. AWD CVT Sedan 4P. T/A Motor Otto,1600,1247,164
+Kia,Optima Híbrido 2.0 Lts. DOHC Sedan 4P. T/A. Vehículo Eléctrico Híbrido,2000,1814,119
+Subaru,Impreza 1.6 Lts. AWD Wagon 5P. T/M Motor Otto,1600,1247,169
+Subaru,Impreza 1.6 Lts. AWD Sedan 4P. T/M Motor Otto,1600,1247,169
+Skoda,Citigo 1.0 Lts. DOHC Hatch Back 3P. T/M Motor CHYA Otto,1000,1474,116
+Kia,Sportage 2.0 Lts. DOHC Station Wagon 5P. T/M 4x4 Motor Diesel,2000,1474,156
+Kia,Sportage 2.0 Lts. DOHC Station Wagon 5P. T/M 4x2 Motor Diesel,2000,1474,156
+Faw,Vita V2 1.3 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1300,1474,149
+Kia,Sportage 2.0 Lts. DOHC Station Wagon 5P. T/A 4x4 Motor Diesel,2000,1474,187
+Kia,Sportage 2.0 Lts. DOHC Station Wagon 5P. T/A 4x2 Motor Diesel,2000,1474,187
+Porsche,Panamera Turbo S 4.8 Lts. DOHC Sedan 4P. 4x4 T/A Motor Otto,4800,1474,272
+BMW,320i 2.0 Lts. DOHC Coupe 2P. T/A Motor Otto,2000,1701,196
+Lexus,GS 250 2.5 Lts. DOHC Sedan 4P. T/A Motor Otto,2500,1247,218
+Alfa Romeo,Giulietta Quadrifoglio Verdi 1.7 Lts.DOHC Hatch Back 5P. T/M Motor Otto,1700,1247,181
+Alfa Romeo,Giulietta Progression 1.4 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1400,1247,157
+Alfa Romeo,Giulietta Distinctive 1.4 Lts. SOHC Hatch Back 5P. T/A Motor Otto,1400,1247,124
+Porsche,Boxster S PDK 3.4 Lts. DOHC Cabriolet 2P. T/A Motor Otto,3400,1474,188
+M. Benz,SL 350 3.5 Lts. DOHC Roadster (Descapotable) 2P. T/A Motor Otto,3500,1474,218
+Kia,Sorento 2.2 Lts. DOHC Station Wagon 5P. 7 Pasajeros T/M 4x4 Motor Diesel,2200,1474,177
+Kia,Sorento 2.2 Lts. DOHC Station Wagon 5P. 5 Pasajeros T/M 4x4 Motor Diesel,2200,1474,177
+Kia,Sorento 2.2 Lts. DOHC Station Wagon 5P. 7 Pasajeros T/M 4x2 Motor Diesel,2200,1474,177
+Kia,Sorento 2.2 Lts. DOHC Station Wagon 5P. 5 Pasajeros T/M 4x4 Motor Diesel,2200,1474,177
+Kia,Sorento 2.2 Lts. DOHC Station Wagon 5P. 7 Pasajeros T/A 4x4 Motor Diesel,2200,1474,195
+Kia,Sorento 2.2 Lts. DOHC Station Wagon 5P. 7 Pasajeros T/A 4x2 Motor Diesel,2200,1474,195
+Kia,Sorento 2.2 Lts. DOHC Station Wagon 5P. 5 Pasajeros T/A 4x2 Motor Diesel,2200,1474,195
+Kia,Sorento 2.2 Lts. DOHC Station Wagon 5P. 5 Pasajeros T/A 4x2 Motor Diesel,2200,1474,195
+Skoda,Fabia 1.6 Lts. DOHC Hatch Back 5P. T/A Motor CFNA Otto,1600,1247,172
+Citroen,C1 1.0 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1000,1474,104
+Kia,Sorento 2.4 Lts. DOHC Station Wagon 7 Pasajeros 5P. T/M 4x4 Motor Otto,2400,1474,227
+Kia,Sorento 2.4 Lts. DOHC Station Wagon 5 Pasajeros 5P. T/M 4x4 Motor Otto,2400,1474,227
+Kia,Sorento 2.4 Lts. DOHC Station Wagon 7 Pasajeros 5P. T/M 4x2 Motor Otto,2400,1474,227
+Kia,Sorento 2.4 Lts. DOHC Station Wagon 5 Pasajeros 5P. T/M 4x2 Motor Otto,2400,1474,227
+Kia,Sorento 2.4 Lts. DOHC Station Wagon 7 Pasajeros 5P. T/A 4x4 Motor Otto,2400,1474,217
+Kia,Sorento 2.4 Lts. DOHC Station Wagon 5 Pasajeros 5P. T/A 4x4 Motor Otto,2400,1474,217
+Kia,Sorento 2.4 Lts. DOHC Station Wagon 7 Pasajeros 5P. T/A 4x2 Motor Otto,2400,1474,217
+Kia,Sorento 2.4 Lts. DOHC Station Wagon 5 Pasajeros 5P. T/A 4x2 Motor Otto,2400,1474,217
+Opel,Antara 2.2 Lts. DOHC Station Wagon 5P. T/A Motor Diesel,2200,1474,232
+Opel,Antara 2.2 Lts. DOHC Station Wagon 5P. T/M Motor Diesel,2200,1474,192
+Opel,Antara 2.2 Lts. DOHC Station Wagon 5P. AWD T/A Motor Diesel,2200,1474,216
+Land Rover,Range Rover Evoque 2.2 Lts. Dynamic DOHC Station Wagon 3P. 4x4 T/A Motor Diesel,2200,1474,196
+Land Rover,Range Rover Evoque 2.2 Lts. Pure SE DOHC Station Wagon 5P. 4x4 T/A Motor Diesel,2200,1474,196
+Land Rover,Range Rover Evoque 2.2 Lts. Pure DOHC Station Wagon 3P. 4x4 T/A Motor Diesel,2200,1474,196
+Land Rover,Range Rover Evoque 2.2 Lts. Prestige DOHC Station Wagon 3P. 4x4 T/A Motor Diesel,2200,1474,196
+Hyundai,Genesis Coupe 3.8 Lts. A/T8 F/L DOHC Coupe 3P. T/A Motor Otto,3800,1247,257
+Audi,R8 GT Spyder Quattro 5.2 Lts. FSI DOHC Cabriolet 2P. T/A Motor CMPA Otto,5200,1474,332
+Hyundai,i40 VF 2.0 Lts. DOHC Station Wagon 5P. T/A Motor Otto,2000,1247,190
+Hyundai,Eon HA 0.8 Lts. SOHC Hatch Back 5P. T/M Motor Otto,800,1134,120
+Ford,Escape 2.0 Lts. DOHC SUV 5P. T/A 4x4 Motor Otto,2000,1134,229
+Ford,Escape 2.0 Lts. DOHC SUV 5P. T/A 4x2 Motor Otto,2000,1134,229
+Ford,Escape S 2.5 Lts. DOHC SUV 5P. T/A Motor Otto,2500,1134,180
+BMW,X1 xDrive20i 2.0i Lts. DOHC Station Wagon 5P. 4x4 T/A Motor Otto,2000,1701,168
+BMW,X1 xDrive28i 2.0i Lts. DOHC Station Wagon 5P. 4x4 T/A Motor Otto,2000,1701,168
+BMW,X3 xDrive20i 2.0i Lts. DOHC Station Wagon 5P. 4x4 T/A Motor Otto,2000,1701,168
+BMW,X3 xDrive28i 2.0i Lts. DOHC Station Wagon 5P. 4x4 T/A Motor Otto,2000,1701,168
+BMW,X1 sDrive20i 2.0i Lts. DOHC Station Wagon 5P. 4x2 T/A Motor Otto,2000,1701,168
+Chevrolet,Orlando 2.4 Lts. DOHC Station Wagon 5P. T/A Motor Otto,2400,1814,233
+Kia,Quoris 3.8 Lts. V6 DOHC Sedan 4P. T/A Motor Otto,3800,1474,260
+Hyundai,Genesis GLS 3.8 Lts. V6 DOHC Sedan 4P. T/A Motor Otto,3800,1247,258
+Lexus,GS 450h Híbrido 3.5 Lts. DOHC Sedan 4P. T/SA (CVT). Vehículo Eléctrico Híbrido,3500,1247,145
+M. Benz,C 180 1.6 Lts. DOHC Sedan 4P. T/A Motor Otto,1600,1474,146
+M. Benz,C 180 1.6 Lts. DOHC Coupe 2P. T/A Motor Otto,1600,1474,146
+Audi,Q3 2.0 Lts. T-FSI DOHC Station Wagon T/A 4x4 Motor CPSA Otto,2000,1474,179
+Hyundai,New Tucson LM 2.4 Lts. GLS Limited DOHC Station Wagon 5P. 4WD T/A Motor Otto,2400,1814,221
+Audi,Q3 2.0 Lts. TDI DOHC Station Wagon T/A 4x4 Motor CFGC Diesel,2000,1474,159
+Ford,Ecosport Titanium 1.6 Lts. DOHC SUV 5P. T/M Motor Otto,1600,1134,183
+Ford,Ecosport SE 1.6 Lts. DOHC SUV 5P. T/M Motor Otto,1600,1134,183
+Peugeot,208 Limited 1.6 Lts. e-Hdi 92 HP SOHC Hatch Back 5P. T/M Motor Diesel,1600,1701,104
+Peugeot,208 1.6 Lts. e-Hdi 92 HP SOHC CMP Hatch Back 3P. T/M Motor Diesel,1600,1701,106
+M. Benz,C 180 1.6 Lts. DOHC Coupé 2P. T/M Motor Otto,1600,1474,182
+BMW,530d 3.0 Lts. DOHC Sedan 4P. T/A Motor Diesel,3000,1701,165
+Nissan,Altima 2.5 Lts. DOHC Sedan 4P. T/A Motor Otto,2500,1474,174
+Nissan,Altima 3.5 Lts. DOHC Sedan 4P. T/A Motor Otto,3500,1474,212
+Peugeot,508 GT 2.2 Lts. Hdi 204 HP DOHC Sedan 4P. T/A Motor Diesel,2200,1701,159
+Kia,Optima 2.0 Lts. DOHC Sedan 4P. T/A Motor Otto,2000,1814,195
+Porsche,Boxster 981 2.7 Lts. DOHC Cabriolet 2P. T/A Motor Otto,2700,1474,180
+Kia,Optima 2.0 Lts. DOHC Sedan 4P. T/M Motor Otto,2000,1814,196
+Volvo,S60 D2 Drive 1.6 Lts. Sedan 4P. T/A Motor Diesel,1600,1474,114
+DFM,H30 Cross 1.6 Lts. DOHC Station Wagon 5P. T/A Motor Otto,1600,1247,205
+DFM,H30 1.6 Lts. DOHC Hatch Back 5P. T/A Motor Otto,1600,1247,205
+DFM,S30 1.6 Lts. DOHC Sedan 4P. T/A Motor Otto,1600,1474,205
+Opel,Astra OPC 2.0 Lts. DOHC Turbo Hatch Back 3P. T/M Motor Otto,2000,1474,260
+Peugeot,308 Active 1.6 Lts. Hdi 92 HP SOHC Hatch Back 5P. T/M Motor Diesel,1600,1701,118
+Peugeot,208 Premier 1.2 Lts. 82 HP DOHC Hatch Back 5P. T/M Motor Otto,1200,1701,116
+Peugeot,208 Active 1.2 Lts. 82 HP DOHC Hatch Back 5P. T/M Motor Otto,1200,1701,116
+Peugeot,208 Limited 1.6 Lts. Vti 120 HP DOHC Hatch Back 3P. T/M Motor Otto,1600,1701,144
+Peugeot,208 Limited 1.6 Lts. Vti 120 HP DOHC Hatch Back 5P. T/M Motor Otto,1600,1701,144
+Suzuki,Swift 1.2 Lts. DOHC Sedan 4P. T/A Motor Otto,1200,1474,157
+Hyundai,Santa Fe DM 2.2 Lts. CRDi GLS DOHC Station Wagon 5P. 4WD T/A Motor Diesel,2200,1474,178
+Hyundai,Santa Fe DM 2.2 Lts. CRDi GLS DOHC Station Wagon 5P. 2WD T/A Motor Diesel,2200,1474,178
+Hyundai,Santa Fe DM 2.4 Lts. GLS DOHC Station Wagon 5P. 4WD T/A Motor Otto,2400,1474,211
+Hyundai,Santa Fe DM 2.4 Lts. GLS DOHC Station Wagon 5P. 2WD T/A Motor Otto,2400,1474,211
+M. Benz,SL 500 4.7 Lts. V8 DOHC Roadster Descapotable 2P. T/A Motor Otto,4700,1474,216
+Haima,7 GLS 2.0 Lts. DOHC Station Wagon 5P. T/M Motor Otto,2000,1701,223
+Hyundai,Santa Fe DM GLS 2.4 Lts. DOHC Station Wagon 5P. T/M 4x4 Motor Otto,2400,1474,279
+Hyundai,Santa Fe DM GLS 2.4 Lts. DOHC Station Wagon 5P. T/M 4x2 Motor Otto,2400,1474,279
+Citroen,DS5 1.6 Lts. DOHC Hatch Back 5P. T/A Motor Otto,1600,1134,171
+Peugeot,301 1.6 Lts. VTi 120 HP DOHC Sedan 4P. T/M Motor Otto,1600,1701,168
+Skoda,Yeti 1.8 Lts. TSI DOHC Station Wagon 5P. T/M 4x4 Motor CDAA Otto,1800,1247,193
+Volvo,V40 T4 1.6 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1600,1474,129
+Audi,A4 All Road 2.0 Lts. T-FSI DOHC Station Wagon 5P. T/A 4x4 Motor CDNC Otto,2000,1474,172
+M. Benz,E 350 CDI 3.0 Lts. V6 DOHC Cabrio 2P. T/A Motor Diesel,3000,1134,202
+M. Benz,E 350 CDI 3.0 Lts. V6 DOHC Coupe 2P. T/A Motor Diesel,3000,1134,202
+M. Benz,A 200 1.6 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1600,1701,140
+Nissan,Tiida Elongation 1.6 Lts. DOHC Sedan 4P. T/M Motor Otto,1600,1474,161
+Skoda,SuperB 2.0 Lts. TDI DOHC Sedan 4P. T/A Motor CFFB Diesel,2000,1474,161
+Hyundai,Santa Fe DM GLS 2.2 Lts. CRDi DOHC Station Wagon 5P. T/M 4x4 Motor Diesel,2200,1474,158
+Hyundai,Santa Fe DM GLS 2.2 Lts. CRDi DOHC Station Wagon 5P. T/M 4x2 Motor Diesel,2200,1474,158
+Haima,2 SDX 1.5 Lts. DOHC Hatch Back 5P. T/A Motor Otto,1500,1701,171
+M. Benz,SL 63 AMG 5.5 Lts. DOHC Roadster Descapotable 2P. T/A Motor Otto,5500,1474,239
+Haima,7 GLS 2.0 Lts. DOHC Station Wagon 5P. T/A Motor Otto,2000,1701,224
+Kia,Cerato 1.6 Lts. DOHC Sedan 4P. T/M Motor Otto,1600,1474,155
+Kia,Cerato 1.6 Lts. DOHC Sedan 4P. T/A Motor Otto,1600,1474,161
+Opel,Meriva Enjoy 1.4 Lts. Turbo DOHC Station Wagon 5P. T/A Motor Otto,1400,1814,169
+Fiat,Qubo Dynamic 1.4 Lts. SOHC Mini Van 5P. T/M Motor Otto,1400,1474,153
+Skoda,Yeti 1.2T Lts. FRS SOHC Station Wagon 5P. T/M Motor CBZB Otto,1200,1247,176
+Audi,A8 3.0 Lts. T-FSi DOHC Sedan 4P. T/A 4x4 Motor CGWA Otto,3000,1474,207
+Volvo,V40 D2 Drive 1.6 Lts. DOHC Hatch Back 5P. T/M Motor Diesel,1600,1474,95
+Volvo,V40 CC D2 1.6 Lts. DOHC Hatch Back 5P. T/M Motor Diesel,1600,1474,95
+M. Benz,GLK 350 4Matic 3.5 Lts. DOHC Station Wagon 5P. 4x4 T/A Motor Otto,3500,1247,207
+Toyota,FT86 2.0 Lts. DOHC Coupe 2P. T/M Motor Otto,2000,1247,181
+Citroen,C-Elycée 1.6 Lts. DOHC Sedan 4P. T/M Motor Otto,1600,1474,154
+Fiat,Panda Lounge 1.2 Lts. SOHC Hatch Back 5P. T/M Motor Otto,1200,1474,145
+Chevrolet,Camaro ZL1 6.2 Lts. OHV Coupe 2P. T/M Motor Otto,6200,1247,304
+Chevrolet,Camaro ZL1 6.2 Lts. OHV Coupe 2P. T/A Motor Otto,6200,1247,329
+Audi,S8 4.0 Lts. T-FSI DOHC Sedan 4P. 4x4 T/A Motor CGTA Otto,4000,1474,237
+Hyundai,Tucson LM 2.0 Lts. CRDi DOHC Station Wagon 5P. T/M 4WD Motor Diesel,2000,1474,149
+Hyundai,Tucson LM 2.0 Lts. CRDi DOHC Station Wagon 5P. T/M 2WD Motor Diesel,2000,1474,149
+Hyundai,Tucson LM FL 2.0 Lts. CRDi DOHC Station Wagon 5P. T/M 4WD Motor Diesel,2000,1474,149
+Hyundai,Tucson LM FL 2.0 Lts. CRDi DOHC Station Wagon 5P. T/M 2WD Motor Diesel,2000,1474,149
+Hyundai,Tucson LM 2.0 Lts. CRDi DOHC Station Wagon 5P. T/A 4WD Motor Diesel,2000,1474,187
+Hyundai,Tucson LM 2.0 Lts. CRDi DOHC Station Wagon 5P. T/A 2WD Motor Diesel,2000,1474,187
+Hyundai,Tucson LM FL 2.0 Lts. CRDi DOHC Station Wagon 5P. T/A 4WD Motor Diesel,2000,1474,187
+Hyundai,Tucson LM FL 2.0 Lts. CRDi DOHC Station Wagon 5P. T/A 2WD Motor Diesel,2000,1474,187
+Audi,A7 3.0 Lts. TDI DOHC Hatch Back 5 T/A 4x4 Motor CDUD Diesel,3000,1474,156
+Skoda,Fabia 1.2 Lts. T-FSI DOHC Hatch Back 5P. T/M Motor CBZB Otto,1200,1247,149
+Gac,GA-5 1.8 Lts. DOHC Sedan 4P. T/M Motor Otto,1800,1247,216
+Honda,Accord 3.5 Lts. V6 DOHC Sedan 4P. T/A Motor Otto,3500,1474,230
+Honda,Accord 2.4 Lts. DOHC Sedan 4P. T/A Motor Otto,2400,1474,191
+Dodge,Grand Caravan SE 3.6 Lts. V6 VVT DOHC Station Wagon Tipo Van 5P. T/A Motor Otto,3600,1247,252
+Dodge,Grand Caravan SXT 3.6 Lts. V6 VVT DOHC Station Wagon Tipo Van 5P. T/A Motor Otto,3600,1247,252
+Dodge,Grand Caravan Crew 3.6 Lts. V6 VVT DOHC Station Wagon Tipo Van 5P. T/A Motor Otto,3600,1247,252
+Dodge,Grand Caravan R/T 3.6 Lts. V6 VVT DOHC Station Wagon Tipo Van 5P. T/A Motor Otto,3600,1247,252
+Geely,LOC Cross 1.3 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1300,1814,174
+Hyundai,Santa Fe DM 3.3 Lts. GLS DOHC Station Wagon 5P. 4WD T/A Motor Otto,3300,1474,239
+Audi,A7 3.0T Lts. FSI DOHC Sportback 5P. T/A 4x4 Motor CGWD Otto,3000,1474,190
+Citroen,DS4 200HP 1.6 Lts.DOHC Hatch Back 5P T/M Motor Otto,1600,1134,150
+Suzuki,New Alto 800 0.8 Lts. SOHC Hatch Back 5P. T/M Motor Otto,800,1814,124
+M. Benz,A 200 1.6 Lts. DOHC Hatch Back 5P. T/A Motor Otto,1600,1701,137
+M. Benz,B 200 1.6 Lts. DOHC Hatch Back 5P. T/A Motor Otto,1600,1474,136
+Audi,A4 2.0 Lts. TDI DOHC Sedan 4P. T/A Motor CJCA Diesel,2000,1474,166
+Jac,J5 2.0 Lts. DOHC Sedan 4P. T/M Motor Otto,2000,1588,226
+Peugeot,4008 2.0 Lts. 150HP DOHC Station Wagon 5P. 4WD T/M Motor Otto,2000,1701,190
+Mahindra,XUV 500 2.2 Lts. DOHC Station Wagon 5P. T/M AWD Motor Diesel,2200,1247,190
+Mahindra,XUV 500 2.2 Lts. DOHC Station Wagon 5P. T/M 4x2 Motor Diesel,2200,1247,190
+Peugeot,4008 2.0 Lts. 150HP DOHC Station Wagon 5P. 4WD T/A Motor Otto,2000,1701,192
+Peugeot,4008 2.0 Lts. 150HP DOHC Station Wagon 5P. 4x2 T/A Motor Otto,2000,1701,192
+Toyota,RAV4 2.0 Lts. DOHC Station Wagon 5P. 4x2 T/M Motor Otto,2000,1474,196
+Toyota,RAV4 2.0 Lts. DOHC Station Wagon 5P. 4x4 T/M Motor Otto,2000,1474,196
+Audi,S6 4.0 Lts. T-FSI DOHC Sedan 4P. 4x4 T/A Motor CEUC Otto,4000,1474,227
+Audi,S7 4.0 Lts. T-FSI DOHC Hatch Back 5P. 4x4 T/A Motor CEUC Otto,4000,1474,227
+Toyota,RAV4 2.5 Lts. DOHC Station Wagon 5P. T/A 4x4 Motor Otto,2500,1474,203
+Toyota,RAV4 2.5 Lts. DOHC Station Wagon 5P. T/A 4x2 Motor Otto,2500,1474,203
+Toyota,RAV4 2.5 Lts. DOHC Station Wagon 5P. T/M 4x4 Motor Otto,2500,1474,195
+Toyota,RAV4 2.5 Lts. DOHC Station Wagon 5P. T/M 4x2 Motor Otto,2500,1474,195
+Audi,A3 1.4 Lts. T-FSI DOHC Hatch Back 3P. T/M Motor CMBA Otto,1400,1474,122
+Audi,A3 1.4 Lts. T-FSI DOHC Hatch Back 5P. T/M Motor CMBA Otto,1400,1474,122
+Toyota,Auris 1.6 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1600,1474,161
+M. Benz,A 200 CDI 1.8 Lts. DOHC Hatch Back 5P. T/A Motor Diesel,1800,1701,142
+M. Benz,C 220 CDI 2.1 Lts. DOHC Coupe 2P. T/A Motor Diesel,2100,1474,178
+M. Benz,C 220 CDI 2.1 Lts. DOHC SEDAN 4P. T/A Motor Diesel,2100,1474,156
+Haima,New 3 1.6 Lts. DOHC Sedan 4P. T/M Motor Otto,1600,1814,182
+Haima,New 3 1.6 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1600,1814,182
+Volvo,V40 D4 2.0 Lts. DOHC Hatch Back 5P. T/A Motor Diesel,2000,1474,137
+Volvo,V40 CC D4 2.0 Lts. DOHC Hatch Back 5P. T/A Motor Diesel,2000,1474,137
+Peugeot,301 Allure 1.6 Lts. Hdi 92 HP SOHC Sedan 4P. T/M Motor Diesel,1600,1701,118
+Opel,Corsa-D Turbo 1.4 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1400,1134,133
+Opel,Corsa-D Turbo 1.4 Lts. DOHC Hatch Back 3P. T/M Motor Otto,1400,1134,133
+Jaguar,XF 2.2 Lts. DOHC Sedan 4P. T/A Motor Diesel,2200,1247,139
+Jaguar,XF 2.0T Lts. DOHC Sedan 4P. T/A Motor Otto,2000,1247,207
+Land Rover,Freelander 2 2.0 Lts. DOHC Station Wagon 5P. 4x4 T/A Motor Otto,2000,1247,224
+Haima,New 3 CVT 1.6 Lts. DOHC Sedan 4P. T/A Motor Otto,1600,1814,200
+Haima,New 3 CVT 1.6 Lts. DOHC Hatch Back 5P. T/A Motor Otto,1600,1814,200
+Brilliance,V5 1.6 Lts. DOHC Station Wagon 5P. T/M Motor Otto,1600,1474,177
+Brilliance,Euphoria (H530) 1.6 Lts. DOHC Sedan 4P. T/M Motor Otto,1600,1134,172
+Brilliance,Euphoria (H530) 1.6 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1600,1134,172
+Dodge,Dart SXT 2.0 Lts. I4 DOHC Sedan 4P. T/A Motor Otto,2000,1134,217
+Dodge,Dart Limited 2.0 Lts. I4 DOHC Sedan 4P. T/A Motor Otto,2000,1134,217
+Dodge,Dart SE 2.0 Lts. I4 DOHC Sedan 4P. T/A Motor Otto,2000,1134,217
+DFM,Joyear Cross 1.6 Lts. DOHC Station Wagon 5P. 4x2 T/M Motor Otto,1600,1588,183
+DFM,Joyear KL 1.6 Lts. DOHC Station Wagon 5P. 4x2 T/M Motor Otto,1600,1588,183
+DFM,Joyear LV 1.6 Lts. DOHC Station Wagon 5P. 4x2 T/M Motor Otto,1600,1588,183
+BMW,M 135i / F21 3.0 Lts. DOHC Hatch Back 3P. T/A Motor Otto,3000,1814,175
+BMW,M 125i / F21 2.0 Lts. DOHC Hatch Back 3P. T/M Motor Otto,3000,1814,154
+Brilliance,V5 1.6 Lts. DOHC Station Wagon 5P. T/A Motor Otto,1600,1474,204
+Brilliance,Euphoria (H530) 1.6 Lts. DOHC Sedan 4P. T/A Motor Otto,1600,1134,194
+Brilliance,Euphoria (H530) 1.6 Lts. DOHC Hatch Back 5P. T/A Motor Otto,1600,1134,194
+Nissan,New Sentra 1.8 Lts. DOHC Sedan 4P. T/A Motor Otto,1800,1814,163
+Nissan,New Sentra 1.8 Lts. DOHC Sedan 4P. T/M Motor Otto,1800,1814,169
+Mini,John Cooper Works 1.6 Lts. DOHC Hatch Back 3P. T/M Motor Otto,1600,1588,174
+Mini,John Cooper Works Clubman 1.6 Lts. DOHC Station Wagon 5P. T/M Motor Otto,1600,1588,174
+Mini,John Cooper Works Convertible 1.6 Lts. DOHC Convertible 3P. T/M Motor Otto,1600,1588,174
+Mini,John Cooper Works Coupe 1.6 Lts. DOHC Coupe 2P. T/M Motor Otto,1600,1588,174
+Mini,John Cooper Works Roadster 1.6 Lts. DOHC Cabriolet 2P. T/M Motor Otto,1600,1588,174
+Mini,John Cooper Works GP II 1.6 Lts. DOHC Hatch Back 3P. T/M Motor Otto,1600,1588,165
+Subaru,Forester 2.0 Lts. Turbo DOHC Station Wagon 5P. CVT AWD Motor Otto,2000,1247,197
+Subaru,Forester 2.5i-L Lts. DOHC Station Wagon 5P. CVT AWD Motor Otto,2500,1247,190
+Subaru,Forester 2.5i-S Lts. DOHC Station Wagon 5P. CVT AWD Motor Otto,2500,1247,190
+Subaru,Forester 2.5i Lts. DOHC Station Wagon 5P. CVT AWD Motor Otto,2500,1247,190
+Mini,John Cooper Works 1.6 Lts. DOHC Hatch Back 3P. T/A Motor Otto,1600,1588,190
+Mini,John Cooper Works Clubman 1.6 Lts. DOHC Station Wagon 5P. T/A Motor Otto,1600,1588,190
+Mini,John Cooper Works Convertible 1.6 Lts. DOHC Convertible 3P. T/A Motor Otto,1600,1588,190
+Mini,John Cooper Works Coupe 1.6 Lts. DOHC Coupe 2P. T/A Motor Otto,1600,1588,190
+Mini,John Cooper Works Roadster 1.6 Lts. DOHC Cabriolet 2P. T/A Motor Otto,1600,1588,190
+Subaru,Forester 2.0i-S 2.0 Lts. DOHC Station Wagon 5P. AWD T/M Motor Otto,2000,1247,186
+Subaru,Forester 2.0i-L 2.0 Lts. DOHC Station Wagon 5P. AWD T/M Motor Otto,2000,1247,186
+Subaru,Forester 2.0i 2.0 Lts. DOHC Station Wagon 5P. AWD T/M Motor Otto,2000,1247,186
+Subaru,Forester 2.0i-S 2.0 Lts. DOHC Station Wagon 5P. AWD CVT Motor Otto,2000,1247,182
+Subaru,Forester 2.0i-L 2.0 Lts. DOHC Station Wagon 5P. AWD CVT Motor Otto,2000,1247,182
+Subaru,Forester 2.0i 2.0 Lts. DOHC Station Wagon 5P. AWD CVT Motor Otto,2000,1247,182
+Hyundai,Sonata YF 2.0 Lts. DOHC Sedan 4P. T/A Motor Otto,2000,1474,190
+Mazda,Mazda 6 2.5 Lts. DOHC Sedan 4P. T/A Motor Otto,2500,1814,174
+Mazda,Mazda 6 2.2 Lts. DOHC Sedan 4P. T/A Motor Diesel,2200,1814,159
+Chevrolet,Tracker 1.8 Lts. DOHC Station Wagon 5P. 4x4 AWD T/A Motor Otto,1800,1474,197
+Chevrolet,Tracker 1.8 Lts. DOHC Station Wagon 5P. 4x2 FWD T/A Motor Otto,1800,1474,197
+Audi,Q5 2.0 Lts. Tdi DOHC Station Wagon 5P. 4x4 T/A Motor CGLC Diesel,2000,1474,172
+ZNA Dongfeng,Succe 2.0 Lts. DOHC Station Wagon 5P. 2WD T/A Motor Otto,2000,1474,236
+Audi,A6 3.0 Lts. T-FSI DOHC Sedan 4P. 4x4 T/A Motor CGWD Otto,3000,1474,192
+Audi,A6 3.0 Lts. T-FSI DOHC Station Wagon (Allroad) 5P. 4x4 T/A Motor CGWD Otto,3000,1474,190
+Audi,A1 Quattro 2.0 Lts. T-FSI DOHC Hatch Back 3P. 4x4 T/M Motor Otto,2000,1701,199
+Peugeot,308 CC (Roland Garros) 2.0 Lts. HDI DOHC Coupe Cabriolet 2P. T/A Motor Diesel,2000,1701,172
+Mazda,Mazda 6 2.0 Lts. DOHC Sedan 4P. T/M Motor Otto,2000,1814,166
+M. Benz,A 250 CGI 2.0 Lts. DOHC Hatch Back 5P. T/A Motor Otto,2000,1701,152
+Volvo,V40 T4 1.6 Lts. DOHC Hatch Back 5P. T/A Motor Otto,1600,1474,146
+Mahindra,XUV 500 2.2 Lts. DOHC Station Wagon 5P. AWD T/M Motor Diesel,2200,1247,186
+Mahindra,XUV 500 2.2 Lts. DOHC Station Wagon  5P. 4x2 T/M Motor Diesel,2200,1247,173
+Mazda,Mazda6 2.0 Lts. DOHC Sedan 4P. T/A Motor Otto,2000,1814,172
+Chevrolet,Tracker 1.8 Lts. DOHC Station Wagon 5P. T/M FWD Motor Otto,1800,1474,191
+Chevrolet,Tracker 1.8 Lts. DOHC Station Wagon 5P. T/M AWD Motor Otto,1800,1474,191
+Audi,A3 2.0 LTS. TDI DOHC HatchBack 3P. T/A Motor CRBC Diesel,2000,1474,120
+Audi,A3 2.0 LTS. TDI DOHC SportBack 5P. T/A Motor CRBC Diesel,2000,1474,120
+Audi,A3 2.0 LTS. TDI DOHC Sedan 4P. T/A Motor CRBC Diesel,2000,1474,122
+Audi,A8 4.0 Lts.. T-FSI DOHC Sedan 4P. 4x4 T/A Motor CEUA Otto,4000,1474,225
+Ford,Ecosport 2.0 Lts. DOHC Sation Wagon 5P. 4x2 T/A Motor Otto,2000,1134,197
+Lexus,IS 250 2.5 Lts. DOHC Sedan 4P. T/A Motor Otto,2500,1588,211
+Citroen,C-Elysée 1.6 Lts.HDI SOHC Sedan 4P. T/M Motor Diesel,1600,1474,114
+Renault,Latitude 2.0 Lts. 16v DOHC Sedan 4P. T/A Motor Otto,2000,1588,203
+Peugeot,208 Active 1.4 Lts. 68 HP HDI SOHC Hatch Back 5P. T/M Motor Diesel,1400,1701,108
+Great Wall,Haval H6 2.4 Lts. SOHC Station Wagon 5P. 4x2 T/M Motor Otto,2400,1247,253
+Citroen,C-Elysée 1.6 Lts. DOHC Sedan 4P. T/A Motor Otto,1600,1474,240
+Porsche,Panamera GTS 4.8 Lts. DOHC Sedan 5P. T/A Motor Otto,4800,1474,250
+Audi,Q5 2.0 Lts. T-FSI DOHC Station Wagon 5P. 4x4 T/A Motor CNCD Otto,2000,1474,184
+Audi,RS4 4.2 Lts. FSI DOHC Station Wagon 5P. T/A 4x4 Motor Otto,4200,1474,249
+Great Wall,Voleex C50 1.5 Lts. DOHC Sedan 4P. T/M Motor Otto,1500,1474,174
+Toyota,Auris 1.6 Lts. DOHC Hatch Back 5P. T/A Motor Otto,1600,1474,152
+Citroen,C3 1.2 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1200,1474,120
+Land Rover,Defender 90 Puma 2.2 Lts. DOHC Jeep 3P. T/M 4x4 Motor Diesel,2200,1134,266
+Peugeot,3008 2.0 Lts. HDI DOHC 165 HP Station Wagon 5P. T/A Motor Diesel,2000,1701,169
+Peugeot,5008 2.0 Lts. HDI DOHC 165 HP Station Wagon 5P. T/A Motor Diesel,2000,1701,176
+Audi,Q5 3.0 Lts. T-FSI DOHC Station Wagon 5P. 4x4 T/A Motor Otto,3000,1474,202
+Skoda,Rapid 1.2 Lts. TSI SOHC Sedan 4P. T/M Motor CVZB Otto,1200,1474,152
+Skoda,Rapid 1.2 Lts. TSI SOHC Hatch Back 5P. T/M Motor CVZB Otto,1200,1474,152
+Mini,John Cooper Works Countryman 1.6 Lts. DOHC Station Wagon 5P. 4x4 T/A Motor Otto,1600,1588,184
+Mini,John Cooper Works Countryman 1.6 Lts. DOHC Station Wagon 5P. 4x2 T/A Motor Otto,1600,1588,184
+Mini,Paceman 1.6 Lts. DOHC Coupe 3P. 4x4 T/A Motor Otto,1600,1474,184
+Audi,TTS Quattro Stronic 2.0 Lts. TFSI DOHC Coupe 2P. T/A 4x4 Motor CDLB Otto,2000,1474,179
+Audi,TTS Quattro Stronic 2.0 Lts. TFSI DOHC Roadster 2P. T/A 4x4 Motor CDLB Otto,2000,1474,184
+Ssangyong,Korando 2.0 Lts. DOHC Station Wagon 5P. 4x4 T/A Motor Otto,2000,1588,208
+Ssangyong,Korando 2.0 Lts. DOHC Station Wagon 5P. 4x2 T/A Motor Otto,2000,1588,184
+Volvo,V40 T5 2.5 Lts. DOHC Hatch Back 5P. T/A Motor Otto,2500,1474,182
+Volvo,V40 CC T5 2.5 Lts. DOHC Hatch Back 5P. T/A Motor Otto,2500,1474,182
+Kia,Carens 2.0 Lts. DOHC Station Wagon 5P. 7 Pasajeros T/A Motor Otto,2000,1247,189
+Kia,Carens 2.0 Lts. DOHC Station Wagon 5P. 5 Pasajeros T/A Motor Otto,2000,1247,189
+Kia,Carens 2.0 Lts. DOHC Station Wagon 5P. 5 Pasajeros T/M Motor Otto,2000,1247,179
+Kia,Carens 2.0 Lts. DOHC Station Wagon 5P. 7 Pasajeros T/M Motor Otto,2000,1247,179
+Hyundai,Sonata YF 2.0 Lts. DOHC Sedan 4P. T/M Motor Otto,2000,1474,187
+Alfa Romeo,Mito 1.4 Lts. 78 CV SOHC Hatch Back 3P. T/M Motor Otto,1400,1814,182
+Mini,John Cooper Works Countryman 1.6 Lts. DOHC Station Wagon 5P. 4x4 T/M Motor Otto,1600,1588,172
+Mini,John Cooper Works Countryman 1.6 Lts. DOHC Station Wagon 5P. 4x2 T/M Motor Otto,1600,1588,172
+Mini,Paceman 1.6 Lts. DOHC Coupé 3P. 4x4 T/M Motor Otto,1600,1474,172
+Geely,LC 1.3 Lts.DOHC Hatch Back 4P. T/M Motor Otto,1300,1588,171
+Fiat,Grande Punto Active E5 1.4 Lts. SOHC Hatch Back 5P. T/M Motor Otto,1400,1247,149
+Changan,CS35 1.6 Lts. DOHC Station Wagon 5P. T/M Motor Otto,1600,1134,177
+Citroen,DS3 1.6 Lts. DOHC Hatch Back 3P. T/M Motor Otto,1600,1134,141
+Citroen,C3 1.6 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1600,1474,141
+Change,Spla 1.4 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1400,1474,160
+Change,Spla 1.4 Lts. VVT DOHC Hatch Back 5P. T/M Motor Otto,1400,1474,147
+Geely,EX 7 2.0 Lts. DOHC Station Wagon 5P. T/M Motor Otto,2000,1134,198
+Changan,EADO 1.6 Lts. DOHC Sedan 4P. T/M Motor Otto,1600,1134,189
+Subaru,Outback 2.0 Lts. DOHC Station Wagon 5P. 4x4 CVT Motor Diesel,2000,1814,166
+Citroen,DS3 Racing 1.6 Lts. DOHC Hatch back 3P. T/M Motor Otto,1600,1134,166
+Citroen,C3 1.4 Lts. HDI DOHC Hatch Back 5P. T/M Motor Diesel,1400,1474,111
+Porsche,Cayman S PDK 3.4 Lts. DOHC Coupe 3P. T/A Motor Otto,3400,1474,195
+Jaguar,XF 3.0 Lts. DOHC Sedan 4P T/A Motor Otto,3000,1247,227
+Maserati,Quattroporte 3.8 Lts. DOHC Sedan 4P. T/A Motor Otto,3800,1474,274
+Nissan,Note 1.6 Lts. DOHC Hatch Back 5P. T/A Tipo CVT Motor Otto,1600,1814,161
+Nissan,Note 1.6 Lts. DOHC Hatch Back 5P. T/M Tipo CVT Motor Otto,1600,1814,162
+Faw,V5 1.5 Lts. DOHC Sedan 4P. T/M Motor Otto,1500,1474,152
+Fiat,Bravo 1.4 Lts. DOHC TJET 120 CV Hatch Back 5P. T/M Motor Otto,1400,1474,146
+M. Benz,CLA 200 1.6 Lts. DOHC Sedan 4P. T/M Motor Otto,1600,1474,135
+M. Benz,CLA 180 1.6 Lts. DOHC Sedan 4P. T/M Motor Otto,1600,1474,134
+Aston Martin,Vanquish 5.9 Lts. DOHC Coupé 2P. T/A Motor Otto,5900,1474,335
+Aston Martin,Vanquish 5.9 Lts. DOHC Convertible 2P. T/A Motor Otto,5900,1474,335
+Fiat,Bravo 1.4 Lts. DOHC 90 CV Hatch Back 5P. T/M Motor Otto,1400,1474,146
+Hyundai,Accent RB 1.6 Lts. DOHC Sedan 4P. T/M 6 Vel. Motor Otto,1600,1474,157
+Hyundai,Accent RB 1.6 Lts. DOHC Hatch Back 5P. T/M 6 Vel. Motor Otto,1600,1474,157
+BYD,New F3R 1.5 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1500,1814,173
+BYD,New F3R 1.5 Lts. DOHC Sedan 4P. T/M Motor Otto,1500,1814,173
+Volvo,XC70 T6 3.0 Lts. DOHC Station Wagon 5P. T/A 4x4 Motor Otto,3000,1701,248
+Audi,A3 1.4 Lts. TFSI DOHC Station Wagon 2P. T/A DSG Motor CMBA Otto,1400,1474,116
+Audi,A3 1.4 Lts. TFSI DOHC Sportback 4P. T/A DSG Motor CMBA Otto,1400,1474,118
+Hyundai,Accent RB 1.4 Lts. DOHC Sedan 4P. T/M 6 Veloc. Motor Otto,1400,1474,147
+Hyundai,Accent RB 1.4 Lts. DOHC Hatch Back 5P. T/M 6 Veloc. Motor Otto,1400,1474,147
+Porsche,Cayman PDK 2.7 Lts. DOHC Coupe 3P. T/A Motor Otto,2700,1474,186
+Volvo,S60 T4 1.6 Lts. DOHC Sedan 4P. T/M Motor Otto,1600,1474,149
+M. Benz,CLA 250 2.0 Lts. DOHC Sedan 4P. T/A Motor Otto,2000,1474,148
+M. Benz,CLA 220 CDI 2.1 Lts. DOHC Sedan 4P. T/A Motor Diesel,2100,1474,119
+Mahindra,Scorpio 2.2 Lts. DOHC Powered By M Hawk Tipo Jeep 5P. T/M 4x4 Motor Diesel,2200,1474,233
+Mahindra,Scorpio 2.2 Lts. DOHC Powered By M Hawk Tipo Jeep 5P. T/M 4x2 Motor Diesel,2200,1474,233
+Hyundai,Gran Santa Fe 3.3 Lts. DOHC Station Wagon 5P. T/A 4x4 Motor Otto,3300,1247,259
+Hyundai,Gran Santa Fe 3.3 Lts. DOHC Station Wagon 5P. T/A 4x2 Motor Otto,3300,1247,259
+Audi,A3 1.8 Lts. TFSI DOHC Station Wagon 2P. T/A DSG Motor CJSA Otto,1800,1474,159
+Audi,A3 1.8 Lts. TFSI DOHC Sportback 4P. T/A DSG Motor CJSA Otto,1800,1474,159
+Audi,A3 1.8 Lts. TFSI DOHC Sedan 4P. T/A ASG Motor CJSA Otto,1800,1474,159
+Citroen,DS3 1.6 Lts. DOHC Cabriolet 3P. T/M Motor Otto,1600,1134,141
+M. Benz,CLA 200 1.6 Lts. DOHC Sedan 4P. T/A Motor Otto,1600,1474,122
+Kia,Carens 1.7 Lts. DOHC Station Wagon 5P. 7 Pasajeros T/M Motor Diesel,1700,1247,161
+Kia,Carens 1.7 Lts. DOHC Station Wagon 5P. 5 Pasajeros T/M Motor Diesel,1700,1247,161
+Kia,Carens 1.7 Lts. DOHC Station Wagon 5P. 7 Pasajeros T/A Motor Diesel,1700,1247,169
+Kia,Carens 1.7 Lts. DOHC Station Wagon 5P. 5 Pasajeros T/A Motor Diesel,1700,1247,169
+Toyota,FT86 2.0 Lts. DOHC Coupe 2P. T/A Motor Otto,2000,1247,180
+M. Benz,E 200 2.0 Lts. DOHC Sedan 4P. T/A Motor Otto,2000,1134,157
+M. Benz,E 200 2.0 Lts. DOHC Coupé 2P. T/A Motor Otto,2000,1134,157
+M. Benz,E 200 Estate 2.0 Lts. DOHC Station Wagon 5P. T/A Motor Otto,2000,1134,157
+M. Benz,E 200 Cabrio 2.0 Lts. DOHC Cabriolet 2P. T/A Motor Otto,2000,1134,157
+Citroen,DS5 2.0 Lts. HDI DOHC Hatch Back 5P. T/A Motor Diesel,2000,1134,160
+Mazda,CX-5 I-Stop 2.5 Lts. DOHC Station Wagon 5P. 4x4 T/A Motor Otto,2500,1134,171
+Mazda,CX-5 I-Stop 2.2 Lts. DOHC Station Wagon 5P. 4x4 T/A Motor Diesel,2200,1134,155
+M. Benz,SLS 6.3 AMG GT 6.2 Lts. DOHC Roadster 2P. T/A Motor Otto,6200,1474,311
+M. Benz,SLS 6.3 AMG GT 6.2 Lts. DOHC Coupé 2P. T/A Motor Otto,6200,1474,311
+M. Benz,SLS 6.3 AMG 6.2 Lts. DOHC Roadster 2P. T/A Motor Otto,6200,1474,311
+M. Benz,SLS 6.3 AMG 6.2 Lts. DOHC Coupé 2P. T/A Motor Otto,6200,1474,311
+Citroen,DS3 Racing 1.6 Lts. DOHC Hatch Back 3P. T/M Motor Otto,1600,1134,153
+Nissan,Juke (F15) 1.6 Lts. DOHC Station Wagon 5P. T/A 4x4 Motor Otto,1600,1588,170
+M. Benz,E 250 2.0 Lts. DOHC Sedan 4P. T/A Motor Otto,2000,1134,178
+M. Benz,E 250 Coupé 2.0 Lts. DOHC Coupé 2P. T/A Motor Otto,2000,1134,178
+M. Benz,E 250 Estate 2.0 Lts. DOHC Station Wagon 5P. T/A Motor Otto,2000,1134,178
+M. Benz,E 250 Cabrio 2.0 Lts. DOHC Cabriolet 2P. T/A Motor Otto,2000,1134,178
+Hyundai,Grand Santa Fe 2.2 Lts. CRDi DOHC Station Wagon 5P. 4x4 T/A Motor Diesel,2200,1247,199
+Jeep,Compass Limited 2.4 Lts. DOHC Station Wagon 5P. T/A 4x4 Motor Otto,2400,1644,209
+Jeep,Compass Sport 2.4 Lts. DOHC Station Wagon 5P. T/A 4x4 Motor Otto,2400,1644,209
+Jeep,Compass Sport 2.4 Lts. DOHC Station Wagon 5P. T/A 4x2 Motor Otto,2400,1644,209
+Jeep,Patriot  Sport 2.4 Lts. DOHC Station Wagon 5P. T/A 4x4 Motor Otto,2400,1474,208
+Jeep,Patriot  Sport 2.4 Lts. DOHC Station Wagon 5P. T/A 4x2 Motor Otto,2400,1474,208
+Ford,EcoSport 1.5 Lts. DOHC Station Wagon 5P. T/M Motor Diesel,1500,1134,129
+M. Benz,E 350 CDI Bluetec 3.0 Lts. DOHC Sedan 4P. T/A Motor Diesel,3000,1134,178
+M. Benz,E 350 CDI Bluetec Estate 3.0 Lts. DOHC Station Wagon 5P. T/A Motor Diesel,3000,1134,178
+Peugeot,208 Gti 1.6 Lts. THP 200 HP DOHC Hatch Back 3P. T/M Motor Otto,1600,1701,150
+Audi,S4 3.0 Lts. TFSI DOHC Sedan 4P. T/A 4x4 Motor CGWC Otto,3000,1474,192
+M. Benz,C 350 CDI BlueEfficiency 3.0 Lts. DOHC Sedan 4P. T/A Motor Diesel,3000,1474,168
+M. Benz,C 350 CDI Estate 3.0 Lts. DOHC Station Wagon 5P. T/A Motor Diesel,3000,1474,168
+BYD,S6 2.4 Lts. DOHC Station Wagon 5P. T/M Motor Otto,2400,1474,213
+M. Benz,CLS 350 CDI 3.0 Lts. DOHC Sedan 4P. T/A Motor Diesel,3000,1474,209
+M. Benz,CLS 350 CDI Shooting Brake 3.0 Lts. DOHC Station Wagon 5P. T/A Motor Diesel,3000,1474,200
+Nissan,Pathfinder 3.5 Lts. DOHC Station Wagon 5P. T/A CVT 4x4 Motor Otto,3500,1474,251
+Nissan,Pathfinder 3.5 Lts. DOHC Station Wagon 5P. T/A CVT 4x2 Motor Otto,3500,1474,251
+Audi,A1 1.4 Lts. DOHC TFSI Hatch Back 5P. T/A 4x2 Motor CTHG Otto,1400,1701,156
+Audi,A1 1.4 Lts. DOHC TFSI Hatch Back 3P. T/A 4x2 Motor CTHG Otto,1400,1701,156
+Jaguar,F-Type S/C 5.0 Lts. DOHC Cabriolet 2P. T/A Motor Otto,5000,1247,259
+Jaguar,F-Type S/C 3.0 Lts. DOHC Cabriolet 2P. T/A Motor Otto,3000,1247,259
+Opel,Cascada 1.6 Lts. Turbo DOHC Convertible 2P. T/A Motor Otto,1600,1474,171
+Peugeot,2008 1.6 Lts. E-HDI SOHC Station Wagon 5P. T/M Motor Diesel,1600,1701,109
+Peugeot,2008 1.6 Lts. E-HDI SOHC Station Wagon 5P. T/M (Pilotada) Motor Diesel,1600,1701,106
+Chery,Tiggo 2.0 Lts. DOHC Station Wagon 4P. AWD 4x4 T/M Motor Otto,2000,1474,220
+Peugeot,2008 1.6 Lts. DOHC 120HP Station Wagon 5P. T/M Motor Otto,1600,1701,140
+Ferrari,F12 Berlinetta 6.3 Lts. DOHC Coupé 2P. T/A Motor Otto,6300,1134,381
+Fiat,Grande Punto Pop 1.2 Lts. SOHC Hatch Back 3P. T/M Motor Otto,1200,1247,149
+Fiat,Grande Punto Pop (E4) 1.2 Lts. SOHC Hatch Back 3P. T/M Motor Otto,1200,1247,156
+Gac,GA-5 2.0 Lts. DOHC Sedan 4P. T/A Motor Otto,2000,1247,226
+Audi,A3 1.2 Lts. TFSI DOHC Hatch Back 3P. T/M Motor CJZA Otto,1200,1474,116
+Audi,A3 1.2 Lts. TFSI DOHC Hatch Back 5P. T/M Motor CJZA Otto,1200,1474,114
+Toyota,Yaris 1.5 Lts. DOHC Sedan 4P. T/M Motor Otto,1500,1247,149
+Toyota,Yaris 1.5 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1500,1247,149
+Gac,GS-5 2.0 Lts. DOHC Station Wagon 5P. T/M Motor Otto,2000,1247,216
+Toyota,Yaris 1.5 Lts. DOHC Sedan 4P. T/A Motor Otto,1500,1247,160
+Toyota,Yaris 1.5 Lts. DOHC Hatch Back 5P. T/A Motor Otto,1500,1247,160
+Audi,A4 1.8 Lts. T-FSI DOHC Sedan 4P. T/A Motor CDHA Otto,1800,1474,116
+Peugeot,208 1.6 Lts. DOHC 120HP Hatch Back 5P. T/A Motor Otto,1600,1701,162
+Mitsubishi,Mirage 1.2 DOHC Hatch Back 5P. T/A CVT Motor Otto,1200,1814,123
+Mitsubishi,Mirage 1.2 DOHC Hatch Back 5P. T/M Motor Otto,1200,1814,120
+Jaguar,F-Type S/C S 3.0 Lts. DOHC Cabriolet 2P. T/A Motor Otto,3000,1247,213
+Porsche,Panamera S 3.0 Lts. DOHC Sedan 4P. T/A Motor Otto,3000,1474,204
+Porsche,Panamera 4S 3.0 Lts. DOHC Sedan 4P. T/A Motor Otto,3000,1474,208
+Faw,Bestrun B70 2.0 Lts. DOHC Sedan 4P. T/A Motor Otto,2000,1474,210
+BMW,750i 4.4 Lts. DOHC Sedan 4P. T/A Motor Otto,4400,1701,199
+BMW,740i 3.0 Lts. DOHC Sedan 4P. T/A Motor Otto,3000,1701,184
+Skoda,Superb 3.6 Lts. V6 FSI 4Motion DOHC Sedan 4P. T/A Motor CDVA Otto,3600,1474,222
+Audi,A3 1.8 Lts. TFSI DOHC Hatch Back 3P. T/M Motor CJSA Otto,1800,1474,164
+Audi,A3 1.8 Lts. TFSI DOHC Hatch Back 5P. T/M Motor CJSA Otto,1800,1474,164
+M. Benz,E 400 3.0 Lts. DOHC Sedan 4P. T/A Motor Otto,3000,1134,187
+M. Benz,E 400 3.0 Lts. DOHC Coupe 2P. T/A Motor Otto,3000,1134,179
+M. Benz,E 400 3.0 Lts. DOHC Cabriolet 2P. T/A Motor Otto,3000,1134,185
+M. Benz,CLS 350 Shooting Brake 3.5 Lts. DOHC Station Wagon 5P. T/A Motor Otto,3500,1474,203
+M. Benz,CLS 350 3.5 Lts. DOHC Sedan 4P. T/A Motor Otto,3500,1474,196
+Suzuki,Swift 1.2 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1200,1474,142
+Suzuki,New Swift DZire 1.2 Lts. DOHC Sedan 4P. T/M Motor Otto,1200,1814,142
+Suzuki,Swift 1.2 Lts. DOHC Hatch Back 5P. T/A Motor Otto,1200,1474,153
+Suzuki,New Swift DZire 1.2 Lts. DOHC Sedan 4P. T/A Motor Otto,1200,1814,153
+Nissan,March 1.6 Lts. DOHC Hatch Back 5P. T/A Motor Otto,1600,1814,162
+Lifan,330 1.3 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1300,1701,166
+BYD,F5 Suri Turbo 1.5 Lts. DOHC Sedan 4P. T/M Motor Otto,1500,1134,205
+BYD,New F3 1.5 Lts DOHC Sedan 4P. T/A Motor Otto,1500,1814,173
+Audi,R8 Spyder 4.2 Lts. FSI V8 Quattro Sonic DOHC Convertible 2P. T/A Motor CNDA Otto,4200,1474,294
+Audi,R8 Coupe 4.2 Lts. FSI V8 Quattro Sonic DOHC Coupe 2P. T/A Motor CNDA Otto,4200,1474,289
+Chery,Tiggo AT 2.0 Lts. DOHC Station Wagon 5P. T/A Motor Otto,2000,1474,218
+Gac,GS-5 2.0 Lts. DOHC Station Wagon 5P. T/A Motor Otto,2000,1247,228
+Audi,A3 1.2 Lts. TFSI DOHC Hatch Back 3P. T/A Motor CJZA Otto,1200,1474,114
+Audi,A3 1.2 Lts. TFSI DOHC Hatch Back 5P. T/A Motor CJZA Otto,1200,1474,179
+Audi,A3 1.2 Lts. TFSI DOHC Sedan 4P. T/A Motor CJZA Otto,1200,1474,179
+Lexus,IS 300 h 2.5 Lts. DOHC Híbrido Sedan 4P. T/A Tipo CVT. Vehículo Eléctrico Híbrido,2500,1588,115
+BYD,F5 Suri Turbo 1.5 Lts. DOHC Sedan 4P. T/A Motor Otto,1500,1134,192
+Nissan,March 1.6 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1600,1814,154
+Lexus,IS 350 3.5 Lts. DOHC Sedan 4P. T/A Motor Otto,3500,1588,235
+Audi,A5 Quattro Stronic 3.0 Lts. TFSI DOHC Coupé 2P. T/A 4x4 Motor CMUA Otto,3000,1474,192
+Audi,A5 Quattro Stronic 3.0 Lts. TFSI DOHC Hatch Back 5P. T/A 4x4 Motor CMUA Otto,3000,1474,192
+Mitsubishi,Outlander 2.0 Lts. DOHC Station Wagon 5P. 4x2 T/A Motor Otto,2000,1474,199
+Mitsubishi,Outlander 2.4 Lts. DOHC Station Wagon 5P. 4x4 T/A (CVT) Motor Otto,2000,1474,211
+Jaguar,XF R-S 5.0 Lts. DOHC Sedan 4P. T/A Motor Otto,5000,1247,270
+Jaguar,XJ S/C 3.0 Lts. DOHC Sedan 4P. T/A Motor Otto,3000,1247,234
+Peugeot,2008 1.4 Lts. HDI SOHC 68 hp Station Wagon 5P. T/M Motor Diesel,1400,1701,105
+Kia,Koup 2.0 Lts. DOHC Coupé 2P. T/A Motor Otto,2000,1588,175
+Kia,Cerato 2.0 Lts. DOHC Sedan 4P. T/A Motor Otto,2000,1474,175
+Kia,Cerato 5 2.0 Lts. DOHC Hatch Back 5P. T/A Motor Otto,2000,1474,175
+Kia,Koup 2.0 Lts. DOHC Coupé 2P. T/M Motor Otto,2000,1588,168
+Kia,Cerato 2.0 Lts. DOHC Sedan 4P. T/M Motor Otto,2000,1474,168
+Kia,Cerato 5 2.0 Lts. DOHC Hatch Back 5P. T/M Motor Otto,2000,1474,168
+Volvo,XC 60 D4 2.0 Lts. DOHC Station Wagon 5P. T/A Motor Diesel,2000,1701,161
+Renault,Symbol 1.6 Lts. SOHC Sedan 4P. T/M Motor Otto,1600,1474,174
+Lifan,630 1.5 Lts. DOHC Sedan 4P. T/M Motor Otto,1500,1701,187
+M. Benz,S500 5.0 Lts. DOHC Sedan 4P. T/A Motor Otto,5000,1474,207
+M. Benz,S500 Largo 5.0 Lts. DOHC Sedan 4P. T/A Motor Otto,5000,1474,209
+M. Benz,E 220 CDI 2.1 Lts. DOHC Sedan 4P. T/A Motor Diesel,2100,1134,157
+M. Benz,E 220 CDI Estate 2.1 Lts. DOHC Station Wagon 5P. T/A Motor Diesel,2100,1134,157
+M. Benz,A 45 AMG 4 Matic 2.0 Lts. DOHC Hatch Back 5P. T/A 4x4 Motor Otto,2000,1701,168
+Citroen,C4 Stop&Start 1.6 Lts. HDI SOHC Hatch Back 5P T/M Motor Diesel,1600,1247,117
+M. Benz,CLS 63 AMG S4 Matic 5.5 Lts. DOHC Sedan 4P. T/A 4x4 Motor Otto,5500,1474,245
+M. Benz,CLA 45 AMG 4 Matic 2.0 Lts. DOHC Sedan 4P. T/A 4x4 Motor Otto,2000,1474,168
+Volvo,V40 D2 1.6 Lts. SOHC Hatch Back 5P. T/A Motor Diesel,1600,1474,104
+Volvo,V40 CC D2 1.6 Lts. SOHC Hatch Back 5P. T/A Motor Diesel,1600,1474,104
+Hyundai,New Tucson LM FL 2.0 Lts. DOHC Station Wagon 5P. 4x4 T/A Motor Otto,2000,1814,200
+Hyundai,New Tucson LM FL 2.0 Lts. DOHC Station Wagon 5P. 4x2 T/A Motor Otto,2000,1814,200
+BMW,X3 xDrive30d 3.0 Lts. DOHC Sation Wagon 5P. T/A 4x4 Motor Diesel,3000,1701,159
+Maserati,Quattroporte S Q4 3.0 Lts. DOHC Sedan 4P. T/A 4x4 Motor Otto,3000,1474,285
+Maserati,Quattroporte S 3.0 Lts. DOHC Sedan 4P. T/A 4x4 Motor Otto,3000,1474,285
+Lifan,530 1.5 Lts. DOHC Sedan 4P. T/M Motor Otto,1500,1701,187
+Great Wall,M4 1.5 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1500,1814,165
+Subaru,Outback 2.0 Lts. DOHC Station Wagon 5P. 4x4 T/M Motor Diesel,2000,1814,157
+Subaru,Outback 3.6 Lts. DOHC Sattion Wagon 5P. T/A 4x4 Motor Otto,3600,1588,242
+Subaru,Outback 2.5 Lts. DOHC Station Wagon 5P. 4x4 T/A CVT Motor Otto,2500,1814,193
+Subaru,Legacy 2.5 Lts. DOHC Sedan 4P. 4x4 (3.7:1) T/A CVT Motor Otto,2500,1588,193
+Subaru,Legacy 2.5 Lts. DOHC Sedan 4P. 4x4 (3.9:1) T/A CVT Motor Otto,2500,1588,193
+Hyundai,New Tucson LM FL 2.0 Lts. DOHC Station Wagon 5P. 4x4 T/M Motor Otto,2000,1814,204
+Hyundai,New Tucson LM FL 2.0 Lts. DOHC Station Wagon 5P. 4x2 T/M Motor Otto,2000,1814,204
+Landwind,X5 (JX6461L) 2.0 Lts. SOHC Station Wagon 5P. T/M Motor Otto,2000,1701,216
+M. Benz,E 63 AMG S 4Matic 5.5 Lts. DOHC Sedan 4P. T/A 4x4 Motor Otto,5500,1134,242
+M. Benz,E 63 AMG S Estate 4Matic 5.5 Lts. DOHC Station Wagon 5P. T/A 4x4 Motor Otto,5500,1134,246
+M. Benz,E 63 AMG 4Matic 5.5 Lts. DOHC Sedan 4P. T/A 4x4 Motor Otto,5500,1134,242
+Fiat,500 L 1.4 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1400,1701,146
+Fiat,500 L Lounge 1.4 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1400,1701,146
+Audi,A3 1.4 Lts. TFSI DOHC Hatch Back 5P. T/A Motor CXSA Otto,1400,1474,116
+Audi,A3 1.4 Lts. TFSI DOHC Hatch Back 3P. T/A Motor CXSA Otto,1400,1474,116
+Audi,A3 1.4 Lts. TFSI DOHC Sedan 4P. T/A Motor CXSA Otto,1400,1474,116
+Jeep,Jeep Wrangler Unlimited Sahara 2.8 Lts. DOHC Tipo Jeep 5P. T/A 4x4 Motor Diesel,2800,1588,230
+Jeep,Jeep Wrangler Sahara 2.8 Lts. DOHC Tipo Jeep 3P. T/A 4x4 Motor Diesel,2800,1588,230
+Jeep,Jeep Wrangler Sport 2.8 Lts. DOHC Tipo Jeep 3P. T/A 4x4 Motor Diesel,2800,1588,230
+Jeep,Jeep Wrangler Rubicon 2.8 Lts. DOHC Tipo Jeep 3P. T/A 4x4 Motor Diesel,2800,1588,230
+Jeep,Jeep Wrangler Unlimited Sport 2.8 Lts. DOHC Tipo Jeep 5P. T/A 4x4 Motor Diesel,2800,1588,230
+Jeep,Jeep Wrangler Unlimited Rubicon 2.8 Lts. DOHC Tipo Jeep 5P. T/A 4x4 Motor Diesel,2800,1588,230
+Peugeot,308 1.6 Lts. E-HDI SOHC 115 hp Hatch Back 5P. T/M Motor Diesel,1600,1701,103
+Skoda,Octavia 1.4 Lts. TSI DOHC Sedan 4P. T/A 4x2 Motor CHPA Otto,1400,1814,121
+Skoda,Octavia 1.4 Lts. TSI DOHC Station Wagon 4P. T/A 4x2 Motor CHPA Otto,1400,1814,116
+Fiat,Palio Attractive 1.4 Lts. SOHC Hatch Back 5P. T/M Motor Otto,1400,1474,172
+Fiat,Palio Attractive 1.4 Lts. SOHC Hatch Back 3P. T/M Motor Otto,1400,1474,172
+Audi,R8 Spyder 5.2 Lts. FSI V10 Quattro Stronic DOHC Convertible 2P. T/A 4x4 Motor CTYA Otto,5200,1474,312
+Audi,R8 5.2 Lts. FSI V10 Quattro Stronic DOHC Coupe 2P. T/A 4x4 Motor CTYA Otto,5200,1474,307
+Audi,A3 1.4 Lts. TFSI DOHC Hatch Back 5P. T/M Motor CXSA Otto,1400,1474,143
+Audi,A3 1.4 Lts. TFSI DOHC Hatch Back 3P. T/M Motor CXSA Otto,1400,1474,143
+Skoda,Octavia 1.4 Lts. TSI DOHC Sedan 4P. T/M 4x2 Motor CHPA Otto,1400,1814,124
+Skoda,Octavia 1.4 Lts. TSI DOHC Station Wagon 4P. T/M 4x2 Motor CHPA Otto,1400,1814,124
+Skoda,Octavia 1.6 Lts. TDI DOHC Sedan 5P. T/A 4x2 Motor CLHA Diesel,1600,1814,104
+Skoda,Octavia 1.6 Lts. TDI DOHC Station Wagon 5P. T/A 4x2 Motor CLHA Diesel,1600,1814,114
+Brilliance,H230 1.5 Lts. DOHC Sedan 4P. T/M Motor Otto,1500,1247,165
+Brilliance,H220 1.5 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1500,1247,165
+Audi,Q5 3.0 Lts. DOHC TDI Quattro Stronic Station Wagon 5P. T/A 4x4 Motor CDUC Diesel,3000,1474,172
+Skoda,Octavia 1.6 Lts. TDI DOHC Sedan 5P. T/M 4x2 Motor CLHA Diesel,1600,1814,99
+Skoda,Octavia 1.6 Lts. TDI DOHC Station Wagon 5P. T/M 4x2 Motor CLHA Diesel,1600,1814,104
+BYD,S6 2.4 Lts. DOHC Station Wagon 5P. T/M Motor Otto,2400,1474,216
+BYD,F0 1.0 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1000,1134,152
+Chevrolet,Orlando AT 2.4 Lts. DOHC Station Wagon 5P. T/A Motor Otto,2400,1814,233
+Brilliance,V5 1.5T 1.5 Lts. DOHC Station Wagon 5P. T/M Motor Otto,1500,1474,186
+Brilliance,Euphoria 1.5T 1.5 Lts. DOHC Sedan 4P. T/M Motor Otto,1500,1134,186
+Brilliance,V5 1.5T 1.5 Lts. DOHC Station Wagon 5P. T/A Motor Otto,1500,1474,205
+Brilliance,Euphoria 1.5T 1.5 Lts. DOHC Sedan 4P. T/A Motor Otto,1500,1134,205
+Volkswagen,Tiguan 2.0 Lts. TSI Sport 4Motion DOHC Station Wagon 5P. 4x4 T/A Motor CCZD Otto,2000,1474,207
+Lada,Niva 1.7 Lts. SOHC Jeep 3P. T/M 4x4 Motor Otto,1700,1814,237
+BYD,F5 1.5 VVT 1.5 Lts. SOHC Sedan 4P. T/M Motor Otto,1500,1134,178
+Fiat,500 Lounge 1.4 Lts. DOHC Hatch Back 5P. T/M Dualogic Motor Otto,1400,1701,161
+Fiat,500 Lounge 1.4 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1400,1701,161
+Fiat,500 Lounge 1.4 Lts. DOHC Cabriolet 2P. T/M Motor Otto,1400,1701,161
+Fiat,500 Pop 1.2 Lts. DOHC Cabriolet 2P. T/M Dualogic Motor Otto,1200,1701,143
+Fiat,500 Pop 1.2 Lts. DOHC Cabriolet 2P. T/M Motor Otto,1200,1701,143
+Fiat,500 Pop 1.2 Lts. DOHC Hatch Back 2P. T/M Motor Otto,1200,1701,143
+Kia,Sportage 2.0 Lts. DOHC Station Wagon 5P. T/A 4x4 Motor Otto,2000,1474,200
+Kia,Sportage 2.0 Lts. DOHC Station Wagon 5P. T/A 4x2 Motor Otto,2000,1474,200
+Kia,Sportage 2.0 Lts. DOHC Station Wagon 5P. T/M 4x4 Motor Otto,2000,1474,204
+Kia,Sportage 2.0 Lts. DOHC Station Wagon 5P. T/M 4x2 Motor Otto,2000,1474,204
+Skoda,Octavia 2.0 Lts. TDI DOHC Sedan 5P. T/A Motor CKFC Diesel,2000,1814,124
+Skoda,Octavia 2.0 Lts. TDI DOHC Station Wagon 5P. T/A Motor CKFC Diesel,2000,1814,124
+Volkswagen,Sharan Highline 2.0 Lts. TDI CR DOHC Station Wagon 5P. T/A Motor CFFB Diesel,2000,1474,160
+Audi,SQ5 Quattro 3.0 Lts. TFSI DOHC Station Wagon 5P. T/A 4x4 Motor CTXA Otto,3000,1474,202
+Infiniti,Q50 3.7 Lts. DOHC Sedan 4P. T/A Motor Otto,3700,1474,232
+Ssangyong,Korando 2.0 Lts. DOHC Station Wagon 5P. T/M 4x4 Motor Otto,2000,1588,200
+Ssangyong,Korando 2.0 Lts. DOHC Station Wagon 5P. T/M 4x2 Motor Otto,2000,1588,182
+Infiniti,S Hybrid 3.5 Lts. DOHC Sedan 4P. T/A Vehículo Eléctrico Hibrido,3500,1474,160
+Chery,Tiggo 1.6 Lts. DOHC Station Wagon 5P. 4x2 T/M Motor Otto,1600,1474,180
+Subaru,XV 1.6 Lts. DOHC Station Wagon 5P. T/A Tipo CVT 4x4 Motor Otto,1600,1247,147
+Subaru,Impresa 1.6 Lts. DOHC Station Wagon 5P. T/A Tipo CVT 4x4 Motor Otto,1600,1247,147
+Jac,S5 2.0 Lts. Turbo DOHC Station Wagon 5P. T/M 4x2 Motor Otto,2000,1474,232
+Mazda,CX-5  I-Stop 2.0 Lts. DOHC Station Wagon 5P. T/A 4x4 Motor Otto,2000,1134,166
+Mazda,CX-5  I-Stop 2.0 Lts. DOHC Station Wagon 5P. T/M 4x4 Motor Otto,2000,1134,160
+Dongfeng,DFA6400W30QD E-Cargo 1.3 Lts.. DOHC Furgón 5P.T/M Motor Otto,1300,1134,178
+Renault,Clio IV 1.2 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1200,1474,137
+Chevrolet,Sail NB 1.4 Lts.. DOHC Sedán 4P.T/M Motor Otto,1400,1474,149
+Chevrolet,Sail NB 1.4 Lts.. DOHC HatchBack 5P.T/M Motor Otto,1400,1474,149
+Audi,A5 Quattro 2.0 Lts.. TFSI DOHC Convertible 2P. Stronic 4x4 Motor CNCD Otto,2000,1474,159
+Audi,A5 Quattro 2.0 Lts.. TFSI DOHC HatchBack 5P. Stronic 4x4 Motor CNCD Otto,2000,1474,155
+Audi,A5 Quattro 2.0 Lts.. TFSI DOHC Coupe 2P. Stronic 4x4 Motor CNCD Otto,2000,1474,155
+Audi,A4 Allroad Quattro Stronic 2.0 Lts.. TFSI DOHC Station Wagon 4P. T/A Motor CNCD Otto,2000,1474,166
+Audi,A4 Allroad Quattro Stronic 2.0 Lts.. TFSI DOHC Sedán 4P. T/A Motor CNCD Otto,2000,1474,155
+Renault,Clio IV 0.9 Lts.. Turbo DOHC HatchBack 5P. T/M Motor Otto,900,1474,123
+Opel,Insignia NB 2.0 Lts.. DOHC Sedán 4P. AWD T/A Motor Otto,2000,1588,194
+Chevrolet,Tracker AWD 1.8 Lts..  DOHC Station Wagon 5P. T/A 4x4 Motor Otto,1800,1474,201
+Chevrolet,Tracker FWD 1.8 Lts..  DOHC Station Wagon 5P. T/A 4x2 Motor Otto,1800,1474,201
+Chevrolet,Tracker FWD 1.8 Lts..  DOHC Station Wagon 5P. T/M 4x2 Motor Otto,1800,1474,184
+Chevrolet,Tracker AWD 1.8 Lts..  DOHC Station Wagon 5P. T/M 4x4 Motor Otto,1800,1474,184
+Chery,Fulwin 2 1.5 Lts.. SOHC Sedán 4P. T/M Motor Otto,1500,1247,180
+Chery,Fulwin 2 1.5 Lts.. SOHC Hatch Back 5P. T/M Motor Otto,1500,1247,180
+Renault,Koleos 2.5 Lts.. DOHC Station 5P. T/M 4x4 Motor Otto,2500,1588,225
+Porsche,911 Turbo S 3.8 Lts.. DOHC Coupe 2P. T/A 4x4 Motor Otto,3800,1701,228
+Porsche,911 Turbo S 3.8 Lts.. DOHC Cabriolet 2P. T/A 4x4 Motor Otto,3800,1701,228
+Renault,Captur 1.2 Lts.. Turbo DOHC Station 5P. T/A Motor Otto,1200,1247,142
+Ford,Fusion 2.0 Lts.. DOHC Sedán 4P. T/A Motor Otto,2000,1247,228
+Gac Gonow,GA 6381 Way 1.0 Lts.. SOHC  Minivan 5P. T/M Motor Otto,1000,1247,172
+Ford,Fusion 2.5 Lts.. DOHC Sedán 4P. T/A Motor Otto,2500,1247,217
+Lexus,GS 350 3.5 Lts. DOHC Sedan 4P. T/A Motor Otto,3500,1247,273
+Peugeot,2008 1.2 Lts. DOHC 82HP Station Wagon 5P. T/M Motor Otto,1200,1701,116
+Lexus,ES 350 3.5 Lts. DOHC Sedan 4P. T/A Motor Otto,3500,1134,215
+Maserati,Ghibli S 3.0 Lts. DOHC Sedan 4P. T/A AWD 4x4 Motor Otto,3000,1247,221
+Maserati,Ghibli S 3.0 Lts. DOHC Sedan 4P. T/A RWD 4x2 Motor Otto,3000,1247,221
+Nissan,Versa 1.6 Lts. DOHC Sedan 4P. T/A Motor Otto,1600,1474,161
+Nissan,Versa 1.6 Lts. DOHC Sedan 4P. T/M Motor Otto,1600,1474,155
+Skoda,Rapid 1.4 Lts. TSI DOHC Sedan 5P. T/A Motor CAXA Otto,1400,1474,139
+Skoda,Rapid Spaceback 1.4 Lts. TSI DOHC Hatch Back 5P. T/A Motor CAXA Otto,1400,1474,139
+Skoda,Rapid 1.6 Lts. TDI DOHC Sedan 5P. T/M Motor CAYC Diesel,1600,1474,121
+Subaru,XV 1.6 Lts. DOHC Station Wagon 5P. T/M 4x4 Motor Otto,1600,1247,185
+Subaru,Impreza 1.6 Lts. DOHC Sedan 4P. T/M 4x4 Motor Otto,1600,1247,185
+Volkswagen,Beetle Cabrio 2.0 Lts. DOHC Convertible 2P. T/A Motor CPLA Otto,2000,1474,185
+Volkswagen,Beetle Coupe 2.0 Lts. DOHC Hatch Back 3P. T/A Motor CPLA Otto,2000,1474,176
+Subaru,XV 2.0 Lts. R DOHC Station Wagon 5P. T/M 4x4 Motor Otto,2000,1247,177
+Subaru,Impreza 2.0 Lts. R DOHC Sedan 4P. T/M 4x4 Motor Otto,2000,1247,177
+Subaru,Impreza 2.0 Lts. R DOHC Station Wagon 5P. T/M 4x4 Motor Otto,2000,1247,177
+Subaru,XV 2.0 Lts. R DOHC Station Wagon 5P. T/A CVT 4x4 Motor Otto,2000,1247,171
+Subaru,Impreza 2.0 Lts. R DOHC Sedan 4P. T/A CVT 4x4 Motor Otto,2000,1247,171
+Subaru,Impreza 2.0 Lts. R DOHC Station Wagon 5P. T/A CVT 4x4 Motor Otto,2000,1247,171
+Chevrolet,Cruze 1.8 Lts. DOHC Sedan 4P. T/M Motor Otto,1800,1134,178
+Chevrolet,Cruze 1.8 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1800,1134,178
+Audi,TT 1.8 Lts. DOHC Coupé 3P. T/A Motor CDAA Otto,1800,1474,147
+M. Benz,S 350 Bluetec 3.0 Lts. Turbo DOHC Sedan 4P. T/A Motor Diesel,3000,1474,186
+M. Benz,S 350 Bluetec Largo 3.0 Lts. Turbo DOHC Sedan 4P. T/A Motor Diesel,3000,1474,186
+Audi,A6 2.0 Lts. TDI DOHC Sedan 4P. T/A Motor CGLC Diesel,2000,1474,132
+Audi,S3 2.0 Lts. TFSI Quattro Stronic DOHC Hatch Back 3P. T/A Motor CJXC Otto,2000,1474,205
+Audi,S3 2.0 Lts. TFSI Quattro Stronic DOHC Hatch Back 5P. T/A Motor CJXC Otto,2000,1474,202
+Audi,S3 2.0 Lts. TFSI Quattro Stronic DOHC Sedan 4P. T/A Motor CJXC Otto,2000,1474,202
+Porsche,Panamera S E-Hybrid 3.0 Lts. DOHC Sedan 5P. T/A Vehículo Híbrido Eléctrico,3000,1474,72
+Mazda,Mazda6 2.0 Lts. DOHC Sedan 4P. T/A Motor Otto,2000,1814,170
+Brilliance,H230 1.5 Lts. DOHC Sedan 4P. T/M Motor Otto,1500,1247,166
+Brilliance,H220 1.5 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1500,1247,166
+Dodge,Charger 3.6 Lts. DOHC Sedan 4P. T/A Motor Otto,3600,1474,288
+Dodge,Charger AWD 3.6 Lts. DOHC Sedan 4P. T/A Motor Otto,3600,1474,288
+Brilliance,V5 T 1.5 Lts. DOHC Station Wagon 5P. T/M Motor Otto,1500,1474,183
+Brilliance,Euphoria T 1.5 Lts. DOHC Sedan 4P. T/M Motor Otto,1500,1134,183
+Kia,Soul 1.6 Lts. DOHC Station Wagon 5P. T/A Motor Otto,1600,1474,197
+Kia,Soul 1.6 Lts. DOHC Station Wagon 5P. T/M Motor Otto,1600,1474,167
+Mazda,Mazda6 2.0 Lts. DOHC Sedan 4P. T/M Motor Otto,2000,1814,155
+Renault,Koleos 2.5 Lts.. DOHC Station Wagon 5P. T/A 4x4 Motor Otto,2500,1588,253
+Alfa Romeo,Mito JTD 85 CV 1.2 Lts. DOHC Hatch Back 3P. T/M Motor Diesel,1200,1814,91
+Chevrolet,Cruze 1.8 Lts. DOHC Sedan 4P. T/A Motor Otto,1800,1134,210
+Chevrolet,Cruze 1.8 Lts. DOHC Hatch Back 5P. T/A Motor Otto,1800,1134,210
+Chevrolet,Sonic 1.6 Lts. DOHC Sedan 4P. T/M Motor Otto,1600,1474,165
+Chevrolet,Sonic 1.6 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1600,1474,165
+Hyundai,Grand i10 BA 1.0 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1000,1247,144
+BMW,X6 xDrive30d 3.0 Lts. DOHC Station Wagon 5P. T/A,3000,1701,203
+Hyundai,Grand i10 BA 1.2 Lts. DOHC Hatch Back 5P. T/A Motor Otto,1200,1247,154
+Chevrolet,Spark GT 1.2 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1200,1474,140
+Chevrolet,Sonic 1.6 AT Lts. DOHC Sedan 4P. T/A Motor Otto,1600,1474,172
+Chevrolet,Sonic 1.6 AT Lts. DOHCHatch Back 5P. T/A Motor Otto,1600,1474,172
+Hyundai,Grand i10 BA 1.2 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1200,1247,144
+BMW,X6 xDrive35i 3.0 Lts. DOHC Station Wagon 5P. T/A 4x4 Motor Otto,3000,1701,236
+BMW,X5 xDrive35i 3.0 Lts. DOHC Station Wagon 5P. T/A 4x4 Motor Otto,3000,1701,236
+Rolls Royce,Phantom 6.7 Lts. DOHC Sedan 4P. T/A Motor Otto,6700,1474,347
+Hyundai,Accent RB 1.6 Lts. DOHC Sedan 4P. T/M Motor Otto,1600,1474,150
+Hyundai,Accent RB 1.6 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1600,1474,150
+Dongfeng,H30 Cross 1.6 Lts. DOHC Hatch Back 4P.+ 1 Portalón T/M Motor Otto,1600,1247,187
+Dongfeng,H30 1.6 Lts. DOHC Hatch Back 4P.+ 1 Portalón T/M Motor Otto,1600,1247,187
+Suzuki,APV 1.6 Lts. SOHC Minibus 5P. T/M Motor Otto,1600,1474,205
+Hyundai,New Tucson LM FL 4WD 2.0 Lts. DOHC Station Wagon 5P. T/M 4x4 Motor Otto,2000,1814,199
+Hyundai,New Tucson LM FL 2.0 Lts. DOHC Station Wagon 5P. T/M 4x2 Motor Otto,2000,1814,199
+Aston Martin,V12 Vantage S 6.0 Lts. DOHC Coupé 2P. T/A Motor Otto,6000,1474,356
+Hyundai,New Tucson LM FL 4WD 2.0 Lts. DOHC Station Wagon 5P. T/A 4x4 Motor Otto,2000,1814,204
+Hyundai,New Tucson LM FL 2.0 Lts. DOHC Station Wagon 5P. T/A 4x2 Motor Otto,2000,1814,204
+Volvo,S60 T5 2.0 Lts. DOHC Sedan 4P. T/A Motor Otto,2000,1474,149
+BMW,M235i 3.0 Lts. DOHC Coupé 2P. T/A Motor Otto,3000,1814,176
+Citroen,C4 Picasso Stop & Start 1.6 Lts. HDI SOHC Satation Wagon 5P. 7 Pasajeros T/M Motor Diesel,1600,1247,117
+Citroen,C4 Picasso Stop & Start 1.6 Lts. HDI SOHC Satation Wagon 5P. 5 Pasajeros T/M Motor Diesel,1600,1247,117
+M. Benz,E 350 Bluetec 3.0 Lts. DOHC Sedan 4P. T/A Motor Diesel,3000,1134,171
+BMW,220i 2.0 Lts. DOHC Coupé 2P. T/A Motor Otto,2000,1701,134
+Hyundai,New Tucson LM FL Limited 4WD 2.4 Lts. DOHC Station Wagon 5P. T/A 4x4 Motor Otto,2400,1814,219
+Hyundai,New Tucson LM FL Limited 2WD 2.4 Lts. DOHC Station Wagon 5P. T/A 4x2 Motor Otto,2400,1814,219
+Changan,CV1 1.0 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1000,1134,117
+Volvo,XC60 T5 2.0 Lts. DOHC Station Wagon 5P. T/A Motor Otto,2000,1701,164
+M. Benz,GLA 220 CDI 4 Matic 2.1 Lts. Turbo DOHC Hatch Back 5P. T/A Motor Diesel,2100,1247,132
+Land Rover,Evoque 2.2 Lts. DOHC Hatch Back 3P. T/A Motor Diesel,2200,1134,182
+Land Rover,Evoque 2.2 Lts. DOHC Hatch Back 5P. T/A Motor Diesel,2200,1134,190
+Land Rover,Evoque 2.0 Lts. DOHC Hatch Back 3P. T/A Motor Otto,2000,1134,181
+Land Rover,Evoque 2.0 Lts. DOHC Hatch Back 5P. T/A Motor Otto,2000,1134,181
+Jeep,Cherokee 2.4 Lts. SOHC Station Wagon 5P. T/A 4x2 Motor Otto,2400,1474,193
+Jeep,Cherokee 2.4 Lts. SOHC Station Wagon 5P. T/A AWD Motor Otto,2400,1474,204
+Jeep,Cherokee 2.4 Lts. SOHC Station Wagon 5P. T/A 4x4 Motor Otto,2400,1474,204
+Toyota,Urban Cruiser 1.3 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1300,1474,141
+Hyundai,Accent RB 1.6 Lts. DOHC Sedan 4P. T/A Motor Otto,1600,1474,152
+Hyundai,Accent RB 1.6 Lts. DOHC Hatch Back 5P. T/A Motor Otto,1600,1474,152
+M. Benz,GLA 250 4Matic 2.0 Lts. DOHC Hatch Back 5P. T/A 4x4 Motor Otto,2000,1247,154
+Audi,Q3 1.4 Lts. TFSI DOHC Station Wagon 5P. T/A Motor CHPB Otto,1400,1474,147
+Geely,LC Cross 1.5 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1500,1588,159
+Audi,RS7 Sportback 4.0 Lts. TFSI DOHC Hatch Back 5P. T/A 4x4 Motor CRDB Otto,4000,1474,229
+Gac,GS-5 Trumpchi 2.0 Lts. DOHC Station Wagon 5P. T/M Motor Otto,2000,1247,218
+Lexus,RX 350 3.5 Lts. DOHC Station Wagon 5P. T/A 4x4 Motor Otto,3500,1474,247
+Toyota,Prius Híbrido 1.8 Lts. DOHC Hatch Back 5P. T/A. Vehículo Híbrido Eléctrico,1800,1474,89
+Great Wall,Haval H6 2.0 Lts. SOHC Station Wagon 5P. T/M 4x4 Motor Diesel,2000,1247,197
+Great Wall,Haval H6 2.0 Lts. SOHC Station Wagon 5P. T/M 4x2 Motor Diesel,2000,1247,197
+Gac,GA-5 Trumpchi 2.0 Lts. DOHC Sedan 4P. T/A Motor Otto,2000,1247,212
+Infiniti,Q60 S 3.7 Lts. DOHC Coupe 2P. T/A Motor Otto,3700,1474,248
+Kia,Cerato 5 1.6 Lts. DOHC Hatch Back 5P. T/A Motor Otto,1600,1474,161
+Kia,Cerato 1.6 Lts. DOHC Sedan 4P. T/A Motor Otto,1600,1474,161
+Kia,Cerato 5 1.6 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1600,1474,149
+Kia,Cerato 1.6 Lts. DOHC Sedan 4P. T/M Motor Otto,1600,1474,149
+Mazda,CX-5 i-Stop 2.0 Lts. DOHC Station Wagon 5P. T/A Motor Otto,2000,1134,156
+Kia,Optima 2.0 Lts. DOHC Sedan 4P. T/A Motor Otto,2000,1814,177
+Faw,Oley 1.5 Lts. DOHC Sedan 4P. T/M Motor Otto,1500,1814,160
+Faw,Oley 1.5 Lts. DOHC Hatch Back 5P. T/A Motor Otto,1500,1814,164
+M. Benz,GLA 200 1.6 Lts. DOHC Hatch Back 5P. T/A Motor Otto,1600,1247,139
+Infiniti,Q60 C 3.7 Lts. DOHC Convertible 2P. T/A Motor Otto,3700,1474,252
+Toyota,Corolla 1.8 Lts. DOHC Sedan 4P. T/M Motor Otto,1800,1134,165
+Mazda,CX-5 i-Stop 2.0 Lts. DOHC Station Wagon 5P. T/M Motor Otto,2000,1134,137
+Toyota,Corolla 1.8 Lts. DOHC Sedan 4P. T/A Motor Otto,1800,1134,157
+Lifan,Truck D/C 1.2 Lts. DOHC Pick Up Doble Cabina 4P. T/M Motor Otto,1200,1474,166
+Lifan,Truck D/C Box 1.2 Lts. DOHC Pick Up Doble Cabina 4P. T/M Motor Otto,1200,1474,166
+Hyundai,Sonata YF HEV 2.4 Lts. DOHC Sedan 4P. T/A Vehículo Híbrido Eléctrico,2400,1474,143
+Infiniti,Q50 2.0T Lts. DOHC Sedan 4P. T/A (7 Velocidades) Motor Otto,2000,1474,184
+Jeep,Cherokee Trailhawk 3.2 Lts. DOHC Station Wagon 5P. T/A 4x4 Motor Otto,3200,1474,232
+Jeep,Cherokee FWD 3.2 Lts. DOHC Station Wagon 5P. T/A 4x2 Motor Otto,3200,1474,221
+Jeep,Cherokee AWD 3.2 Lts. DOHC Station Wagon 5P. T/A 4x4 Motor Otto,3200,1474,232
+Jeep,Cherokee 4x4 3.2 Lts. DOHC Station Wagon 5P. T/A 4x4 Motor Otto,3200,1474,232
+Lifan,Van 1.2 Lts. DOHC Station Wagon 5P. T/M Motor Otto,1200,1474,167
+Lifan,Van XL 1.2 Lts. DOHC Station Wagon 5P. T/M Motor Otto,1200,1474,167
+Subaru,Impreza WRX 2.0 Lts. DOHC Sedan 4P. T/M 4x4 Motor Otto,2000,1588,213
+Subaru,Impreza WRX 2.0 Lts. DOHC Sedan 4P. T/A Tipo CVT 4x4 Motor Otto,2000,1588,199
+Kia,Carens 2.0 Lts. DOHC Station Wagon 5P. (7 Pasajeros) T/M Motor Otto,2000,1247,181
+Kia,Carens 2.0 Lts. DOHC Station Wagon 5P. (5 Pasajeros) T/M Motor Otto,2000,1247,181
+Kia,Carens 2.0 Lts. DOHC Station Wagon 5P. (7 Pasajeros) T/A Motor Otto,2000,1247,188
+Kia,Carens 2.0 Lts. DOHC Station Wagon 5P. (5 Pasajeros) T/A Motor Otto,2000,1247,188
+Kia,Cerato 5 2.0 Lts. DOHC Hatch Back 5P. T/M Motor Otto,2000,1474,180
+Kia,Cerato 2.0 Lts. DOHC Sedan 4P. T/M Motor Otto,2000,1474,180
+Kia,Koup 2.0 Lts. DOHC Coupé 2P. T/M Motor Otto,2000,1588,180
+Suzuki,Swift 1.2 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1200,1474,125
+Suzuki,Swift 1.2 Lts. DOHC Hatch Back 5P. T/A Motor Otto,1200,1474,142
+Hyundai,Accent RB 1.4 Lts. DOHC Sedan 4P. T/M 6 Velocidades Motor Otto,1400,1474,136
+Hyundai,Accent RB 1.4 Lts. DOHC Hatch Back 5P. T/M 6 Velocidades Motor Otto,1400,1474,136
+Kia,Cerato 5 2.0 Lts. DOHC Hatch Back 5P. T/A Motor Otto,2000,1474,176
+Kia,Cerato 2.0 Lts. DOHC Sedan 4P. T/A Motor Otto,2000,1474,176
+Kia,Koup 2.0 Lts. DOHC Coupé 2P. T/A Motor Otto,2000,1588,176
+BYD,New F3 1.5 Lts DOHC Sedan 4P. T/M Motor Otto,1500,1814,164
+Renault,Clio RS Sport 1.6 Lts. DOHC Hatch Back 5P. T/A Motor Otto,1600,1474,153
+Renault,Koleos 2.0 Lts. DOHC Station Wagon 5P. T/A 4x4 Motor Diesel,2000,1588,186
+Renault,Koleos 2.0 Lts. DOHC Station Wagon 5P. T/M 4x2 Motor Diesel,2000,1588,150
+Porsche,911 Turbo 3.8 Lts. DOHC Coupé 2P. T/A 4x4 Motor Otto,3800,1701,228
+Porsche,911 Turbo 3.8 Lts. DOHC Cabriolet 2P. T/A 4x4 Motor Otto,3800,1701,228
+Changan,CS1 1.4 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1400,1134,158
+Suzuki,Grand Nomade 2.4 Lts. DOHC Station Wagon 5P. T/A 4WD Motor Otto,2400,1247,238
+Suzuki,Grand Nomade 2.4 Lts. DOHC Station Wagon 5P. T/A 2WD Motor Otto,2400,1247,238
+Suzuki,Grand Vitara 2.4 Lts. DOHC Station Wagon 3P. T/A 4WD Motor Otto,2400,1247,238
+Suzuki,Grand Nomade 2.4 Lts. DOHC Station Wagon 5P. T/M 4WD Motor Otto,2400,1247,217
+Suzuki,Grand Nomade 2.4 Lts. DOHC Station Wagon 5P. T/M 2WD Motor Otto,2400,1247,217
+Suzuki,Grand Vitara 2.4 Lts. DOHC Station Wagon 3P. T/M 4WD Motor Otto,2400,1247,217
+Suzuki,Grand Vitara 1.6 Lts. DOHC Station Wagon 3P. T/M 4x4 Motor Otto,1600,1247,218
+Suzuki,Swift Dzire 1.2 Lts. DOHC Sedan 4P. T/A Motor Otto,1200,1474,149
+Suzuki,Swift Dzire 1.2 Lts. DOHC Hatch Back 5. T/A Motor Otto,1200,1474,149
+Jac,J4 1.5 Lts. DOHC Sedan 4P. T/M Motor Otto,1500,1588,164
+Suzuki,Swift Sport 1.6 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1600,1474,157
+Chery,New IQ 1.0 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1000,1814,137
+Toyota,RAV4 2.0 Lts. DOHC Sattion Wagon 5P. T/M 4x2 Motor Otto,2000,1474,185
+Toyota,RAV4 2.0 Lts. DOHC Sattion Wagon 5P. T/M 4x4 Motor Otto,2000,1474,185
+Mini,Cooper S 2.0 Lts. DOHC Hatch Back 3P. T/M Motor Otto,2000,1644,138
+Suzuki,Kizashi 2.4 Lts. DOHC Sedan 4P. T/A CVT 4x2 Motor Otto,2400,1588,201
+Nissan,March 1.6 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1600,1814,155
+Baic,E150 1.5 Lts. DOHC Sedan 4P. T/M Motor Otto,1500,1134,156
+Baic,E150 1.5 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1500,1134,156
+Mini,Cooper S 2.0 Lts. DOHC Hatch Back 3P. T/A Motor Otto,2000,1644,127
+Alfa Romeo,Giulietta 1.6 Lts. JTD DOHC Hatch Back 5P. T/M Motor Diesel,1600,1247,114
+Subaru,Forester 2.0 Lts. i-L DOHC Station Wagon 5P.  T/A Tipo CVT AWD Motor Otto,2000,1247,182
+Subaru,Forester 2.0 Lts. i-S DOHC Station Wagon 5P.  T/A Tipo CVT AWD Motor Otto,2000,1247,182
+Subaru,Forester 2.0 Lts. i DOHC Station Wagon 5P.  T/A Tipo CVT AWD Motor Otto,2000,1247,182
+Suzuki,Swift Dzire 1.2 Lts. DOHC Sedan 4P. T/M Motor Otto,1200,1474,142
+Suzuki,Swift Dzire 1.2 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1200,1474,142
+Volvo,S60 T4 1.6 Lts. DOHC Sedan 4P. T/A Motor Otto,1600,1474,164
+McLaren,MP4-12C Spyder 3.8 Lts. DOHC Convertible 2P. T/A Motor Otto,3800,1814,275
+McLaren,MP4-12C Spyder 3.8 Lts. DOHC Coupe 2P. T/A Motor Otto,3800,1814,275
+McLaren,650S Spyder 3.8 Lts. DOHC Convertible 2P. T/A Motor Otto,3800,1701,275
+McLaren,650S 3.8 Lts. DOHC Coupe 2P. T/A Motor Otto,3800,1701,275
+Renault,Captur 1.5 Lts. SOHC Station Wagon 5P. T/M Motor Diesel,1500,1247,95
+Subaru,Forester 2.0 Lts. i-L DOHC Station Wagon 5P.  T/M AWD Motor Otto,2000,1247,186
+Subaru,Forester 2.0 Lts. i-S DOHC Station Wagon 5P.  T/M AWD Motor Otto,2000,1247,186
+Subaru,Forester 2.0 Lts. i DOHC Station Wagon 5P.  T/M AWD Motor Otto,2000,1247,186
+Faw,Besturn X80 2.0 Lts. DOHC SUV Hatch Back 5P. T/A Motor Otto,2000,1474,202
+Faw,Besturn X80 2.0 Lts. DOHC SUV Hatch Back 5P. T/M Motor Otto,2000,1474,196
+Daihatsu,Terios 1.5 Lts. DOHC Station Wagon 5P. T/M 4x4 Motor Otto,1500,1474,173
+Daihatsu,Terios 1.5 Lts. DOHC Station Wagon 5P. T/M 4x2 Motor Otto,1500,1474,173
+Daihatsu,Terios 1.5 Lts. DOHC Station Wagon 5P. T/A 4x4 Motor Otto,1500,1474,178
+Daihatsu,Terios 1.5 Lts. DOHC Station Wagon 5P. T/A 4x2 Motor Otto,1500,1474,178
+MG,MG6 DVVT 1.8 Lts. DOHC Hatch Back 5P. T/A Motor Otto,1800,1814,209
+Mini,Cooper 1.5 Lts. DOHC Hatch Back 3P. T/A Motor Otto,1500,1644,115
+Mini,Cooper 1.5 Lts. DOHC Hatch Back 3P. T/M Motor Otto,1500,1644,110
+MG,MG6 DVVT 1.8 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1800,1814,199
+Renault,Fluence 2.0 Lts. DOHC Sedan 4P. T/A CVT Motor Otto,2000,1247,188
+Renault,Megane III 2.0 Lts. DOHC Hatch Back 5P. T/A CVT Motor Otto,2000,1814,188
+Kia,Morning 1.0 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1000,1814,109
+Renault,Koleos 2.5 Lts. DOHC Station Wagon 5P. T/A Motor Otto,2500,1588,210
+MG,MG350 S/C 1.5 Lts. DOHC Sedan 4P. T/M Motor Otto,1500,1814,184
+MG,MG5 1.5 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1500,1814,184
+MG,MG3 VTI 1.5 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1500,1814,158
+MG,MG3 Cross 1.5 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1500,1814,158
+Toyota,Yaris 1.5 Lts. DOHC Sedan 4P. T/M Motor Otto,1500,1247,147
+Toyota,Yaris 1.5 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1500,1247,147
+Kia,Rio 5 1.2 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1200,1474,131
+Kia,Rio 3 1.2 Lts. DOHC Hatch Back 3P. T/M Motor Otto,1200,1474,131
+Kia,Rio 4 1.2 Lts. DOHC Sedan 4P. T/M Motor Otto,1200,1474,131
+Toyota,Yaris 1.5 Lts. DOHC Sedan 4P. T/A Motor Otto,1500,1247,155
+Toyota,Yaris 1.5 Lts. DOHC Hatch Back 5P. T/A Motor Otto,1500,1247,155
+Faw,Oley 1.5 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1500,1814,162
+Chevrolet,Malibu 3.0 Lts. DOHC Sedan 4P. T/A Motor Otto,3000,1814,225
+Maserati,Ghibli S 3.0 Lts. DOHC Sedan 4P. T/A 4x2 Motor Diesel,3000,1247,163
+Porsche,Macan S 3.0 Lts. DOHC Station Wagon 5P. 4x4 T/A Motor Otto,3000,1814,210
+Fiat,Linea E5 1.4 Lts. SOHC Sedan 4P. T/M Motor Otto,1400,1814,167
+M. Benz,C 180 1.6 Lts. DOHC Sedan 4P. T/A Motor Otto,1600,1474,127
+Renault,Duster 1.6 Lts. DOHC Station Wagon 5P. T/M 4x2 Motor Otto,1600,1134,183
+Suzuki,Jimny 1.3 Lts. DOHC Tipo Jeep 3P. T/M 4x4 Motor Otto,1300,1588,168
+Kia,Rio 5 1.4 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1400,1474,148
+Kia,Rio 3 1.4 Lts. DOHC Hatch Back 3P. T/M Motor Otto,1400,1474,148
+Kia,Rio 4 1.4 Lts. DOHC Sedan 4P. T/M Motor Otto,1400,1474,148
+Kia,Rio 5 1.4 Lts. DOHC Hatch Back 5P. T/A Motor Otto,1400,1474,156
+Kia,Rio 3 1.4 Lts. DOHC Hatch Back 3P. T/A Motor Otto,1400,1474,156
+Kia,Rio 4 1.4 Lts. DOHC Sedan 4P. T/A Motor Otto,1400,1474,156
+Suzuki,Kizashi 2.4 Lts. DOHC Sedan 4P. T/M Motor Otto,2400,1588,184
+Subaru,Forester 2.5 Lts. i-L DOHC Station Wagon 5P.  T/A Tipo CVT AWD Motor Otto,2500,1247,190
+Subaru,Forester 2.5 Lts. i-S DOHC Station Wagon 5P.  T/A Tipo CVT AWD Motor Otto,2500,1247,190
+Subaru,Forester 2.5 Lts. i DOHC Station Wagon 5P.  T/A Tipo CVT AWD Motor Otto,2500,1247,190
+Subaru,Forester 2.0 Lts. DOHC Station Wagon 5P. AWD T/M Motor Diesel,2000,1247,156
+Hyundai,Santa Fe DM 3.3 Lts. DOHC Station Wagon 5P. T/A 4x4 Motor Otto,3300,1474,245
+Hyundai,Santa Fe DM 3.3 Lts. DOHC Station Wagon 5P. T/A 4x2 Motor Otto,3300,1474,245
+Hyundai,Grand Santa Fe NC 3.3 Lts. DOHC Station Wagon 5P. T/A 4x4 Motor Otto,3300,1247,245
+Hyundai,Grand Santa Fe NC 3.3 Lts. DOHC Station Wagon 5P. T/A 4x2 Motor Otto,3300,1247,245
+Hyundai,Elantra MD FL 1.6 Lts. DOHC Sedan 4P. T/A Motor Otto,1600,1134,167
+Hyundai,Elantra JK FL 1.6 Lts. DOHC Coupé 2P. T/A Motor Otto,1600,1134,167
+Mazda,Mazda3 2.0 Lts. DOHC Sedan 4P. T/A Motor Otto,2000,1814,155
+Mazda,Mazda3 2.0 Lts. DOHC Hatch Back 5P. T/A Motor Otto,2000,1814,155
+Fiat,Bravo 1.6 Lts. DOHC JTD Hatch Back 5P. T/M Motor Diesel,1600,1474,115
+Porsche,911 Carrera S 3.8 Lts. DOHC Coupé 2P. T/A 4x2 Motor Otto,3800,1701,199
+Porsche,911 Carrera S 3.8 Lts. DOHC Cabriolet 2P. T/A 4x2 Motor Otto,3800,1701,204
+Porsche,911 Carrera 4S 3.8 Lts. DOHC Coupé 2P. T/A 4x4 Motor Otto,3800,1701,207
+Porsche,911 Carrera 4S 3.8 Lts. DOHC Cabriolet 2P. T/A 4x4 Motor Otto,3800,1701,211
+Audi,RS Q3 Quattro Stronic 2.5 Lts. TFSI DOHC Station Wagon 5P. T/A 4x4 Motor CTSA Otto,2500,1474,208
+Mitsubishi,Outlander PHEV 2.0 Lts. DOHC Station Wagon 5P. T/A. Vehículo Híbrido Eléctrico,2000,1474,44
+Mazda,Mazda6 2.5 Lts. DOHC Sedan 4P. T/A Motor Otto,2000,1814,153
+Hyundai,i30 GD 1.6 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1600,1247,152
+Mazda,Mazda3 2.0 Lts. DOHC Hatch Back 5P. T/M Motor Otto,2000,1814,154
+Mazda,Mazda3 2.0 Lts. DOHC Sedan 4P. T/M Motor Otto,2000,1814,154
+Hyundai,Elantra MD FL 1.6 Lts. DOHC Sedan 4P. T/M Motor Otto,1600,1134,158
+Hyundai,Elantra JK FL 1.6 Lts. DOHC Coupé 2P. T/M Motor Otto,1600,1134,158
+Toyota,Camry 2.5 DOHC Sedan 4P. T/A Motor Otto,2500,1247,178
+Nissan,Sentra 1.8 Lts. DOHC Sedan 4P. T/M Motor Otto,1800,1474,155
+Subaru,Forester 2.0 Lts. XT Turbo DOHC Station Wagon 5P. 4x4 T/A (CVT) Motor Otto,2000,1247,197
+Hyundai,Grand i10 BA 1.0 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1000,1247,139
+Hyundai,Santa Fe DM 2.4 Lts. DOHC Station Wagon 5P. T/A AWD Motor Otto,2400,1474,218
+Hyundai,Santa Fe DM 2.4 Lts. DOHC Station Wagon 5P. T/A 4x2 Motor Otto,2400,1474,218
+Hyundai,Santa Fe DM 2.4 Lts. DOHC Station Wagon 5P. T/M AWD Motor Otto,2400,1474,223
+Hyundai,Santa Fe DM 2.4 Lts. DOHC Station Wagon 5P. T/M 4x2 Motor Otto,2400,1474,223
+Mazda,Mazda3 1.6 Lts. DOHC Sedan 4P. T/M Motor Otto,1600,1814,148
+Hyundai,Eón HA 0.8 Lts. DOHC Hatch Back 5P. T/M Motor Otto,800,1134,121
+Volkswagen,Passat TSI 1.8 Lts. Turbo DOHC Sedan 4P. T/A Motor CDAA Otto,1800,1474,168
+Fiat,Linea Active JTD 1.2 Lts. DOHC Sedan 4P. T/M Motor Diesel,1200,1814,129
+Porsche,Macan Turbo 3.6 Lts. DOHC Station Wagon 5P. 4x4 T/A Motor Otto,3600,1814,208
+Brilliance,H330 1.5 Lts. DOHC Sedan 4P. T/M Motor Otto,1500,1247,167
+Brilliance,H320 1.5 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1500,1247,167
+Kia,Quoris 3.8 Lts. DOHC Sedan 4P. T/A Motor Otto,3800,1474,266
+Volkswagen,Tiguan 2.0 Lts. TSI 4Motion DOHC Station Wagon 5P. 4x4 T/A Motor CAWB Otto,2000,1474,243
+Honda,City LX 2.0 Lts. SOHC Sedan 4P. T/M Motor Otto,2000,1474,141
+Hyundai,i30 GD 1.8 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1800,1247,161
+Mini,Cooper D 1.5 Lts. DOHC Hatch Back 3P. T/A Motor Diesel,1500,1644,119
+M. Benz,SLK 200 1.8 Lts. DOHC Roadster 2P. T/A Motor Otto,1800,1474,163
+Mazda,Mazda3 1.6 Lts. DOHC Sedan 4P. T/A Motor Otto,1600,1814,159
+M. Benz,A 200 CDI 2.1 Lts.. DOHC Hatch Back 5P. T/A Motor Diesel,2100,1701,141
+M. Benz,A 220 CDI 2.1 Lts.. DOHC Hatch Back 5P. T/A Motor Diesel,2100,1701,141
+Nissan,Sentra 1.8 Lts. DOHC Sedan 4P. T/A Tipo CVT Motor Otto,1800,1474,154
+Kia,Morning 1.2 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1200,1814,117
+Hyundai,Elantra MD FL 1.8 Lts. DOHC Sedan 4P. T/M Motor Otto,1800,1134,170
+Hyundai,Elantra JK FL 1.8 Lts. DOHC Coupé 2P. T/M Motor Otto,1800,1134,170
+Hyundai,Accent RB 1.4 Lts. DOHC Sedan 4P. T/A Tipo CVT Motor Otto,1400,1474,150
+Hyundai,Accent RB 1.4 Lts. DOHC Hatch Back 5P. T/A Tipo CVT Motor Otto,1400,1474,150
+Great Wall,M4 1.5 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1500,1814,152
+Volkswagen,Sciricco TSI 1.4 Lts. DOHC Hatch Back 3P. T/A Motor CTHD Otto,1400,1474,151
+Volkswagen,Sciricco TSI 1.4 Lts. DOHC Hatch Back 3P. T/M Motor CTHD Otto,1400,1474,157
+Hyundai,i30 GD 1.6 Lts. DOHC Hatch Back 5P. T/A Motor Otto,1600,1247,168
+Hyundai,Veloster FS 1.6 Lts. DOHC Hatch Back 4P. T/M Motor Otto,1600,1474,153
+Chery,Tiggo 5 2.0 Lts. DOHC Station Wagon 5P. T/M Motor Otto,2000,1474,197
+Renault,Koleos 2.0 Lts. DOHC Station Wagon 5P. T/A Tipo CVT Motor Otto,2000,1588,212
+Hyundai,Elantra MD FL 1.8 Lts. DOHC Sedan 4P. T/A Motor Otto,1800,1134,173
+Hyundai,Elantra JK FL 1.8 Lts. DOHC Coupe 2P. T/A Motor Otto,1800,1134,173
+Renault,Megane III 1.6 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1600,1814,158
+Renault,Fluence 1.6 Lts. DOHC Sedan 4P. T/M Motor Otto,1600,1247,158
+Renault,Dokker 1.6 Lts. SOHC Furgón 5P. T/M Motor Otto,1600,1134,178
+Volvo,S80 T5 2.0 Lts. DOHC Sedan 4P. T/A Motor Otto,2000,1474,157
+Mahindra,Quanto C8 2.2 Lts. DOHC Tipo Jeep 5P. T/M 4x4 Motor Diesel,2200,1474,218
+Mahindra,Quanto C8 2.2 Lts. DOHC Tipo Jeep 5P. T/M 4x2 Motor Diesel,2200,1474,218
+Hyundai,Veloster FS 1.6 Lts. DOHC Hatch Back 4P. T/A Motor Otto,1600,1474,165
+Baic,Senova 2.0 Lts. DOHC Turbo Sedan 4P. T/A Motor Otto,2000,1474,262
+Hyundai,Grand i10 BA 1.2 Lts. DOHC Hatch Back 5P. T/A Motor Otto,1200,1247,150
+Hyundai,Grand i10 BA 1.2 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1200,1247,140
+Porsche,Macan R4 2.0 Lts. DOHC Station Wagon 5P. 4x4 T/A Motor Otto,2000,1814,168
+Jaguar,F-Type 5.0 Lts. DOHC Coupe 2P. T/A Motor Otto,5000,1247,259
+Hyundai,i30 GD 1.8 Lts. DOHC Hatch Back 5P. T/A Motor Otto,1800,1247,174
+Porsche,Panamera Turbo 4.8 Lts. DOHC Sedan 4P. 4x4 T/A Motor Otto,4800,1474,248
+Peugeot,RCZ-R 1.6 Lts. THP 270HP DOHC Coupe 2P T/M Motor Otto,1600,1474,150
+Porsche,911 GT3 3.8 Lts. DOHC Coupé 2P. T/A Motor Otto,3800,1701,301
+Suzuki,SX4 1.6 Lts. DOHC Sedan 4P. T/M Motor Otto,1600,1474,160
+Hyundai,Grand i10 BA 1.2 Lts. DOHC Sedan 4P. T/M Motor Otto,1200,1247,137
+Infiniti,QX50 3.7 Lts. DOHC Station Wagon 5P. 4x4 T/A Motor Otto,3700,1474,261
+Volkswagen,Tiguan TSI 4Motion 2.0 Lts. DOHC Station Wagon 5P. T/M 4x4 Motor CCZB Otto,2000,1474,204
+Infiniti,QX70 3.7 Lts. DOHC Station Wagon 5P. 4x4 T/A Motor Otto,3700,1474,281
+Volkswagen,Scirocco 2.0 Lts. DOHC Hatch Back 3P. T/A Motor CCZB Otto,2000,1474,204
+Volkswagen,Scirocco 2.0 Lts. DOHC Hatch Back 3P. T/M Motor CCZB Otto,2000,1474,178
+Honda,City 1.5 Lts. SOHC Sedan 4P. T/A (CVT) Motor Otto,1500,1474,138
+Nissan,Juke Upper Turbo 1.6 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1600,1588,168
+M. Benz,B 180 CDI 1.5 Lts. DOHC Hatch Back 5P. T/A Motor Diesel,1500,1474,133
+Jaguar,F-Type S/C 3.0 Lts. DOHC Coupe 3P. T/A Motor Otto,3000,1247,205
+Jaguar,F-Type S/CS 3.0 Lts. DOHC Coupe 3P. T/A Motor Otto,3000,1247,213
+Volkswagen,Caddy Combi 2.0 Lts. TDI DOHC Sation Wagon 6P. T/M Motor CFHC Diesel,2000,1247,162
+Volkswagen,Caddy 2.0 Lts. TDI DOHC Furgón 5P. T/M Motor CFHC Diesel,2000,1247,162
+Nissan,Juke 1.6 Lts. DOHC Hatch Back 5P. T/A CVT Motor Otto,1600,1588,139
+BMW,X3 xDrive20d 2.0 Lts. DOHC Station Wagon 5P. 4x4 T/A Motor Diesel,2000,1701,131
+BMW,X3 sDrive18d 2.0 Lts. DOHC Station Wagon 5P. 4x2 T/A Motor Diesel,2000,1701,126
+BMW,X4 xDrive20d 2.0 Lts. DOHC Station Wagon 5P. 4x4 T/A Motor Diesel,2000,1701,131
+Nissan,Juke Upper AWD Turbo 1.6 Lts. DOHC Hatch Back 5P. T/A CVT 4x4 Motor Otto,1600,1588,165
+Subaru,WRX STI 2.5 Lts. Turbo DOHC Sedan 4P. T/M 4x4 Motor Otto,2500,1701,242
+Opel,Astra NB 1.4 Lts. Turbo DOHC Sedan 4P. T/A Motor Otto,1400,1474,153
+Opel,Astra NB5 1.4 Lts. Turbo DOHC Hatch Back 5P. T/A Motor Otto,1400,1474,153
+Ford,Ecosport 2.0 Lts. DOHC Station Wagon 5P. T/A Motor Otto,2000,1134,176
+Renault,Duster 2.0 Lts. DOHC Station Wagon 5P. T/M 4x2 Motor Otto,2000,1134,203
+Peugeot,308 2.0 Lts. Bleu-Hdi DOHC 150 hp Hatch Back 5P. T/A Motor Diesel,2000,1701,107
+Renault,Dokker 1.5 Lts. SOHC Furgón 5P. T/M Motor Diesel,1500,1134,128
+DFLM,X3 1.6 Lts. DOHC Sattion Wagon 5P. T/M Motor Otto,1600,1701,160
+Citroen,Jumpy 2.0 Lts. HDI DOHC Minibus 5P. 9 Pasajeros T/M Motor Diesel,2000,1588,175
+Citroen,Jumpy 2.0 Lts. HDI DOHC Minibus 6P. 9 Pasajeros T/M Motor Diesel,2000,1588,175
+Ford,Ecosport 1.6 Lts. DOHC Station Wagon (Tipo SUV) 5P. T/M Motor Otto,1600,1134,175
+Skoda,Rapid Spaceback 1.6 Lts. TDI DOHC Hatch Back 5P. T/A Motor CAYB Diesel,1600,1474,122
+Skoda,Rapid 1.6 Lts. TDI DOHC Sedan 4P. T/A Motor CAYB Diesel,1600,1474,122
+Skoda,Fabia 1.2 Lts. TFS SOHC Hatch Back 5P. T/M Motor CBZA Otto,1200,1247,126
+Skoda,Fabia 1.2 Lts. TDI DOHC Hatch Back 5P. T/M Motor CFWA Diesel,1200,1247,107
+M. Benz,C 200 2.0 Lts. DOHC Sedan 4P. T/A Motor Otto,2000,1474,136
+M. Benz,C 200 Estate 2.0 Lts. DOHC Station Wagon 5P. T/A Motor Otto,2000,1474,138
+M. Benz,C 250 2.0 Lts. DOHC Sedan 4P. T/A Motor Otto,2000,1474,136
+M. Benz,C 250 Estate 2.0 Lts. DOHC Station Wagon 5P. T/A Motor Otto,2000,1474,138
+Nissan,New Qashqai 2.0 Lts. DOHC Sattion Wagon 5P. T/A CVT AWD Motor Otto,2000,1814,169
+Nissan,New Qashqai 2.0 Lts. DOHC Sattion Wagon 5P. T/A CVT 2WD Motor Otto,2000,1814,169
+Baic,UP 1.3 Lts. DOHC Sedan 4P. T/M Motor Otto,1300,1474,153
+Baic,UP 1.3 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1300,1474,153
+Chery,Arrizo 7 1.6 Lts. DOHC Sedan 4P. T/A CVT Motor Otto,1600,1474,188
+Porsche,911 Targa 4S 3.8 Lts. DOHC Cabriolet 2P. T/A Motor Otto,3800,1701,214
+Changan,CS35 1.6 Lts. DOHC Station Wagon 5P. T/A Motor Otto,1600,1134,185
+Ford,Fiesta 1.6 Lts. DOHC Sedan 4P. T/M Motor Otto,1600,1247,153
+Ford,Fiesta 1.6 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1600,1247,153
+Ford,Fiesta Titanium1.6 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1600,1247,153
+Baic,UP 1.5 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1500,1474,159
+Baic,UP 1.5 Lts. DOHC Sedan 4P. T/M Motor Otto,1500,1474,159
+Kia,Sportage 2.0 Lts. DOHC Station Wagon 5P. T/M 4x4 Motor Otto,2000,1474,199
+Kia,Sportage 2.0 Lts. DOHC Station Wagon 5P. T/M 4x2 Motor Otto,2000,1474,199
+Kia,Sportage 2.0 Lts. DOHC Station Wagon 5P. T/A 4x4 Motor Otto,2000,1474,204
+Kia,Sportage 2.0 Lts. DOHC Station Wagon 5P. T/A 4x2 Motor Otto,2000,1474,204
+Porsche,Panamera V6 3.6 Lts. DOHC Sedan 4P. T/A Motor Otto,3600,1474,198
+Skoda,Rapid Spaceback 1.6 Lts. TDI DOHC Hatch Back 5P. T/M Motor CAYB Diesel,1600,1474,121
+Skoda,Rapid 1.6 Lts. TDI DOHC Sedan 4P. T/M Motor CAYB Diesel,1600,1474,121
+Opel,Astra HB 5 1.4 Lts. Turbo DOHC Hatch Back 5P. T/M Motor Otto,1400,1474,145
+Opel,Astra NB 5 1.4 Lts. Turbo DOHC Sedan 4P. T/M Motor Otto,1400,1474,147
+Honda,Fit 1.5 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1500,1247,150
+BMW,M4 3.0 Lts. DOHC Coupé 2P. T/A Motor Otto,3000,1814,194
+BMW,M4 3.0 Lts. DOHC Cabriolet 2P. T/A Motor Otto,3000,1814,203
+BMW,M4 3.0 Lts. DOHC Sedan 4P. T/A Motor Otto,3000,1814,194
+Porsche,Boxster S 3.4 Lts. DOHC Cabriolet 2P T/A Motor Otto,3400,1474,195
+Kia,Morning 1.2 Lts. DOHC Hatch Back 5P. T/A Motor Otto,1200,1814,134
+Suzuki,SX4 S-Cross 1.6 Lts. DOHC Hatch Back 5P. T/M 4WD Motor Otto,1600,1474,153
+Suzuki,SX4 S-Cross 1.6 Lts. DOHC Hatch Back 5P. T/M 4x2 Motor Otto,1600,1474,153
+Honda,Fit 1.5 Lts. DOHC Hatch Back 5P. T/A Tipo CVT Motor Otto,1500,1247,140
+DFLM,LZ6510MQ20MN M5 2.0 Lts.. SOHC 11 Asientos 4P. T/M Motor Otto,2000,1814,238
+DFLM,LZ6510MQ20MN M5 Cargo 2.0 Lts.. SOHC Furgón 5P. T/M Motor Otto,2000,1814,238
+Geely,GC7 1.5 Lts. DOHC Sedan 4P. T/M Motor Otto,1500,1247,170
+Renault,Duster 2.0 Lts. DOHC Station Wagon 5P. T/M 4x4 Motor Otto,2000,1134,225
+Nissan,New Qashqai 2.0 Lts. DOHC Station Wagon 5P. T/M Motor Otto,2000,1814,179
+Fiat,500 Abarth T-Jet 1.4 Lts. DOHC Cabriolet 2P. T/A Motor Otto,1400,1701,154
+Opel,Insignia 1.6T Lts.. DOHC Sedán 4P. T/A Motor Otto,1600,1588,159
+Faw,Oley 1.5 Lts.. DOHC Sedan 4P. T/M Motor Otto,1500,1814,170
+Faw,Oley 1.5 Lts.. DOHC Hatch Back 5P. T/M Motor Otto,1500,1814,170
+DFLM,Joyear LV/LZ6430BQBE 1.6 Lts. DOHC Station Wagon 5P. T/M Motor Otto,1600,1588,172
+Toyota,FJ Cruiser 4.0 Lts. DOHC Station Wagon 5P. T/A 4x4 Motor Otto,4000,1247,295
+Toyota,FJ Cruiser 4.0 Lts. DOHC Tipo Jeep 5P. T/A 4x4 Motor Otto,4000,1247,295
+Volvo,S60 T5 R-Desing S.S. 2.0 Lts. DOHC Sedan 4P. T/A Motor Otto,2000,1474,184
+Mazda,Mazda2 1.5 Lts. DOHC Hatch Back 5P. T/M Motor Otto,1500,1814,161
+Mazda,Mazda5 2.0 Lts. DOHC Station Wagon 5P. T/A Motor Otto,1500,1814,195
+Mazda,Mazda2 1.5 Lts. DOHC Hatch Back 5P. T/A Motor Otto,1500,1814,173
+Mazda,Mazda5 2.0 Lts. DOHC Station Wagon 5P. T/M Motor Otto,1500,1814,205
+Faw,X80 2.0 Lts. DOHC Station Wagon 5P. T/M Motor Otto,2000,1701,200
+Faw,X80 2.0 Lts. DOHC Station Wagon 5P. T/A Motor Otto,2000,1701,205
+Fiat,500 Abarth 595 Competizione T-Jet 1.4 Lts. DOHC Hatch Back 3P. T/M Motor Otto,1400,1701,155
+Opel,Adam 1.4 Lts. DOHC Hatch Back 3P. T/M Motor Otto,1400,1474,129
+Porsche,Boxster GTS 3.4 Lts. DOHC Cabriolet 2P T/A Motor Otto,3400,1474,195
+BMW,X4 xDrive35i 3.0 Lts. DOHC Station Wagon 5P. 4x4 T/A Motor Otto,3000,1701,193
