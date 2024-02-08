@@ -1,0 +1,195 @@
+﻿ID Empleado;Nombre Empleado;Estado;Pais;Nacimiento;Género;Departamento;Cargo;Nombre Jefe
+1102024149;Spirea, Kelley;California   ;    Estados Unidos;28-09-80;Female;1;2;Elijiah Gray
+1001109612;Darson, Jene'ya;California   ;    Estados Unidos;10-05-83;Female;1;2;Elijiah Gray
+1000974650;Stanley, David;Texas   ;    Estados Unidos;16-12-75;Male;1;6;Debra Houlihan
+1206043417;Quinn, Sean;Massachusetts   ;    Estados Unidos;10-06-69;Male;1;6;Janet King
+1307060188;Boutwell, Bonalyn;California   ;    Estados Unidos;02-04-72;Female;1;6;Elijiah Gray
+1011022932;Hendrickson, Trina;California   ;    Estados Unidos;26-08-77;Female;1;2;Elijiah Gray
+1101023619;Wallace, Theresa;California   ;    Estados Unidos;06-02-85;Female;1;2;Elijiah Gray
+1107027575;LeBel, Jonathan R.;California   ;    Estados Unidos;17-10-86;Male;1;2;Elijiah Gray
+1102024115;LeBlanc, Brandon;Massachusetts   ;    Estados Unidos;05-10-69;Male;1;6;Janet King
+1105026041;Gaul, Barbara;California   ;    Estados Unidos;11-02-68;Female;1;2;Elijiah Gray
+1102024121;Motlagh, Dawn;California   ;    Estados Unidos;06-07-89;Female;1;2;Elijiah Gray
+1302053333;Steans, Tyrone;California   ;    Estados Unidos;08-01-71;Male;1;2;Elijiah Gray
+1302053362;Sander, Kamrin;California   ;    Estados Unidos;06-10-93;Female;1;1;Elijiah Gray
+1405067565;Linden, Mathew;California   ;    Estados Unidos;17-03-84;Male;1;1;Elijiah Gray
+1106026579;Gordon, David;Texas   ;    Estados Unidos;19-05-84;Male;1;2;David Stanley
+1107027450;Jung, Judy;California   ;    Estados Unidos;16-04-91;Female;1;1;Elijiah Gray
+1408069481;Dietrich, Jenna;California   ;    Estados Unidos;12-05-92;Female;1;1;Elijiah Gray
+1011022818;Walker, Roger;California   ;    Estados Unidos;01-10-81;Male;1;1;Elijiah Gray
+1201031308;Foster-Baker, Amy;Texas   ;    Estados Unidos;15-04-74;Female;1;6;David Stanley
+1001944783;Hogland, Jonathan;Massachusetts   ;    Estados Unidos;05-01-77;Male;1;2;Brandon R. LeBlanc
+1405067298;Sullivan, Kissy;Massachusetts   ;    Estados Unidos;27-03-83;Female;1;2;Brandon R. LeBlanc
+1103024456;Brown, Mia;Massachusetts   ;    Estados Unidos;23-11-90;Female;1;2;Brandon R. LeBlanc
+1307059817;Singh, Nan;Massachusetts   ;    Estados Unidos;18-05-93;Female;1;1;Brandon R. LeBlanc
+1111030684;Nguyen, Dheepa;Massachusetts   ;    Estados Unidos;30-03-94;Female;1;1;Brandon R. LeBlanc
+1409070147;Dunn, Amy;Texas   ;    Estados Unidos;27-11-78;Female;1;6;Debra Houlihan
+1499902991;Robertson, Peter;Massachusetts   ;    Estados Unidos;06-03-77;Male;1;1;Brandon R. LeBlanc
+812011761;Ozark, Travis;Massachusetts   ;    Estados Unidos;18-05-87;Male;1;1;Brandon R. LeBlanc
+1101023457;Buccheri, Joseph;Massachusetts   ;    Estados Unidos;26-07-68;Male;1;1;Brandon R. LeBlanc
+711007713;Smith, Leigh Ann;Massachusetts   ;    Estados Unidos;12-06-72;Female;1;1;Brandon R. LeBlanc
+1304055947;Anderson, Linda;Texas   ;    Estados Unidos;21-05-82;Female;1;2;David Stanley
+1106026572;LaRotonda, William;Texas   ;    Estados Unidos;25-04-69;Male;1;2;David Stanley
+1209049326;McKinzie, Jac;Texas   ;    Estados Unidos;05-01-69;Male;1;1;David Stanley
+1412071660;Leruth, Giovanni;Texas   ;    Estados Unidos;26-12-93;Male;1;1;David Stanley
+1312063714;Valentin, Jackie;Texas   ;    Estados Unidos;21-05-96;Female;1;1;David Stanley
+1211050782;Howard, Estelle;Texas   ;    Estados Unidos;15-09-70;Female;1;1;David Stanley
+1001495124;King, Janet;Massachusetts   ;    Estados Unidos;20-09-59;Female;2;3;Board of Directors
+1112030816;Zamora, Jennifer;California   ;    Estados Unidos;29-08-54;Female;2;3;Board of Directors
+1403065721;Carter, Michelle;California   ;    Estados Unidos;13-05-68;Female;2;3;Board of Directors
+1209048771;Martins, Joseph;Texas   ;    Estados Unidos;05-11-55;Male;2;3;Board of Directors
+1009021646;Houlihan, Debra;Texas   ;    Estados Unidos;16-03-61;Female;2;3;Board of Directors
+1499902910;Smith, John;Massachusetts   ;    Estados Unidos;15-08-69;Male;2;3;Board of Directors
+1306059197;Digitale, Alfred;California   ;    Estados Unidos;13-09-73;Male;2;3;Board of Directors
+1192991000;Foss, Jason;California   ;    Estados Unidos;06-05-55;Male;3;3;Jennifer Zamora
+1101023754;Dougall, Eric;California   ;    Estados Unidos;06-09-65;Male;3;6;Jennifer Zamora
+1106026933;Roup, Simon;Massachusetts   ;    Estados Unidos;02-05-68;Male;3;6;Janet King
+1001175250;Ruiz, Ricardo;California   ;    Estados Unidos;31-03-69;Male;3;6;Jennifer Zamora
+1307060199;Ait Sidi, Karthikeyan;Massachusetts   ;    Estados Unidos;03-05-80;Male;3;5;Simon Roup
+1010022337;Carr, Claudia;Massachusetts   ;    Estados Unidos;05-06-91;Female;3;5;Simon Roup
+1111030266;Roehrich, Bianca;Massachusetts   ;    Estados Unidos;26-05-78;Female;3;5;Simon Roup
+1412071562;Favis, Donald;California   ;    Estados Unidos;29-07-69;Male;3;5;Simon Roup
+1011022863;Monroe, Peter;Texas   ;    Estados Unidos;09-05-61;Male;3;6;Debra Houlihan
+1108028108;Lajiri, Jyoti;Texas   ;    Estados Unidos;22-04-91;Male;3;5;Peter Monroe
+1301052347;Warfield, Sarah;Texas   ;    Estados Unidos;04-02-83;Female;3;5;Peter Monroe
+1411071312;Daniele, Ann;Texas   ;    Estados Unidos;16-01-57;Female;3;5;Peter Monroe
+904013591;Semizoglou, Jeremiah;Texas   ;    Estados Unidos;31-08-88;Male;3;5;Peter Monroe
+1308060959;South, Joe;Texas   ;    Estados Unidos;08-09-70;Male;3;5;Peter Monroe
+905013738;Goble, Taisha;Massachusetts   ;    Estados Unidos;21-10-76;Female;3;4;Simon Roup
+1411071506;Turpin, Jumil;Texas   ;    Estados Unidos;30-03-74;Male;3;4;Peter Monroe
+1111030148;Salter, Jason;Massachusetts   ;    Estados Unidos;15-12-92;Male;3;4;Simon Roup
+1102024056;Becker, Renee;Massachusetts   ;    Estados Unidos;03-04-91;Female;3;4;Simon Roup
+906014183;Shepard, Anita;Texas   ;    Estados Unidos;13-04-86;Female;3;4;Peter Monroe
+1108027853;Petrowsky, Thelma;Massachusetts   ;    Estados Unidos;15-09-89;Female;3;4;Simon Roup
+1203032255;Rogers, Ivan;Massachusetts   ;    Estados Unidos;25-08-91;Male;3;4;Simon Roup
+1212052023;Bacong, Alejandro;Texas   ;    Estados Unidos;30-06-93;Male;3;4;Peter Monroe
+1102023965;Pearson, Randall;Massachusetts   ;    Estados Unidos;08-05-89;Male;3;4;Simon Roup
+1410071156;Hernandez, Daniff;Massachusetts   ;    Estados Unidos;07-07-91;Male;3;4;Simon Roup
+1003018246;Johnson, Noelle;Massachusetts   ;    Estados Unidos;10-07-91;Female;3;4;Simon Roup
+1407068885;Roby, Lori;Massachusetts   ;    Estados Unidos;09-11-86;Female;3;4;Simon Roup
+1012023013;Merlos, Carlos;Texas   ;    Estados Unidos;16-06-92;Male;3;4;Peter Monroe
+1105025718;Horton, Jayne;Massachusetts   ;    Estados Unidos;19-02-89;Female;3;4;Simon Roup
+1102024173;Cisco, Anthony;Texas   ;    Estados Unidos;23-11-94;Male;3;4;Peter Monroe
+1110029732;Zhou, Julia;Massachusetts   ;    Estados Unidos;23-02-84;Female;3;4;Simon Roup
+1501072093;Galia, Lisa;California   ;    Estados Unidos;06-06-73;Female;3;4;Eric Dougall
+808010278;Simard, Kramer;Massachusetts   ;    Estados Unidos;01-08-75;Male;3;4;Simon Roup
+1301052902;Clayton, Rick;California   ;    Estados Unidos;08-05-90;Male;3;4;Eric Dougall
+1988299991;Gonzalez, Maria;Texas   ;    Estados Unidos;15-04-86;Female;3;4;Peter Monroe
+1203032263;Soto, Julia;California   ;    Estados Unidos;02-12-78;Female;3;4;Eric Dougall
+602000312;Lindsay, Leonara;California   ;    Estados Unidos;09-05-93;Female;3;4;Eric Dougall
+1101023540;Dolan, Linda;Texas   ;    Estados Unidos;17-07-93;Female;3;4;Peter Monroe
+1406068403;Murray, Thomas;Texas   ;    Estados Unidos;06-04-93;Male;3;4;Simon Roup
+1104025466;Tredinnick, Neville;Texas   ;    Estados Unidos;04-05-93;Male;3;4;Peter Monroe
+1001956578;Morway, Tanya;Texas   ;    Estados Unidos;02-04-84;Female;3;4;Peter Monroe
+1103024679;Liebig, Ketsia;California   ;    Estados Unidos;25-10-86;Female;4;6;Jennifer Zamora
+1307060077;Gray, Elijiah;California   ;    Estados Unidos;06-11-86;Male;4;6;Jennifer Zamora
+1104025179;Demita, Carla;California   ;    Estados Unidos;24-02-56;Female;4;8;Kelley Spirea
+1006020066;Bramante, Elisa;Massachusetts   ;    Estados Unidos;18-03-58;Female;4;3;Janet King
+1303054329;Beak, Kimberly;California   ;    Estados Unidos;16-04-71;Female;4;8;Kelley Spirea
+1308060622;Gerke, Melisa;California   ;    Estados Unidos;14-05-75;Female;4;8;Elijiah Gray
+1407069061;Sutwell, Barbara;California   ;    Estados Unidos;14-08-73;Female;4;8;Elijiah Gray
+1301052449;Burkett, Benjamin;California   ;    Estados Unidos;18-08-82;Male;4;8;Kelley Spirea
+1403066194;Beatrice, Courtney;California   ;    Estados Unidos;26-10-75;Female;4;8;Elijiah Gray
+1109029531;Panjwani, Nina;California   ;    Estados Unidos;04-01-64;Female;4;8;Elijiah Gray
+1411071406;Peters, Lauren;California   ;    Estados Unidos;16-08-71;Female;4;8;Kelley Spirea
+1107027351;Miller, Brannon;Texas   ;    Estados Unidos;07-10-86;Male;4;6;Debra Houlihan
+1106026462;Sahoo, Adil;California   ;    Estados Unidos;25-04-71;Male;4;8;Kelley Spirea
+1106026896;Stoica, Rick;California   ;    Estados Unidos;13-03-90;Male;4;7;Kelley Spirea
+1406068241;Harrell, Ludwick;California   ;    Estados Unidos;08-02-87;Male;4;7;Elijiah Gray
+1011022883;Alagbe, Trina;California   ;    Estados Unidos;26-09-93;Female;4;7;Elijiah Gray
+1011022814;Volk, Colleen;California   ;    Estados Unidos;05-03-91;Female;4;7;Kelley Spirea
+1211050793;Rhoads, Thomas;California   ;    Estados Unidos;21-07-87;Male;4;7;Elijiah Gray
+1311063114;Carey, Michael;California   ;    Estados Unidos;01-02-88;Male;4;7;Kelley Spirea
+1411071212;Gonzalez, Cayo;Texas   ;    Estados Unidos;28-09-74;Male;4;8;Brannon Miller
+1107027392;Evensen, April;California   ;    Estados Unidos;04-06-94;Female;4;7;Elijiah Gray
+1402065355;Peterson, Ebonee;Massachusetts   ;    Estados Unidos;04-09-82;Female;4;6;Janet King
+1410071026;Wallace, Courtney;Massachusetts   ;    Estados Unidos;12-11-60;Female;4;6;Janet King
+1403065874;Immediato, Walter;Massachusetts   ;    Estados Unidos;14-11-81;Male;4;6;Janet King
+1303054580;Bozzi, Charles;Massachusetts   ;    Estados Unidos;02-10-75;Male;4;6;Janet King
+1110029990;Butler, Webster;Massachusetts   ;    Estados Unidos;06-09-68;Male;4;6;Janet King
+1501072311;Albert, Michael;Massachusetts   ;    Estados Unidos;09-10-73;Male;4;6;Janet King
+1001856521;Oliver, Brooke;Massachusetts   ;    Estados Unidos;01-11-57;Female;4;8;Webster Butler
+1301052436;Moumanil, Maliki;Massachusetts   ;    Estados Unidos;11-01-79;Male;4;8;Michael Albert
+1110029623;Manchester, Robyn;Massachusetts   ;    Estados Unidos;24-08-81;Female;4;8;Webster Butler
+1403066125;Blount, Dianna;Massachusetts   ;    Estados Unidos;20-09-75;Female;4;8;Michael Albert
+1108028351;Gosciminski, Phylicia;Massachusetts   ;    Estados Unidos;10-08-68;Female;4;8;Kissy Sullivan
+1103024924;Hutter, Rosalie;Massachusetts   ;    Estados Unidos;04-07-77;Female;4;8;Webster Butler
+1206038000;Robinson, Alain;Texas   ;    Estados Unidos;30-06-79;Male;4;8;Amy Dunn
+1104025486;Latif, Mohammed;Massachusetts   ;    Estados Unidos;04-09-69;Male;4;8;Kissy Sullivan
+1012023010;Woodson, Jason;Massachusetts   ;    Estados Unidos;04-11-70;Male;4;8;Kissy Sullivan
+1012023103;Sloan, Constance;Massachusetts   ;    Estados Unidos;23-11-92;Female;4;7;Michael Albert
+903013071;Kirill, Alexandra;Texas   ;    Estados Unidos;09-08-75;Female;4;8;Amy Dunn
+1404066739;Theamstern, Sophia;Texas   ;    Estados Unidos;04-09-70;Female;4;8;Amy Dunn
+1409070255;Tippett, Jeanette;Texas   ;    Estados Unidos;04-05-72;Female;4;8;Brannon Miller
+1101023839;Wilber, Barry;Texas   ;    Estados Unidos;08-09-70;Male;4;8;Amy Dunn
+1501072124;Desimone, Carl;Texas   ;    Estados Unidos;17-04-72;Male;4;8;Amy Dunn
+1201031032;MacLennan, Samuel;Texas   ;    Estados Unidos;10-09-77;Male;4;8;Amy Dunn
+1006020020;Fidelia, Libby;Texas   ;    Estados Unidos;15-03-66;Female;4;8;Brannon Miller
+1407069280;Clukey, Elijian;Texas   ;    Estados Unidos;25-08-85;Male;4;8;Brannon Miller
+1404066622;Harrison, Kara;Texas   ;    Estados Unidos;04-02-79;Female;4;8;Amy Dunn
+1308060754;Mangal, Debbie;Texas   ;    Estados Unidos;10-07-79;Female;4;8;Brannon Miller
+1405067138;Squatrito, Kristen;Texas   ;    Estados Unidos;25-03-78;Female;4;8;Amy Dunn
+1201031438;Jackson, Maryellen;Texas   ;    Estados Unidos;08-11-77;Female;4;8;Amy Dunn
+1204033040;Ndzi, Horia;Texas   ;    Estados Unidos;26-03-88;Male;4;7;Amy Dunn
+1109029186;Perry, Shakira;Texas   ;    Estados Unidos;19-07-91;Female;4;7;Amy Dunn
+1212051409;Bachiochi, Linda;Texas   ;    Estados Unidos;01-11-95;Female;4;7;Brannon Miller
+1209048696;DiNocco, Lily;Texas   ;    Estados Unidos;11-02-94;Female;4;7;Brannon Miller
+1001268402;Ybarra, Catherine;Texas   ;    Estados Unidos;04-04-87;Female;4;7;Brannon Miller
+1401064327;Maurice, Shana;Texas   ;    Estados Unidos;21-11-82;Female;4;8;Amy Dunn
+710007555;Rose, Ashley;Texas   ;    Estados Unidos;11-05-79;Female;4;8;Brannon Miller
+1012023152;Trang, Mei;Texas   ;    Estados Unidos;14-05-88;Female;4;7;Brannon Miller
+1101023394;Chivukula, Enola;Texas   ;    Estados Unidos;25-08-88;Female;4;7;Amy Dunn
+1311062610;Kretschmer, John;Texas   ;    Estados Unidos;01-02-95;Male;4;7;Brannon Miller
+1406068293;Brill, Donna;Texas   ;    Estados Unidos;23-08-95;Female;4;7;Brannon Miller
+1203032357;Nguyen, Lei-Ming;Texas   ;    Estados Unidos;06-07-89;Female;4;7;Brannon Miller
+1309061015;Garcia, Raul;Texas   ;    Estados Unidos;14-09-90;Male;4;7;Brannon Miller
+1302053339;Fernandes, Nilson;Texas   ;    Estados Unidos;17-10-94;Male;4;7;Amy Dunn
+1305057440;Pham, Hong;Texas   ;    Estados Unidos;02-06-93;Male;4;7;Brannon Miller
+1011022887;Robinson, Elias;Texas   ;    Estados Unidos;27-01-90;Male;4;7;Brannon Miller
+1304055987;Langton, Enrico;Texas   ;    Estados Unidos;11-09-91;Male;4;7;Brannon Miller
+1001735072;Wilson, Brad;Texas   ;    Estados Unidos;21-11-96;Male;4;7;Amy Dunn
+1202031618;Dobrin, Denisa;Texas   ;    Estados Unidos;09-07-91;Female;4;7;Amy Dunn
+1204032927;Girifalco, Evelyn;Texas   ;    Estados Unidos;04-08-95;Female;4;7;Amy Dunn
+1308060366;Billis, Helen;Texas   ;    Estados Unidos;08-01-94;Female;4;7;Brannon Miller
+1408069882;Ivey, Rose;Texas   ;    Estados Unidos;27-01-96;Female;4;7;Brannon Miller
+1205033102;Shields, Seffi;Texas   ;    Estados Unidos;23-08-90;Female;4;7;Amy Dunn
+1211051232;Zima, Colleen;Texas   ;    Estados Unidos;16-08-97;Female;4;7;Amy Dunn
+1411071302;Fraval, Maruk;California   ;    Estados Unidos;26-08-68;Male;5;3;Jennifer Zamora
+1409070567;Costa, Latia;California   ;    Estados Unidos;10-08-73;Female;5;3;Jennifer Zamora
+1111030503;Villanueva, Noah;Massachusetts   ;    Estados Unidos;06-11-74;Male;5;3;Janet King
+1501072180;Onque, Jasmine;Florida   ;    Estados Unidos;04-11-55;Female;5;5;Lynn Daneault
+1411071481;Gonzales, Ricardo;Idaho   ;    Estados Unidos;09-12-59;Male;5;5;John Smith
+1306057978;Mullaney, Howard;Texas   ;    Estados Unidos;10-02-80;Male;5;5;John Smith
+1204032843;Friedman, Gerry;Nueva York   ;    Estados Unidos;23-02-74;Male;5;5;John Smith
+1504073313;Buck, Edward;Massachusetts   ;    Estados Unidos;05-07-80;Male;5;5;Lynn Daneault
+1109029264;Kampew, Donysha;Pennsylvania   ;    Estados Unidos;09-11-64;Female;5;5;John Smith
+1001167253;Guilianno, Mike;Tennessee   ;    Estados Unidos;01-09-74;Male;5;5;John Smith
+1401064637;Terry, Sharlene;Oregon   ;    Estados Unidos;04-07-70;Female;5;5;Lynn Daneault
+1001084890;Prater, Jeremy;Nevada   ;    Estados Unidos;04-09-79;Male;5;5;Lynn Daneault
+1302053046;Gill, Whitney;Ohio   ;    Estados Unidos;06-10-86;Female;5;5;John Smith
+1504073368;Bunbury, Jessica;Virginia   ;    Estados Unidos;04-01-69;Female;5;5;John Smith
+1502072711;Riordan, Michael;North Dakota   ;    Estados Unidos;13-01-73;Male;5;4;Lynn Daneault
+1104025008;Khemmich, Bartholemew;Colorado   ;    Estados Unidos;25-11-84;Male;5;4;Lynn Daneault
+1411071295;Strong, Caitrin;Montana   ;    Estados Unidos;04-12-87;Female;5;4;John Smith
+1203032099;Givens, Myriam;Indiana   ;    Estados Unidos;20-09-88;Female;5;4;Lynn Daneault
+1402065303;Daneault, Lynn;California   ;    Estados Unidos;18-04-85;Female;5;4;John Smith
+1102024106;Potts, Xana;Texas   ;    Estados Unidos;28-08-83;Female;5;4;Lynn Daneault
+1203032498;Del Bosque, Keyla;California   ;    Estados Unidos;05-05-84;Female;6;5;Alex Sweetwater
+1303054625;Martin, Sandra;California   ;    Estados Unidos;09-07-92;Female;6;5;Alex Sweetwater
+1101023577;Carabbio, Judith;Texas   ;    Estados Unidos;02-05-92;Female;6;5;Alex Sweetwater
+1112030979;Patronick, Luke;Massachusetts   ;    Estados Unidos;19-02-84;Male;6;5;Alex Sweetwater
+1404066949;Osturnka, Adeel;California   ;    Estados Unidos;11-11-81;Male;6;5;Alex Sweetwater
+1403066020;Ngodup, Shari ;Texas   ;    Estados Unidos;04-03-72;Female;6;5;Alex Sweetwater
+1101023353;Lydon, Allison;California   ;    Estados Unidos;20-10-80;Female;6;4;Alex Sweetwater
+1201031324;Szabo, Andrew;Massachusetts   ;    Estados Unidos;03-06-88;Male;6;5;Alex Sweetwater
+1012023185;Saada, Adell;Texas   ;    Estados Unidos;23-07-91;Female;6;5;Alex Sweetwater
+1107027358;Andreola, Colby;California   ;    Estados Unidos;22-05-84;Female;6;5;Alex Sweetwater
+1401064670;Exantus, Susan;Texas   ;    Estados Unidos;13-05-92;Female;6;5;Alex Sweetwater
+1305057282;Chan, Lin;California   ;    Estados Unidos;30-11-84;Female;6;4;Alex Sweetwater
+1410070998;Saar-Beckles, Melinda;California   ;    Estados Unidos;05-06-73;Female;6;4;Alex Sweetwater
+1102024057;True, Edward;Massachusetts   ;    Estados Unidos;12-06-88;Male;6;5;Alex Sweetwater
+1307060083;Baczenski, Rachael;Texas   ;    Estados Unidos;30-11-79;Female;6;4;Alex Sweetwater
+1109029366;Bernstein, Sean;Texas   ;    Estados Unidos;21-12-75;Male;6;4;Alex Sweetwater
+1410071137;Sparks, Taylor;Texas   ;    Estados Unidos;19-07-73;Female;6;4;Alex Sweetwater
+1599991009;Cockel, James;Texas   ;    Estados Unidos;08-08-82;Male;6;4;Alex Sweetwater
+1001644719;Sweetwater, Alex;Massachusetts   ;    Estados Unidos;21-11-61;Male;6;6;Janet King

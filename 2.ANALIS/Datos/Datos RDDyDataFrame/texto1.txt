@@ -1,0 +1,23 @@
+Para que podemos usar el Big Data?
+Big Data es el enorme volumen de datos estructurados y no estructurados 
+con los que las empresas entran en contacto diariamente. 
+Las empresas de nuestro alrededor usan 
+Big Data 
+de muchas maneras. 
+Pero antes de entrar en la cuestion de para que se puede utilizar Big Data, 
+hablemos sobre qué es 
+Big Data
+Segun la multinacional Oracle, Big Data tiene 
+"cuatro V": volumen, velocidad, variedad y valor:
+Volumen es la gran cantidad de datos que se reciben.
+Velocidad es la rapidez en la que una empresa puede actuar sobre la gran 
+cantidad de datos que recibe.
+Variedad son los tipos de datos que se reciben. Estan los datos estructurados
+o no estructurados? ¿Es sonido? Vídeo? ¿Los datos de una fuente determinada estan cambiando? 
+Esto afectara la forma de usar los datos de manera efectiva.
+Y por ultimo, el valor intrinseco de los datos. 
+Esto puede derivarse a traves de varios metodos.
+Estas son algunas formas de capitalizar el valor de Big Data en diferentes industrias.
+valor
+metodos
+Big Data 

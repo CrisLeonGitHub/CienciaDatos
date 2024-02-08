@@ -1,0 +1,30 @@
+Prediccion de la delincuencia
+El 
+Big Data
+se utiliza para la prediccion del delito y la mejora
+de los servicios de seguridad en todo el mundo. Cada vez mas organismos
+encargados de hacer cumplir la ley utilizan software con analisis predictivos
+basados? en algoritmos para predecir delitos antes de que ocurran. 
+Los delincuentes siguen patrones, y mediante el uso del mismo tipo de tecnologia
+utilizada para predecir el comportamiento del consumidor, la policia puede prevenir el delito.
+Un ejemplo de esto es el programa CRUSH que se usa en Tennessee. 
+El programa de Reduccion criminal mediante historiales estadisticos (CRUSH, por sus siglas en ingles)
+se dirige a ciertas areas de forma que permite a la policia desplegarse de la forma mas eficiente posible.
+El sistema, creado por IBM, evalua patrones de incidentes pasados? y luego combina datos de una variedad 
+de fuentes como informes de crimenes, informes de inteligencia, perfiles de delincuentes y, a veces, 
+pronosticos meteorologicos para identificar puntos de conflicto y permitir a la policia enviar fuerzas cuando
+y donde están a punto de ocurrir delitos concretos.
+En el Reino Unido, el Ministerio de Justicia adopto una tecnologia que utiliza analisis predictivos para 
+evaluar la probabilidad de que un delincuente reincida segun circunstancias como el alojamiento,
+la educación, el estado civil, los patrones de gestion financiera, la estabilidad emocional, el abuso de sustancias,
+etc. los datos se tienen en cuenta cuando llega el momento de reintroducirse en la sociedad. 
+A ciertos ex delincuentes se les puede otorgar mas tiempo de libertad condicional o mantenerlos en una lista de
+vigilancia.
+Bismart ha creado una herramienta de prediccion de la delincuencia que aprovecha los registros de ordenadores
+para predecir los niveles de criminalidad. Tambien permite a las agencias de aplicacion de la ley planificar mejor
+como desplegar sus recursos limitados. Tambien ofrecemos una herramienta de prediccion de prevencion de accidentes 
+de trafico para ayudar a reducir la cantidad de accidentes y muertes.
+valor
+metodos
+Big Data 
+

@@ -1,0 +1,21 @@
+Aseguradoras
+El Big Data afectara a la prima de tu poliza de seguro. 
+Las companias de seguros deben establecer el precio de las primas para asegurar las ganancias
+cubriendo sus riesgos sin salirse del presupuesto del cliente. 
+Por lo tanto, el uso de Big Data para medir con precision un grupo de riesgo potencial de los
+clientes permite a las companias de seguros determinar la tasa perfecta.
+En la industria de seguros de automoviles, los conductores jovenes hombres con coches lujosos
+tradicionalmente pagaban las primas mas altas. Sin embargo, muchas aseguradoras ahora ofrecen 
+planes en los que la informacion de conducción real se retroalimenta en su sistema a un nivel
+personalizado y altamente preciso. Esto les permite desarrollar un perfil de riesgo preciso para
+un cliente individual. La comparacion de los datos de comportamiento de un cliente con los de clientes
+similares tambien permitio a las aseguradoras determinar el riesgo de que un conductor tenga un accidente
+o que le roben el automovil.
+En el seguro medico, el uso mas recreativo de Big Data se vuelve importante. 
+Usando datos transmitidos desde un Fitbit como el Apple Watch o Garmin, 
+las empresas pueden evaluar el nivel de actividad de un cliente. 
+A partir de esto, pueden sacar conclusiones sobre su estado fisico e incluso predecir la probabilidad
+de enfermedad o lesion. Algunas companias de seguros ofrecen incentivos a los clientes, 
+como reducir sus primas si se comprometen a usar un Fitbit y compartir su actividad y sus 
+habitos de sueno con la compania.
+
