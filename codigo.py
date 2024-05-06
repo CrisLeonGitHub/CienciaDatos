@@ -4,7 +4,7 @@ print("Hola "+ nombre)
 print("hola mnsd")
 
 a = 10
-b=2
+b=20
 c = a*b
 print("valor es :", c)
 
